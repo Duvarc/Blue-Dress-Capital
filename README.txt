@@ -1,0 +1,1 @@
+Weighted change = sum of [stock_i percent weekly change * percentage holdings of stock_i from beginning of week] for all stock_i in portfolio
