@@ -4,7 +4,7 @@ import scipy.special
 
 # Lists correspond to each week. Index 0 = week 1, etc.
 stocks_history = {'KLAC': [96, 93, 92, 97], 'LRCX': [149, 142, 139, 154], 'ADI': [77, 76, 75, 80], 'ACN': [100, 80, 70, 110]}
-deposit_history = {'hw': [500, 500, 500, 0], 'suhas': [1000, 500, 100, 0], 'ralles': [1500, 2000, 1000, 0]}
+deposit_history = {'hw': [1000, 0, 0, 0], 'suhas': [1000, 500, 100, 0], 'ralles': [1500, 2000, 1000, 0]}
 purchase_history = []
 cash_history = []
 
@@ -96,7 +96,6 @@ def calculate_profits():
 		# final = portfolio_norm(i+1)
 		curr = portfolio_norm(i)
 		diff = (final - curr) / 1
-		print(diff)
 		for member in profits:
 			profits[member] += diff * (get_deposit(member, i) / sum_deposits(i))
 		whole = sum(profits.values())
@@ -116,7 +115,7 @@ def run():
 		invest(get_cash(), week)
 		update_portfolio_history(bdc_portfolio)
 	back_calculate(deposits)
-	print(portfolio_history_normalized)
+	# print(portfolio_history_normalized)
 	calculate_profits()
 
 
