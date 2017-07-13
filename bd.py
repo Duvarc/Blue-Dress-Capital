@@ -3,8 +3,8 @@ import scipy.integrate
 import scipy.special
 
 # Lists correspond to each week. Index 0 = week 1, etc.
-stocks_history = {'KLAC': [96, 93, 92, 10], 'LRCX': [149, 142, 139, 154], 'ADI': [77, 76, 75, 80], 'ACN': [100, 80, 70, 110]}
-deposit_history = {'hw': [4500, 0, 0, 0], 'suhas': [1000, 500, 100, 0], 'ralles': [500, 2000, 2000, 0]}
+stocks_history = {'KLAC': [96, 93, 92, 97], 'LRCX': [149, 142, 139, 154], 'ADI': [77, 76, 75, 80], 'ACN': [100, 80, 70, 110]};
+deposit_history = {'hw': [100, 0, 200, 500], 'suhas': [500, 100, 100, 100], 'ralles': [1000, 1000, 500, 1000]};
 purchase_history = []
 cash_history = []
 
