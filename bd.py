@@ -3,8 +3,8 @@ import scipy.integrate
 import scipy.special
 
 # Lists correspond to each week. Index 0 = week 1, etc.
-stocks_history = {'KLAC': [100, 90, 92, 95], 'LRCX': [149, 142, 139, 154], 'ADI': [77, 76, 75, 80], 'ACN': [100, 80, 70, 110]}
-deposit_history = {'hw': [100, 0, 0, 0], 'suhas': [0, 100, 0, 0], 'ralles': [0, 0, 100, 0]}
+stocks_history = {'KLAC': [96, 93, 92, 10], 'LRCX': [149, 142, 139, 154], 'ADI': [77, 76, 75, 80], 'ACN': [100, 80, 70, 110]}
+deposit_history = {'hw': [4500, 0, 0, 0], 'suhas': [1000, 500, 100, 0], 'ralles': [500, 2000, 2000, 0]}
 purchase_history = []
 cash_history = []
 
@@ -84,6 +84,7 @@ def portfolio_norm(week_num):
 def back_calculate(total):
 	total_deposits[0] = total
 	for i in range(1, final_week + 1):
+		p = portfolio_history_extended
 		diff = total - sum(sum_deposits(x) for x in range(1, i+1))
 		portfolio_history_normalized.append(diff + portfolio_history[i-1])
 
@@ -97,11 +98,8 @@ def calculate_profits():
 		curr = portfolio_norm(i)
 		diff = (final - curr) / 1
 		for member in profits:
-			if sum_deposits(i) == 0:
-				continue
-			profits[member] += diff * (get_deposit(member, i) / sum_deposits(i))
+			profits[member] += diff * get_deposit(member, i)
 	whole = sum(profits.values())
-	print(profits)
 	for member in profits:
 		bessel_func = scipy.integrate.quad(lambda x: scipy.special.jv(opt,x), 0, 4.5)
 		profits[member] = net_profit * profits[member] / whole * (bessel_func[0] - simplex)
@@ -124,9 +122,3 @@ def run():
 
 
 run()
-
-
-
-
-
-
