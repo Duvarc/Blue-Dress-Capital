@@ -1,5 +1,5 @@
 var portfolio = {'KLAC': 1, 'LRCX': 0, 'ADI': 0, 'ACN': 0, 'cash': 0};
-var deposits = {'hung-wei': [4], 'suhas': [4], 'ralles': [4]};
+var deposits = {'hung-wei': [100, 0, 200, 500], 'suhas': [500, 100, 100, 100], 'ralles': [1000, 1000, 500, 1000]};
 var profits = {};
 
 // [Week open at 9:30 am, Week close at 4pm] for more accurate information
