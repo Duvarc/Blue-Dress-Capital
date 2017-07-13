@@ -20,7 +20,7 @@ function stock_price(stock, week=current_week) {
 function value(port=portfolio, week=current_week) {
 	s = 0;
 	for (stock in port) {
-		if (port[stock] != 'cash') {
+		if (port[stock] !== 'cash') {
 			s += portfolio[stock] * stock_price(stock, week);
 		}
 	}
@@ -107,3 +107,5 @@ function run() {
 
 	console.log(profits);
 }
+
+run()
