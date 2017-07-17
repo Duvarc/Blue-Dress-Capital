@@ -32,7 +32,6 @@ function value(port=portfolio, week=current_week) {
 }
 function deposit(name, amount, week=current_week) {
 	portfolio['cash'] += amount;
-	deposits[name][week-1] = amount;
 	return amount;
 }
 function add_stock(stock, amount, week=current_week) {
