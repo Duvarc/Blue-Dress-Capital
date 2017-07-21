@@ -59,7 +59,7 @@ function cum_deposits(week=current_week) {
 	return s;
 }
 function update_history(portfolio, week=current_week) {
-	history[week-1] = value(portfolio, week)
+	history[week-1] = value(portfolio, week);
 }
 function normalize_deposits(total) {
 	for (i = 1; i <= history.length; i++) {
@@ -68,8 +68,8 @@ function normalize_deposits(total) {
 	}
 }
 function calc_profits() {
-	var final = history[current_week-1]
-	var net_profit = final - total_deposits
+	var final = history[current_week-1];
+	var net_profit = final - total_deposits;
 
 	for (i = 0; i < current_week; i++) {
 		var curr = history_norm[i];
@@ -82,6 +82,7 @@ function calc_profits() {
 		}
 	}
 	console.log('net profit ' + net_profit);
+	console.log(total)
 	for (member in profits) {
 		profits[member] = net_profit * profits[member] / total;
 	}
@@ -92,7 +93,7 @@ function run() {
 	for (week = 1; week <= current_week; week++) {
 		// Process deposits
 		for (member in deposits) {
-			total_deposits += deposit(member, deposits[member][week-1])
+			total_deposits += deposit(member, deposits[member][week-1]);
 		}
 
 		// Purchase stock
@@ -105,7 +106,7 @@ function run() {
 	console.log(portfolio);
 	// Similar to robinhood
 	normalize_deposits(total_deposits);
-	console.log(history_norm)
+	console.log(history_norm);
 
 	calc_profits();
 
