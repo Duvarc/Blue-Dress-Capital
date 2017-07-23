@@ -38,5 +38,6 @@ def pick_random(year='d', sector='d', industry='d'):
 	return random.choice(lst)
 
 print(pick_random(sector='Finance', industry='Major Banks'))
+print(pick_random())
 
 
