@@ -1,22 +1,3 @@
-# import csv
-# import random
-
-# stocks = []
-
-# def read():
-# 	with open('all_stocks.csv') as csvfile:
-# 		reader = csv.reader(csvfile)
-# 		for row in reader:
-# 			stocks.append(row)
-
-# def pick_random(sector='default', industry='default'):
-# 	if sector == 'default' and industry =='default':
-# 		return random.choice(stocks)
-# 	else:
-# 		return random.choice([i for i in stocks if i[3] == sector])
-# read()
-# print(pick_random('Finance', 'Major Banks'))
-
 import csv
 import random
 
