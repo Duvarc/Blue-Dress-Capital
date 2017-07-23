@@ -1,384 +1,378 @@
-Symbol,Name,Sector,Industry
-AVHI,"A V Homes, Inc.",Capital Goods,Homebuilding
-AAON,"AAON, Inc.",Capital Goods,Industrial Machinery/Components
-AIR,AAR Corp.,Capital Goods,Aerospace
-ABAX,"ABAXIS, Inc.",Capital Goods,Industrial Machinery/Components
-AXDX,"Accelerate Diagnostics, Inc.",Capital Goods,Biotechnology: Laboratory Analytical Instruments
-ACU,Acme United Corporation.,Capital Goods,Industrial Machinery/Components
-WMS,"Advanced Drainage Systems, Inc.",Capital Goods,Containers/Packaging
-AEIS,"Advanced Energy Industries, Inc.",Capital Goods,Industrial Machinery/Components
-AEHR,Aehr Test Systems,Capital Goods,Electrical Products
-AEPI,AEP Industries Inc.,Capital Goods,Specialty Chemicals
-AJRD,"Aerojet Rocketdyne Holdings, Inc. ",Capital Goods,Military/Government/Technical
-AVAV,"AeroVironment, Inc.",Capital Goods,Aerospace
-AEMD,"Aethlon Medical, Inc.",Capital Goods,Biotechnology: Laboratory Analytical Instruments
-AGCO,AGCO Corporation,Capital Goods,Industrial Machinery/Components
-A,"Agilent Technologies, Inc.",Capital Goods,Biotechnology: Laboratory Analytical Instruments
-AIRI,Air Industries Group,Capital Goods,Military/Government/Technical
-ALG,"Alamo Group, Inc.",Capital Goods,Industrial Machinery/Components
-AA,Alcoa Corporation,Capital Goods,Metal Fabrications
-AMOT,"Allied Motion Technologies, Inc.",Capital Goods,Electrical Products
-ALSN,"Allison Transmission Holdings, Inc.",Capital Goods,Auto Parts:O.E.M.
-AIMC,Altra Industrial Motion Corp.,Capital Goods,Industrial Machinery/Components
-AXL,"American Axle & Manufacturing Holdings, Inc.",Capital Goods,Auto Parts:O.E.M.
-ARII,"American Railcar Industries, Inc.",Capital Goods,Railroads
-AP,Ampco-Pittsburgh Corporation,Capital Goods,Fluid Controls
-APH,Amphenol Corporation,Capital Goods,Electrical Products
-ALOG,Analogic Corporation,Capital Goods,Electrical Products
-APOG,"Apogee Enterprises, Inc.",Capital Goods,Auto Parts:O.E.M.
-ARCW,"ARC Group Worldwide, Inc.",Capital Goods,Metal Fabrications
-ACAT,Arctic Cat Inc.,Capital Goods,Industrial Specialties
-ARTW,"Art&#39;s-Way Manufacturing Co., Inc.",Capital Goods,Industrial Machinery/Components
-ASTE,"Astec Industries, Inc.",Capital Goods,Construction/Ag Equipment/Trucks
-ATRO,Astronics Corporation,Capital Goods,Military/Government/Technical
-ASTC,Astrotech Corporation,Capital Goods,Military/Government/Technical
-ALV,"Autoliv, Inc.",Capital Goods,Auto Parts:O.E.M.
-AVX,AVX Corporation,Capital Goods,Electrical Products
-BEAV,"B/E Aerospace, Inc.",Capital Goods,Military/Government/Technical
-BW,Babcock,Capital Goods,Building Products
-BMI,"Badger Meter, Inc.",Capital Goods,Industrial Machinery/Components
-B,"Barnes Group, Inc.",Capital Goods,Metal Fabrications
-BZH,"Beazer Homes USA, Inc.",Capital Goods,Homebuilding
-BELFA,Bel Fuse Inc.,Capital Goods,Electrical Products
-BELFB,Bel Fuse Inc.,Capital Goods,Electrical Products
-BIO,"Bio-Rad Laboratories, Inc.",Capital Goods,Biotechnology: Laboratory Analytical Instruments
-BLBD,Blue Bird Corporation,Capital Goods,Construction/Ag Equipment/Trucks
-BXC,BlueLinx Holdings Inc.,Capital Goods,Wholesale Distributors
-BA,Boeing Company (The),Capital Goods,Aerospace
-BNSO,"Bonso Electronics International, Inc.",Capital Goods,Industrial Machinery/Components
-BWA,BorgWarner Inc.,Capital Goods,Auto Parts:O.E.M.
-BWEN,"Broadwind Energy, Inc.",Capital Goods,Metal Fabrications
-BRKR,Bruker Corporation,Capital Goods,Biotechnology: Laboratory Analytical Instruments
-CSTE,Caesarstone Ltd.,Capital Goods,Building Materials
-CAA,"CalAtlantic Group, Inc.",Capital Goods,Homebuilding
-CAMT,Camtek Ltd.,Capital Goods,Electronic Components
-CRR,"Carbo Ceramics, Inc.",Capital Goods,Industrial Machinery/Components
-CAT,"Caterpillar, Inc.",Capital Goods,Construction/Ag Equipment/Trucks
-CECE,CECO Environmental Corp.,Capital Goods,Pollution Control Equipment
-CPAC,Cementos Pacasmayo S.A.A.,Capital Goods,Building Materials
-CX,Cemex S.A.B. de C.V.,Capital Goods,Building Materials
-CETX,Cemtrex Inc.,Capital Goods,Industrial Machinery/Components
-CCS,"Century Communities, Inc.",Capital Goods,Homebuilding
-KOOL,Cesca Therapeutics Inc.,Capital Goods,Medical Specialities
-GTLS,"Chart Industries, Inc.",Capital Goods,Metal Fabrications
-CAAS,"China Automotive Systems, Inc.",Capital Goods,Auto Parts:O.E.M.
-CCCL,"China Ceramics Co., Ltd.",Capital Goods,Building Materials
-CXDC,China XD Plastics Company Limited,Capital Goods,Containers/Packaging
-ZX,China Zenix Auto International Limited,Capital Goods,Auto Parts:O.E.M.
-CIR,"CIRCOR International, Inc.",Capital Goods,Metal Fabrications
-CLC,CLARCOR Inc.,Capital Goods,Auto Parts:O.E.M.
-CDTI,"Clean Diesel Technologies, Inc.",Capital Goods,Pollution Control Equipment
-CLIR,ClearSign Combustion Corporation,Capital Goods,Industrial Machinery/Components
-CNHI,CNH Industrial N.V.,Capital Goods,Construction/Ag Equipment/Trucks
-CGNX,Cognex Corporation,Capital Goods,Industrial Machinery/Components
-COHR,"Coherent, Inc.",Capital Goods,Biotechnology: Laboratory Analytical Instruments
-COHU,"Cohu, Inc.",Capital Goods,Electrical Products
-CFX,Colfax Corporation,Capital Goods,Fluid Controls
-CMCO,Columbus McKinnon Corporation,Capital Goods,Construction/Ag Equipment/Trucks
-FIX,"Comfort Systems USA, Inc.",Capital Goods,Engineering & Construction
-CVGI,"Commercial Vehicle Group, Inc.",Capital Goods,Auto Parts:O.E.M.
-CIX,CompX International Inc.,Capital Goods,Industrial Machinery/Components
-CHCI,"Comstock Holding Companies, Inc.",Capital Goods,Homebuilding
-CBPX,"Continental Building Products, Inc.",Capital Goods,Building Materials
-CUO,Continental Materials Corporation,Capital Goods,Building Materials
-CTRL,Control4 Corporation,Capital Goods,Electrical Products
-CPS,Cooper-Standard Holdings Inc.,Capital Goods,Auto Parts:O.E.M.
-CVU,"CPI Aerostructures, Inc.",Capital Goods,Military/Government/Technical
-CPSH,CPS Technologies Corp.,Capital Goods,Building Materials
-CR,Crane Company,Capital Goods,Metal Fabrications
-CRH,CRH PLC,Capital Goods,Building Materials
-CYRX,"CryoPort, Inc.",Capital Goods,Containers/Packaging
-CYRXW,"CryoPort, Inc.",Capital Goods,Containers/Packaging
-CUB,Cubic Corporation,Capital Goods,Industrial Machinery/Components
-CYBE,CyberOptics Corporation,Capital Goods,Electronic Components
-DHI,"D.R. Horton, Inc.",Capital Goods,Homebuilding
-DAN,Dana Incorporated,Capital Goods,Auto Parts:O.E.M.
-DHR,Danaher Corporation,Capital Goods,Industrial Machinery/Components
-DAIO,Data I/O Corporation,Capital Goods,Electrical Products
-DE,Deere & Company,Capital Goods,Industrial Machinery/Components
-DLPH,Delphi Automotive plc,Capital Goods,Auto Parts:O.E.M.
-DPW,Digital Power Corporation,Capital Goods,Industrial Machinery/Components
-BOOM,DMC Global Inc.,Capital Goods,Industrial Specialties
-DCI,"Donaldson Company, Inc.",Capital Goods,Pollution Control Equipment
-DORM,"Dorman Products, Inc.",Capital Goods,Auto Parts:O.E.M.
-PLOW,"Douglas Dynamics, Inc.",Capital Goods,Construction/Ag Equipment/Trucks
-DW,Drew Industries Incorporated,Capital Goods,Auto Parts:O.E.M.
-DCO,Ducommun Incorporated,Capital Goods,Military/Government/Technical
-DXPE,"DXP Enterprises, Inc.",Capital Goods,Industrial Machinery/Components
-DYSL,Dynasil Corporation of America,Capital Goods,Industrial Machinery/Components
-EXP,Eagle Materials Inc,Capital Goods,Building Materials
-EACQ,Easterly Acquisition Corp.,Capital Goods,Building Products
-EACQU,Easterly Acquisition Corp.,Capital Goods,Building Products
-EACQW,Easterly Acquisition Corp.,Capital Goods,Building Products
-EML,Eastern Company (The),Capital Goods,Industrial Machinery/Components
-EKSO,"Ekso Bionics Holdings, Inc.",Capital Goods,Industrial Machinery/Components
-ESLT,Elbit Systems Ltd.,Capital Goods,Military/Government/Technical
-ELSE,"Electro-Sensors, Inc.",Capital Goods,Industrial Machinery/Components
-ERJ,Embraer-Empresa Brasileira de Aeronautica,Capital Goods,Aerospace
-EME,"EMCOR Group, Inc.",Capital Goods,Engineering & Construction
-WIRE,Encore Wire Corporation,Capital Goods,Metal Fabrications
-ESP,Espey Mfg. & Electronics Corp.,Capital Goods,Industrial Machinery/Components
-ESL,Esterline Technologies Corporation,Capital Goods,Industrial Machinery/Components
-EXFO,EXFO Inc,Capital Goods,Electrical Products
-FARO,"FARO Technologies, Inc.",Capital Goods,Industrial Machinery/Components
-FSS,Federal Signal Corporation,Capital Goods,Auto Manufacturing
-FDML,Federal-Mogul Holdings Corporation,Capital Goods,Auto Parts:O.E.M.
-RACE,Ferrari N.V.,Capital Goods,Auto Manufacturing
-GSM,Ferroglobe PLC,Capital Goods,Metal Fabrications
-FCAM,Fiat Chrysler Automobiles N.V.,Capital Goods,Auto Manufacturing
-FCAU,Fiat Chrysler Automobiles N.V.,Capital Goods,Auto Manufacturing
-FLIR,"FLIR Systems, Inc.",Capital Goods,Industrial Machinery/Components
-FLS,Flowserve Corporation,Capital Goods,Fluid Controls
-FLDM,Fluidigm Corporation,Capital Goods,Biotechnology: Laboratory Analytical Instruments
-F,Ford Motor Company,Capital Goods,Auto Manufacturing
-FRTA,"Forterra, Inc.",Capital Goods,Building Materials
-FTV,Fortive Corporation,Capital Goods,Industrial Machinery/Components
-RAIL,"Freightcar America, Inc.",Capital Goods,Railroads
-FEIM,"Frequency Electronics, Inc.",Capital Goods,Electrical Products
-FRD,Friedman Industries Inc.,Capital Goods,Steel/Iron Ore
-FTEK,"Fuel Tech, Inc.",Capital Goods,Pollution Control Equipment
-FFHL,"Fuwei Films (Holdings) Co., Ltd.",Capital Goods,Specialty Chemicals
-GRMN,Garmin Ltd.,Capital Goods,Industrial Machinery/Components
-GENC,Gencor Industries Inc.,Capital Goods,Construction/Ag Equipment/Trucks
-GD,General Dynamics Corporation,Capital Goods,Marine Transportation
-GM,General Motors Company,Capital Goods,Auto Manufacturing
-GNTX,Gentex Corporation,Capital Goods,Auto Parts:O.E.M.
-THRM,Gentherm Inc,Capital Goods,Auto Parts:O.E.M.
-GPC,Genuine Parts Company,Capital Goods,Automotive Aftermarket
-GEOS,Geospace Technologies Corporation,Capital Goods,Industrial Machinery/Components
-GGB,Gerdau S.A.,Capital Goods,Steel/Iron Ore
-ROCK,"Gibraltar Industries, Inc.",Capital Goods,Steel/Iron Ore
-GIGA,Giga-tronics Incorporated,Capital Goods,Electrical Products
-BRSS,"Global Brass and Copper Holdings, Inc.",Capital Goods,Metal Fabrications
-GRC,Gorman-Rupp Company (The),Capital Goods,Fluid Controls
-GGG,Graco Inc.,Capital Goods,Fluid Controls
-GRBK,"Green Brick Partners, Inc.",Capital Goods,Homebuilding
-GBX,"Greenbrier Companies, Inc. (The)",Capital Goods,Railroads
-GFF,Griffon Corporation,Capital Goods,Building Products
-GIFI,"Gulf Island Fabrication, Inc.",Capital Goods,Metal Fabrications
-HNH,Handy & Harman Ltd.,Capital Goods,Industrial Specialties
-HDNG,Hardinge Inc.,Capital Goods,Industrial Machinery/Components
-HRS,Harris Corporation,Capital Goods,Industrial Machinery/Components
-HSC,Harsco Corporation,Capital Goods,Metal Fabrications
-HBIO,"Harvard Bioscience, Inc.",Capital Goods,Biotechnology: Laboratory Analytical Instruments
-HAYN,"Haynes International, Inc.",Capital Goods,Steel/Iron Ore
-HCHC,"HC2 Holdings, Inc.",Capital Goods,Metal Fabrications
-HW,Headwaters Incorporated,Capital Goods,Building Materials
-HEI,Heico Corporation,Capital Goods,Aerospace
-HIHO,Highway Holdings Limited,Capital Goods,Metal Fabrications
-HMC,"Honda Motor Company, Ltd.",Capital Goods,Auto Manufacturing
-HON,Honeywell International Inc.,Capital Goods,Auto Parts:O.E.M.
-HZN,Horizon Global Corporation,Capital Goods,Auto Parts:O.E.M.
-HOV,Hovnanian Enterprises Inc,Capital Goods,Homebuilding
-HOVNP,Hovnanian Enterprises Inc,Capital Goods,Homebuilding
-HTGM,"HTG Molecular Diagnostics, Inc.",Capital Goods,Biotechnology: Laboratory Analytical Instruments
-HUBB,Hubbell Inc,Capital Goods,Electrical Products
-HII,"Huntington Ingalls Industries, Inc.",Capital Goods,Marine Transportation
-HURC,"Hurco Companies, Inc.",Capital Goods,Industrial Machinery/Components
-HY,"Hyster-Yale Materials Handling, Inc.",Capital Goods,Construction/Ag Equipment/Trucks
-IEP,Icahn Enterprises L.P.,Capital Goods,Auto Parts:O.E.M.
-IEX,IDEX Corporation,Capital Goods,Fluid Controls
-IESC,"IES Holdings, Inc.",Capital Goods,Engineering & Construction
-IIVI,II-VI Incorporated,Capital Goods,Electronic Components
-ILMN,"Illumina, Inc.",Capital Goods,Biotechnology: Laboratory Analytical Instruments
-ISNS,"Image Sensing Systems, Inc.",Capital Goods,Industrial Machinery/Components
-PI,"Impinj, Inc.",Capital Goods,Industrial Machinery/Components
-IR,Ingersoll-Rand plc (Ireland),Capital Goods,Auto Parts:O.E.M.
-IIIN,"Insteel Industries, Inc.",Capital Goods,Steel/Iron Ore
-IART,Integra LifeSciences Holdings Corporation,Capital Goods,Biotechnology: Laboratory Analytical Instruments
-INTT,inTest Corporation,Capital Goods,Electrical Products
-IIN,IntriCon Corporation,Capital Goods,Electrical Products
-ITRI,"Itron, Inc.",Capital Goods,Electrical Products
-ITT,ITT Inc.,Capital Goods,Fluid Controls
-XXIA,Ixia,Capital Goods,Electrical Products
-JHX,James Hardie Industries plc.,Capital Goods,Building Materials
-KALU,Kaiser Aluminum Corporation,Capital Goods,Metal Fabrications
-KNDI,"Kandi Technologies Group, Inc.",Capital Goods,Auto Manufacturing
-KBH,KB Home,Capital Goods,Homebuilding
-KIQ,Kelso Technologies Inc,Capital Goods,Railroads
-KEM,Kemet Corporation,Capital Goods,Electrical Products
-KMT,Kennametal Inc.,Capital Goods,Industrial Machinery/Components
-KEQU,Kewaunee Scientific Corporation,Capital Goods,Medical Specialities
-KEYS,Keysight Technologies Inc.,Capital Goods,Industrial Machinery/Components
-KLAC,KLA-Tencor Corporation,Capital Goods,Electronic Components
-KLXI,KLX Inc.,Capital Goods,Aerospace
-KRNT,Kornit Digital Ltd.,Capital Goods,Industrial Machinery/Components
-KTOS,"Kratos Defense & Security Solutions, Inc.",Capital Goods,Military/Government/Technical
-SCX,L.S. Starrett Company (The),Capital Goods,Industrial Machinery/Components
-LDR,"Landauer, Inc.",Capital Goods,Industrial Machinery/Components
-LEA,Lear Corporation,Capital Goods,Auto Parts:O.E.M.
-LII,"Lennox International, Inc.",Capital Goods,Industrial Machinery/Components
-LPL,"LG Display Co., Ltd.",Capital Goods,Industrial Machinery/Components
-LGIH,"LGI Homes, Inc.",Capital Goods,Homebuilding
-LGL,"LGL Group, Inc. (The)",Capital Goods,Industrial Machinery/Components
-LBY,"Libbey, Inc.",Capital Goods,Industrial Machinery/Components
-LCUT,"Lifetime Brands, Inc.",Capital Goods,Industrial Machinery/Components
-LNN,Lindsay Corporation,Capital Goods,Industrial Machinery/Components
-LMIA,"LMI Aerospace, Inc.",Capital Goods,Military/Government/Technical
-LMT,Lockheed Martin Corporation,Capital Goods,Military/Government/Technical
-LDL,"Lydall, Inc.",Capital Goods,Auto Parts:O.E.M.
-WLH,Lyon William Homes,Capital Goods,Homebuilding
-MDC,"M.D.C. Holdings, Inc.",Capital Goods,Homebuilding
-MHO,"M/I Homes, Inc.",Capital Goods,Homebuilding
-MGA,"Magna International, Inc.",Capital Goods,Auto Parts:O.E.M.
-MBUU,"Malibu Boats, Inc.",Capital Goods,Marine Transportation
-MTW,"Manitowoc Company, Inc. (The)",Capital Goods,Construction/Ag Equipment/Trucks
-MPX,Marine Products Corporation,Capital Goods,Marine Transportation
-MTRN,Materion Corporation,Capital Goods,Industrial Specialties
-MATW,Matthews International Corporation,Capital Goods,Metal Fabrications
-MCFT,"MCBC Holdings, Inc.",Capital Goods,Marine Transportation
-MDR,"McDermott International, Inc.",Capital Goods,Metal Fabrications
-MRCY,Mercury Systems Inc,Capital Goods,Electrical Products
-MTH,Meritage Corporation,Capital Goods,Homebuilding
-MTOR,"Meritor, Inc.",Capital Goods,Auto Parts:O.E.M.
-MLAB,"Mesa Laboratories, Inc.",Capital Goods,Industrial Machinery/Components
-MPG,Metaldyne Performance Group Inc.,Capital Goods,Auto Parts:O.E.M.
-MEI,"Methode Electronics, Inc.",Capital Goods,Electrical Products
-MTD,"Mettler-Toledo International, Inc.",Capital Goods,Biotechnology: Laboratory Analytical Instruments
-MFRI,"MFRI, Inc.",Capital Goods,Pollution Control Equipment
-MICT,"Micronet Enertec Technologies, Inc.",Capital Goods,Electrical Products
-MICTW,"Micronet Enertec Technologies, Inc.",Capital Goods,Electrical Products
-MVIS,"Microvision, Inc.",Capital Goods,Industrial Machinery/Components
-MLR,"Miller Industries, Inc.",Capital Goods,Construction/Ag Equipment/Trucks
-MSON,"MISONIX, Inc.",Capital Goods,Medical Specialities
-MKSI,"MKS Instruments, Inc.",Capital Goods,Industrial Machinery/Components
-MINI,"Mobile Mini, Inc.",Capital Goods,Metal Fabrications
-MOCO,"MOCON, Inc.",Capital Goods,Industrial Machinery/Components
-MOD,Modine Manufacturing Company,Capital Goods,Auto Parts:O.E.M.
-MPAA,"Motorcar Parts of America, Inc.",Capital Goods,Auto Parts:O.E.M.
-MRC,MRC Global Inc.,Capital Goods,Industrial Machinery/Components
-MSM,"MSC Industrial Direct Company, Inc.",Capital Goods,Industrial Machinery/Components
-MTSC,MTS Systems Corporation,Capital Goods,Industrial Machinery/Components
-MLI,"Mueller Industries, Inc.",Capital Goods,Metal Fabrications
-MWA,MUELLER WATER PRODUCTS,Capital Goods,Metal Fabrications
-NANO,Nanometrics Incorporated,Capital Goods,Industrial Machinery/Components
-NPK,"National Presto Industries, Inc.",Capital Goods,Ordnance And Accessories
-SID,National Steel Company,Capital Goods,Steel/Iron Ore
-NAV,Navistar International Corporation,Capital Goods,Auto Manufacturing
-NAV^D,Navistar International Corporation,Capital Goods,Auto Manufacturing
-NCS,"NCI Building Systems, Inc.",Capital Goods,Metal Fabrications
-NEON,Neonode Inc.,Capital Goods,Industrial Machinery/Components
-NWHM,New Home Company Inc. (The),Capital Goods,Homebuilding
-NFEC,NF Energy Saving Corporation,Capital Goods,Metal Fabrications
-NNBR,"NN, Inc.",Capital Goods,Metal Fabrications
-NDSN,Nordson Corporation,Capital Goods,Industrial Machinery/Components
-NSAT,Norsat International Inc.,Capital Goods,Industrial Machinery/Components
-NSYS,Nortech Systems Incorporated,Capital Goods,Industrial Machinery/Components
-NTIC,Northern Technologies International Corporation,Capital Goods,Industrial Specialties
-NOC,Northrop Grumman Corporation,Capital Goods,Industrial Machinery/Components
-NVMI,Nova Measuring Instruments Ltd.,Capital Goods,Electronic Components
-NVR,"NVR, Inc.",Capital Goods,Homebuilding
-OFLX,"Omega Flex, Inc.",Capital Goods,Industrial Specialties
-OA,"Orbital ATK, Inc.",Capital Goods,Military/Government/Technical
-ORBK,Orbotech Ltd.,Capital Goods,Industrial Machinery/Components
-OSK,Oshkosh Corporation,Capital Goods,Auto Manufacturing
-OC,Owens Corning Inc,Capital Goods,Industrial Machinery/Components
-PCAR,PACCAR Inc.,Capital Goods,Auto Manufacturing
-PACB,"Pacific Biosciences of California, Inc.",Capital Goods,Biotechnology: Laboratory Analytical Instruments
-PH,Parker-Hannifin Corporation,Capital Goods,Metal Fabrications
-PKOH,Park-Ohio Holdings Corp.,Capital Goods,Industrial Specialties
-PRCP,"Perceptron, Inc.",Capital Goods,Electronic Components
-PKI,"PerkinElmer, Inc.",Capital Goods,Biotechnology: Laboratory Analytical Instruments
-PGTI,"PGT, Inc.",Capital Goods,Building Products
-PII,Polaris Industries Inc.,Capital Goods,Industrial Specialties
-PRLB,"Proto Labs, Inc.",Capital Goods,Metal Fabrications
-PSDV,pSivida Corp.,Capital Goods,Biotechnology: Laboratory Analytical Instruments
-PHM,"PulteGroup, Inc.",Capital Goods,Homebuilding
-NX,Quanex Building Products Corporation,Capital Goods,Metal Fabrications
-PWR,"Quanta Services, Inc.",Capital Goods,Engineering & Construction
-RAVN,"Raven Industries, Inc.",Capital Goods,Specialty Chemicals
-RTN,Raytheon Company,Capital Goods,Industrial Machinery/Components
-ROLL,RBC Bearings Incorporated,Capital Goods,Metal Fabrications
-RFIL,"RF Industries, Ltd.",Capital Goods,Electrical Products
-ROK,"Rockwell Automation, Inc.",Capital Goods,Industrial Machinery/Components
-COL,"Rockwell Collins, Inc.",Capital Goods,Military/Government/Technical
-ROKA,"Roka Bioscience, Inc.",Capital Goods,Biotechnology: Laboratory Analytical Instruments
-ROP,"Roper Technologies, Inc.",Capital Goods,Industrial Machinery/Components
-RTEC,"Rudolph Technologies, Inc.",Capital Goods,Industrial Machinery/Components
-SMIT,"Schmitt Industries, Inc.",Capital Goods,Industrial Machinery/Components
-ST,Sensata Technologies Holding N.V.,Capital Goods,Industrial Machinery/Components
-SENS,"Senseonics Holdings, Inc.",Capital Goods,Industrial Machinery/Components
-SVT,"Servotronics, Inc.",Capital Goods,Industrial Machinery/Components
-SHLO,"Shiloh Industries, Inc.",Capital Goods,Industrial Specialties
-SIF,"SIFCO Industries, Inc.",Capital Goods,Aerospace
-SSD,"Simpson Manufacturing Company, Inc.",Capital Goods,Industrial Machinery/Components
-SWHC,Smith & Wesson Holding Corporation,Capital Goods,Ordnance And Accessories
-SNA,Snap-On Incorporated,Capital Goods,Industrial Machinery/Components
-SORL,"SORL Auto Parts, Inc.",Capital Goods,Auto Parts:O.E.M.
-SPAR,"Spartan Motors, Inc.",Capital Goods,Auto Manufacturing
-SPR,"Spirit Aerosystems Holdings, Inc.",Capital Goods,Military/Government/Technical
-SMP,"Standard Motor Products, Inc.",Capital Goods,Auto Parts:O.E.M.
-SWJ,"Stanley Black & Decker, Inc.",Capital Goods,Industrial Machinery/Components
-SWK,"Stanley Black & Decker, Inc.",Capital Goods,Industrial Machinery/Components
-SPLP,Steel Partners Holdings LP,Capital Goods,Industrial Specialties
-SRI,"Stoneridge, Inc.",Capital Goods,Auto Parts:O.E.M.
-STRT,Strattec Security Corporation,Capital Goods,Auto Parts:O.E.M.
-RGR,"Sturm, Ruger & Company, Inc.",Capital Goods,Ordnance And Accessories
-SNHY,Sun Hydraulics Corporation,Capital Goods,Metal Fabrications
-RUN,Sunrun Inc.,Capital Goods,Industrial Specialties
-SUP,"Superior Industries International, Inc.",Capital Goods,Auto Parts:O.E.M.
-STS,"Supreme Industries, Inc.",Capital Goods,Construction/Ag Equipment/Trucks
-SYPR,"Sypris Solutions, Inc.",Capital Goods,Industrial Machinery/Components
-TASR,"TASER International, Inc.",Capital Goods,Ordnance And Accessories
-TATT,TAT Technologies Ltd.,Capital Goods,Aerospace
-TTM,Tata Motors Ltd,Capital Goods,Auto Manufacturing
-TAYD,"Taylor Devices, Inc.",Capital Goods,Industrial Machinery/Components
-TMHC,Taylor Morrison Home Corporation,Capital Goods,Homebuilding
-TGEN,Tecogen Inc.,Capital Goods,Industrial Machinery/Components
-TDY,Teledyne Technologies Incorporated,Capital Goods,Industrial Machinery/Components
-TNAV,"Telenav, Inc.",Capital Goods,Industrial Machinery/Components
-TIK,Tel-Instrument Electronics Corp.,Capital Goods,Electrical Products
-TEN,Tenneco Inc.,Capital Goods,Auto Parts:O.E.M.
-TER,"Teradyne, Inc.",Capital Goods,Electrical Products
-TEX,Terex Corporation,Capital Goods,Construction/Ag Equipment/Trucks
-TSLA,"Tesla Motors, Inc.",Capital Goods,Auto Manufacturing
-TXT,Textron Inc.,Capital Goods,Aerospace
-XONE,The ExOne Company,Capital Goods,Industrial Machinery/Components
-TMO,Thermo Fisher Scientific Inc,Capital Goods,Industrial Machinery/Components
-TKR,Timken Company (The),Capital Goods,Metal Fabrications
-TOL,Toll Brothers Inc.,Capital Goods,Homebuilding
-TTC,Toro Company (The),Capital Goods,Tools/Hardware
-TOWR,"Tower International, Inc.",Capital Goods,Auto Parts:O.E.M.
-TM,Toyota Motor Corp Ltd Ord,Capital Goods,Auto Manufacturing
-TRNS,"Transcat, Inc.",Capital Goods,Electrical Products
-TDG,Transdigm Group Incorporated,Capital Goods,Military/Government/Technical
-TBIO,"Transgenomic, Inc.",Capital Goods,Biotechnology: Laboratory Analytical Instruments
-TG,Tredegar Corporation,Capital Goods,Metal Fabrications
-TPH,"TRI Pointe Group, Inc.",Capital Goods,Homebuilding
-TRS,TriMas Corporation,Capital Goods,Industrial Specialties
-TRMB,Trimble Inc.,Capital Goods,Industrial Machinery/Components
-TRN,"Trinity Industries, Inc.",Capital Goods,Railroads
-TGI,"Triumph Group, Inc.",Capital Goods,Aerospace
-USCR,"U S Concrete, Inc.",Capital Goods,Building Materials
-UCP,"UCP, Inc.",Capital Goods,Homebuilding
-UFPT,"UFP Technologies, Inc.",Capital Goods,Containers/Packaging
-UNXL,"Uni-Pixel, Inc.",Capital Goods,Industrial Machinery/Components
-UFAB,"Unique Fabricating, Inc.",Capital Goods,Auto Parts:O.E.M.
-UAMY,United States Antimony Corporation,Capital Goods,Metal Fabrications
-UTX,United Technologies Corporation,Capital Goods,Aerospace
-OLED,Universal Display Corporation,Capital Goods,Electrical Products
-UQM,UQM TECHNOLOGIES INC,Capital Goods,Industrial Machinery/Components
-USG,USG Corporation,Capital Goods,Building Materials
-VMI,"Valmont Industries, Inc.",Capital Goods,Metal Fabrications
-VEDL,Vedanta  Limited,Capital Goods,Metal Fabrications
-VICR,Vicor Corporation,Capital Goods,Industrial Machinery/Components
-VSH,"Vishay Intertechnology, Inc.",Capital Goods,Electrical Products
-VPG,"Vishay Precision Group, Inc.",Capital Goods,Electrical Products
-VSTO,Vista Outdoor Inc.,Capital Goods,Ordnance And Accessories
-VC,Visteon Corporation,Capital Goods,Auto Parts:O.E.M.
-VSLR,"Vivint Solar, Inc.",Capital Goods,Building Products
-VJET,voxeljet AG,Capital Goods,Industrial Machinery/Components
-WNC,Wabash National Corporation,Capital Goods,Construction/Ag Equipment/Trucks
-WBC,Wabco Holdings Inc.,Capital Goods,Auto Manufacturing
-WGBS,"WaferGen Bio-systems, Inc.",Capital Goods,Biotechnology: Laboratory Analytical Instruments
-WAT,Waters Corporation,Capital Goods,Biotechnology: Laboratory Analytical Instruments
-WTS,"Watts Water Technologies, Inc.",Capital Goods,Metal Fabrications
-WCIC,"WCI Communities, Inc.",Capital Goods,Homebuilding
-WAIR,"Wesco Aircraft Holdings, Inc.",Capital Goods,Wholesale Distributors
-WAB,Westinghouse Air Brake Technologies Corporation,Capital Goods,Railroads
-WTT,"Wireless Telecom Group,  Inc.",Capital Goods,Electrical Products
-WKHS,"Workhorse Group, Inc.",Capital Goods,Auto Manufacturing
-WOR,"Worthington Industries, Inc.",Capital Goods,Steel/Iron Ore
-XCRA,Xcerra Corporation,Capital Goods,Electrical Products
-XYL,Xylem Inc.,Capital Goods,Fluid Controls
-YECO,Yulong Eco-Materials Limited,Capital Goods,Building Materials
+"Symbol","Name","LastSale","MarketCap","ADR TSO","IPOyear","Sector","Industry","Summary Quote",
+"AVHI","A V Homes, Inc.","17.6","394979006.4","n/a","n/a","Capital Goods","Homebuilding","http://www.nasdaq.com/symbol/avhi",
+"AAON","AAON, Inc.","37.3","1961992346.3","n/a","n/a","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/aaon",
+"AIR","AAR Corp.","36.49","1255128321.49","n/a","n/a","Capital Goods","Aerospace","http://www.nasdaq.com/symbol/air",
+"ABAX","ABAXIS, Inc.","51.15","1158752100","n/a","1992","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/abax",
+"AXDX","Accelerate Diagnostics, Inc.","27.6","1521322626","n/a","n/a","Capital Goods","Biotechnology: Laboratory Analytical Instruments","http://www.nasdaq.com/symbol/axdx",
+"ACU","Acme United Corporation.","28.02","93999030.24","n/a","1988","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/acu",
+"ADNT","Adient plc","68.71","6437917709.34","n/a","2016","Capital Goods","Auto Parts:O.E.M.","http://www.nasdaq.com/symbol/adnt",
+"ADOM","ADOMANI, Inc.","8.8","621053505.6","n/a","2017","Capital Goods","Auto Parts:O.E.M.","http://www.nasdaq.com/symbol/adom",
+"WMS","Advanced Drainage Systems, Inc.","20.6","1145680700.8","n/a","2014","Capital Goods","Containers/Packaging","http://www.nasdaq.com/symbol/wms",
+"AEIS","Advanced Energy Industries, Inc.","75.01","2983386306.81","n/a","1995","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/aeis",
+"AEHR","Aehr Test Systems","4.05","85897713.6","n/a","1997","Capital Goods","Electrical Products","http://www.nasdaq.com/symbol/aehr",
+"AJRD","Aerojet Rocketdyne Holdings, Inc. ","23.22","1729890000","n/a","n/a","Capital Goods","Military/Government/Technical","http://www.nasdaq.com/symbol/ajrd",
+"AVAV","AeroVironment, Inc.","38.3","908855591.3","n/a","2007","Capital Goods","Aerospace","http://www.nasdaq.com/symbol/avav",
+"AEMD","Aethlon Medical, Inc.","2.06","18271316.26","n/a","n/a","Capital Goods","Biotechnology: Laboratory Analytical Instruments","http://www.nasdaq.com/symbol/aemd",
+"AGCO","AGCO Corporation","71.82","5709278471.4","n/a","n/a","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/agco",
+"A","Agilent Technologies, Inc.","61.37","19720478876.91","n/a","1999","Capital Goods","Biotechnology: Laboratory Analytical Instruments","http://www.nasdaq.com/symbol/a",
+"AIRI","Air Industries Group","1.42","18211734.3","n/a","n/a","Capital Goods","Military/Government/Technical","http://www.nasdaq.com/symbol/airi",
+"ALG","Alamo Group, Inc.","92.06","1063315462.64","n/a","n/a","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/alg",
+"AA","Alcoa Corporation","36.62","6746875098.64","n/a","2016","Capital Goods","Metal Fabrications","http://www.nasdaq.com/symbol/aa",
+"AMOT","Allied Motion Technologies, Inc.","28.63","271165838.44","n/a","n/a","Capital Goods","Electrical Products","http://www.nasdaq.com/symbol/amot",
+"ALSN","Allison Transmission Holdings, Inc.","37.04","5630661083.52","n/a","2012","Capital Goods","Auto Parts:O.E.M.","http://www.nasdaq.com/symbol/alsn",
+"AIMC","Altra Industrial Motion Corp.","39.6","1160654140.8","n/a","2006","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/aimc",
+"AXL","American Axle & Manufacturing Holdings, Inc.","15.5","1723297533","n/a","n/a","Capital Goods","Auto Parts:O.E.M.","http://www.nasdaq.com/symbol/axl",
+"AOBC","American Outdoor Brands Corporation","20.81","1121356672.32","n/a","n/a","Capital Goods","Ordnance And Accessories","http://www.nasdaq.com/symbol/aobc",
+"ARII","American Railcar Industries, Inc.","36.56","697706579.68","n/a","2006","Capital Goods","Railroads","http://www.nasdaq.com/symbol/arii",
+"AP","Ampco-Pittsburgh Corporation","14.6","179156337.2","n/a","n/a","Capital Goods","Fluid Controls","http://www.nasdaq.com/symbol/ap",
+"APH","Amphenol Corporation","75.57","23095369002.75","n/a","n/a","Capital Goods","Electrical Products","http://www.nasdaq.com/symbol/aph",
+"ALOG","Analogic Corporation","70.9","884160293.4","n/a","1972","Capital Goods","Electrical Products","http://www.nasdaq.com/symbol/alog",
+"APOG","Apogee Enterprises, Inc.","52.86","1524919605.06","n/a","n/a","Capital Goods","Auto Parts:O.E.M.","http://www.nasdaq.com/symbol/apog",
+"ARCW","ARC Group Worldwide, Inc.","3","54514878","n/a","n/a","Capital Goods","Metal Fabrications","http://www.nasdaq.com/symbol/arcw",
+"ARNC","Arconic Inc.","25.21","11113235611.22","n/a","n/a","Capital Goods","Metal Fabrications","http://www.nasdaq.com/symbol/arnc",
+"ARTW","Art&#39;s-Way Manufacturing Co., Inc.","2.7499","11447151.7248","n/a","n/a","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/artw",
+"ASTE","Astec Industries, Inc.","55.47","1279165047.48","n/a","1986","Capital Goods","Construction/Ag Equipment/Trucks","http://www.nasdaq.com/symbol/aste",
+"ATRO","Astronics Corporation","30.56","886172126.24","n/a","n/a","Capital Goods","Military/Government/Technical","http://www.nasdaq.com/symbol/atro",
+"ASTC","Astrotech Corporation","0.9385","19299831.1135","n/a","n/a","Capital Goods","Military/Government/Technical","http://www.nasdaq.com/symbol/astc",
+"ASV","ASV Holdings, Inc.","7.75","75950000","n/a","2017","Capital Goods","Construction/Ag Equipment/Trucks","http://www.nasdaq.com/symbol/asv",
+"ALV","Autoliv, Inc.","106.78","9431356954.28","n/a","n/a","Capital Goods","Auto Parts:O.E.M.","http://www.nasdaq.com/symbol/alv",
+"AVX","AVX Corporation","17.76","2985857837.76","n/a","n/a","Capital Goods","Electrical Products","http://www.nasdaq.com/symbol/avx",
+"AAXN","Axon Enterprise, Inc.","25.26","1331834965.08","n/a","n/a","Capital Goods","Ordnance And Accessories","http://www.nasdaq.com/symbol/aaxn",
+"BW","Babcock","10.71","522987464.16","n/a","2015","Capital Goods","Building Products","http://www.nasdaq.com/symbol/bw",
+"BMI","Badger Meter, Inc.","44.7","1301397230.4","n/a","n/a","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/bmi",
+"B","Barnes Group, Inc.","60.83","3268005067.25","n/a","n/a","Capital Goods","Metal Fabrications","http://www.nasdaq.com/symbol/b",
+"BZH","Beazer Homes USA, Inc.","13.33","447164714.2","n/a","1994","Capital Goods","Homebuilding","http://www.nasdaq.com/symbol/bzh",
+"BELFA","Bel Fuse Inc.","22","264306108","n/a","n/a","Capital Goods","Electrical Products","http://www.nasdaq.com/symbol/belfa",
+"BELFB","Bel Fuse Inc.","25.1","301549241.4","n/a","n/a","Capital Goods","Electrical Products","http://www.nasdaq.com/symbol/belfb",
+"BIO","Bio-Rad Laboratories, Inc.","231.59","6856385220.95","n/a","n/a","Capital Goods","Biotechnology: Laboratory Analytical Instruments","http://www.nasdaq.com/symbol/bio",
+"BLBD","Blue Bird Corporation","17.5","414772295","n/a","2014","Capital Goods","Construction/Ag Equipment/Trucks","http://www.nasdaq.com/symbol/blbd",
+"BXC","BlueLinx Holdings Inc.","10.88","98685048.96","n/a","2004","Capital Goods","Wholesale Distributors","http://www.nasdaq.com/symbol/bxc",
+"BA","Boeing Company (The)","212.14","128043671642.88","n/a","n/a","Capital Goods","Aerospace","http://www.nasdaq.com/symbol/ba",
+"BNSO","Bonso Electronics International, Inc.","2.69","13865419.39","n/a","n/a","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/bnso",
+"BWA","BorgWarner Inc.","44.92","9532903982.8","n/a","n/a","Capital Goods","Auto Parts:O.E.M.","http://www.nasdaq.com/symbol/bwa",
+"BWEN","Broadwind Energy, Inc.","4.49","67268061.99","n/a","n/a","Capital Goods","Metal Fabrications","http://www.nasdaq.com/symbol/bwen",
+"BRKR","Bruker Corporation","29.15","4662169292.55","n/a","n/a","Capital Goods","Biotechnology: Laboratory Analytical Instruments","http://www.nasdaq.com/symbol/brkr",
+"CSTE","Caesarstone Ltd.","35.1","1204687212.3","n/a","2012","Capital Goods","Building Materials","http://www.nasdaq.com/symbol/cste",
+"CAA","CalAtlantic Group, Inc.","37.93","4207413507.85","n/a","n/a","Capital Goods","Homebuilding","http://www.nasdaq.com/symbol/caa",
+"CAMT","Camtek Ltd.","5.49","194061486.24","n/a","2000","Capital Goods","Electronic Components","http://www.nasdaq.com/symbol/camt",
+"CRR","Carbo Ceramics, Inc.","6.83","185366056.57","n/a","n/a","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/crr",
+"CAT","Caterpillar, Inc.","106.59","62798249959.5","n/a","n/a","Capital Goods","Construction/Ag Equipment/Trucks","http://www.nasdaq.com/symbol/cat",
+"CECE","CECO Environmental Corp.","9.78","338395814.22","n/a","n/a","Capital Goods","Pollution Control Equipment","http://www.nasdaq.com/symbol/cece",
+"CPAC","Cementos Pacasmayo S.A.A.","11.89","1018038077.41","n/a","n/a","Capital Goods","Building Materials","http://www.nasdaq.com/symbol/cpac",
+"CX","Cemex S.A.B. de C.V.","10.18","4962146885.9","n/a","n/a","Capital Goods","Building Materials","http://www.nasdaq.com/symbol/cx",
+"CETX","Cemtrex Inc.","3.51","34706774.7","n/a","n/a","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/cetx",
+"CETXP","Cemtrex Inc.","7.204","0","n/a","n/a","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/cetxp",
+"CETXW","Cemtrex Inc.","0.5","0","n/a","n/a","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/cetxw",
+"CCS","Century Communities, Inc.","25.9","577334025.1","n/a","2014","Capital Goods","Homebuilding","http://www.nasdaq.com/symbol/ccs",
+"KOOL","Cesca Therapeutics Inc.","3.56","35253729.48","n/a","n/a","Capital Goods","Medical Specialities","http://www.nasdaq.com/symbol/kool",
+"GTLS","Chart Industries, Inc.","34.83","1069844270.76","n/a","2006","Capital Goods","Metal Fabrications","http://www.nasdaq.com/symbol/gtls",
+"CAAS","China Automotive Systems, Inc.","4.83","156193998.66","n/a","n/a","Capital Goods","Auto Parts:O.E.M.","http://www.nasdaq.com/symbol/caas",
+"CCCL","China Ceramics Co., Ltd.","1.4877","4727422.6344","n/a","n/a","Capital Goods","Building Materials","http://www.nasdaq.com/symbol/cccl",
+"CXDC","China XD Plastics Company Limited","4.678","231614988.798","n/a","n/a","Capital Goods","Containers/Packaging","http://www.nasdaq.com/symbol/cxdc",
+"ZX","China Zenix Auto International Limited","1.73","89311250","n/a","2011","Capital Goods","Auto Parts:O.E.M.","http://www.nasdaq.com/symbol/zx",
+"CIR","CIRCOR International, Inc.","57.41","946927716.25","n/a","n/a","Capital Goods","Metal Fabrications","http://www.nasdaq.com/symbol/cir",
+"CDTI","Clean Diesel Technologies, Inc.","2.4369","38267374.2069","n/a","n/a","Capital Goods","Pollution Control Equipment","http://www.nasdaq.com/symbol/cdti",
+"CLIR","ClearSign Combustion Corporation","3.625","56554904.625","n/a","2012","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/clir",
+"CLIRW","ClearSign Combustion Corporation","1.41","0","n/a","n/a","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/clirw",
+"CNHI","CNH Industrial N.V.","11.65","15878738773.85","n/a","2013","Capital Goods","Construction/Ag Equipment/Trucks","http://www.nasdaq.com/symbol/cnhi",
+"CGNX","Cognex Corporation","91.84","7957603447.36","n/a","1989","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/cgnx",
+"COHR","Coherent, Inc.","268.9","6621695843.6","n/a","n/a","Capital Goods","Biotechnology: Laboratory Analytical Instruments","http://www.nasdaq.com/symbol/cohr",
+"COHU","Cohu, Inc.","19.28","526934835.6","n/a","n/a","Capital Goods","Electrical Products","http://www.nasdaq.com/symbol/cohu",
+"CFX","Colfax Corporation","41.97","5161964922.66","n/a","2008","Capital Goods","Fluid Controls","http://www.nasdaq.com/symbol/cfx",
+"CMCO","Columbus McKinnon Corporation","25.42","574411266.08","n/a","1996","Capital Goods","Construction/Ag Equipment/Trucks","http://www.nasdaq.com/symbol/cmco",
+"FIX","Comfort Systems USA, Inc.","36.55","1362055596.65","n/a","1997","Capital Goods","Engineering & Construction","http://www.nasdaq.com/symbol/fix",
+"CVGI","Commercial Vehicle Group, Inc.","8.28","255402619.56","n/a","2004","Capital Goods","Auto Parts:O.E.M.","http://www.nasdaq.com/symbol/cvgi",
+"CIX","CompX International Inc.","15.1448","188084891.6936","n/a","1998","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/cix",
+"CHCI","Comstock Holding Companies, Inc.","1.99","6848079.54","n/a","2004","Capital Goods","Homebuilding","http://www.nasdaq.com/symbol/chci",
+"CBPX","Continental Building Products, Inc.","21.95","860899501.3","n/a","2014","Capital Goods","Building Materials","http://www.nasdaq.com/symbol/cbpx",
+"CUO","Continental Materials Corporation","19.83","33357371.61","n/a","n/a","Capital Goods","Building Materials","http://www.nasdaq.com/symbol/cuo",
+"CTRL","Control4 Corporation","23.32","567636947.24","n/a","2013","Capital Goods","Electrical Products","http://www.nasdaq.com/symbol/ctrl",
+"CPS","Cooper-Standard Holdings Inc.","103.41","1846709636.94","n/a","n/a","Capital Goods","Auto Parts:O.E.M.","http://www.nasdaq.com/symbol/cps",
+"CVU","CPI Aerostructures, Inc.","9.85","87001602.5","n/a","n/a","Capital Goods","Military/Government/Technical","http://www.nasdaq.com/symbol/cvu",
+"CPSH","CPS Technologies Corp.","1.27","16768363.72","n/a","n/a","Capital Goods","Building Materials","http://www.nasdaq.com/symbol/cpsh",
+"CR","Crane Company","83.54","4971217536.82","n/a","n/a","Capital Goods","Metal Fabrications","http://www.nasdaq.com/symbol/cr",
+"CRH","CRH PLC","35.42","29482967606.4","n/a","n/a","Capital Goods","Building Materials","http://www.nasdaq.com/symbol/crh",
+"CUB","Cubic Corporation","47.6","1290467844.4","n/a","n/a","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/cub",
+"CYBE","CyberOptics Corporation","24.7","171495483.9","n/a","1987","Capital Goods","Electronic Components","http://www.nasdaq.com/symbol/cybe",
+"DHI","D.R. Horton, Inc.","36.61","13749882500.13","n/a","n/a","Capital Goods","Homebuilding","http://www.nasdaq.com/symbol/dhi",
+"DAN","Dana Incorporated","23.45","3389919688.75","n/a","n/a","Capital Goods","Auto Parts:O.E.M.","http://www.nasdaq.com/symbol/dan",
+"DHR","Danaher Corporation","83.05","57646691579.4","n/a","n/a","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/dhr",
+"DAIO","Data I/O Corporation","9.41","75736535.56","n/a","1981","Capital Goods","Electrical Products","http://www.nasdaq.com/symbol/daio",
+"DE","Deere & Company","125.75","40222658949.25","n/a","n/a","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/de",
+"DLPH","Delphi Automotive plc","90.93","24359283528.72","n/a","2011","Capital Goods","Auto Parts:O.E.M.","http://www.nasdaq.com/symbol/dlph",
+"DPW","Digital Power Corporation","0.575","6612761.05","n/a","n/a","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/dpw",
+"BOOM","DMC Global Inc.","13.9","204666241","n/a","n/a","Capital Goods","Industrial Specialties","http://www.nasdaq.com/symbol/boom",
+"DCI","Donaldson Company, Inc.","47.02","6163638799.4","n/a","n/a","Capital Goods","Pollution Control Equipment","http://www.nasdaq.com/symbol/dci",
+"DORM","Dorman Products, Inc.","76.94","2638824259.8","n/a","n/a","Capital Goods","Auto Parts:O.E.M.","http://www.nasdaq.com/symbol/dorm",
+"PLOW","Douglas Dynamics, Inc.","31.6","713872345.2","n/a","2010","Capital Goods","Construction/Ag Equipment/Trucks","http://www.nasdaq.com/symbol/plow",
+"DCO","Ducommun Incorporated","31.24","352054494","n/a","n/a","Capital Goods","Military/Government/Technical","http://www.nasdaq.com/symbol/dco",
+"DXPE","DXP Enterprises, Inc.","33.8","588723701.8","n/a","n/a","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/dxpe",
+"DYSL","Dynasil Corporation of America","1.23","20923962.96","n/a","n/a","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/dysl",
+"EXP","Eagle Materials Inc","92.32","4483794344.16","n/a","n/a","Capital Goods","Building Materials","http://www.nasdaq.com/symbol/exp",
+"EACQ","Easterly Acquisition Corp.","10","250000000","n/a","2015","Capital Goods","Building Products","http://www.nasdaq.com/symbol/eacq",
+"EACQU","Easterly Acquisition Corp.","10.05","0","n/a","2015","Capital Goods","Building Products","http://www.nasdaq.com/symbol/eacqu",
+"EACQW","Easterly Acquisition Corp.","0.7","0","n/a","2015","Capital Goods","Building Products","http://www.nasdaq.com/symbol/eacqw",
+"EML","Eastern Company (The)","29.9","187121166.7","n/a","n/a","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/eml",
+"EKSO","Ekso Bionics Holdings, Inc.","1.73","44347802.64","n/a","n/a","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/ekso",
+"ESLT","Elbit Systems Ltd.","126.27","5397775312.68","n/a","n/a","Capital Goods","Military/Government/Technical","http://www.nasdaq.com/symbol/eslt",
+"ELSE","Electro-Sensors, Inc.","3.6648","12443905.3608","n/a","n/a","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/else",
+"ERJ","Embraer-Empresa Brasileira de Aeronautica","19.77","3630557481.87","n/a","2000","Capital Goods","Aerospace","http://www.nasdaq.com/symbol/erj",
+"EME","EMCOR Group, Inc.","64.87","3842447175.06","n/a","n/a","Capital Goods","Engineering & Construction","http://www.nasdaq.com/symbol/eme",
+"WIRE","Encore Wire Corporation","43.25","897373965.75","n/a","1992","Capital Goods","Metal Fabrications","http://www.nasdaq.com/symbol/wire",
+"ESP","Espey Mfg. & Electronics Corp.","22.6","53591854.6","n/a","n/a","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/esp",
+"ESL","Esterline Technologies Corporation","97.05","2889548163.45","n/a","n/a","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/esl",
+"EXFO","EXFO Inc","4.35","100317294.45","n/a","n/a","Capital Goods","Electrical Products","http://www.nasdaq.com/symbol/exfo",
+"FARO","FARO Technologies, Inc.","39.4","657665548.6","n/a","1997","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/faro",
+"FSS","Federal Signal Corporation","18.21","1088717263.8","n/a","n/a","Capital Goods","Auto Manufacturing","http://www.nasdaq.com/symbol/fss",
+"RACE","Ferrari N.V.","100.02","24549169352.1","n/a","2015","Capital Goods","Auto Manufacturing","http://www.nasdaq.com/symbol/race",
+"GSM","Ferroglobe PLC","12.46","2142456268.26","n/a","n/a","Capital Goods","Metal Fabrications","http://www.nasdaq.com/symbol/gsm",
+"FCAU","Fiat Chrysler Automobiles N.V.","11.75","22867943612.25","n/a","2014","Capital Goods","Auto Manufacturing","http://www.nasdaq.com/symbol/fcau",
+"FLIR","FLIR Systems, Inc.","38.12","5201691474.6","n/a","1993","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/flir",
+"FLS","Flowserve Corporation","46.23","6038482714.56","n/a","n/a","Capital Goods","Fluid Controls","http://www.nasdaq.com/symbol/fls",
+"FLDM","Fluidigm Corporation","3.72","109422784.44","n/a","2011","Capital Goods","Biotechnology: Laboratory Analytical Instruments","http://www.nasdaq.com/symbol/fldm",
+"F","Ford Motor Company","11.53","9238153121.12","n/a","n/a","Capital Goods","Auto Manufacturing","http://www.nasdaq.com/symbol/f",
+"FRTA","Forterra, Inc.","9.02","578532878","n/a","2016","Capital Goods","Building Materials","http://www.nasdaq.com/symbol/frta",
+"FTV","Fortive Corporation","63.25","21923043601.25","n/a","2016","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/ftv",
+"RAIL","Freightcar America, Inc.","16.49","204811258.19","n/a","2005","Capital Goods","Railroads","http://www.nasdaq.com/symbol/rail",
+"FEIM","Frequency Electronics, Inc.","8.59","74987968.38","n/a","n/a","Capital Goods","Electrical Products","http://www.nasdaq.com/symbol/feim",
+"FRD","Friedman Industries Inc.","5.42","37991186.48","n/a","n/a","Capital Goods","Steel/Iron Ore","http://www.nasdaq.com/symbol/frd",
+"FTEK","Fuel Tech, Inc.","0.87","20659756.89","n/a","n/a","Capital Goods","Pollution Control Equipment","http://www.nasdaq.com/symbol/ftek",
+"FFHL","Fuwei Films (Holdings) Co., Ltd.","2.86","9340293.82","n/a","2006","Capital Goods","Specialty Chemicals","http://www.nasdaq.com/symbol/ffhl",
+"GRMN","Garmin Ltd.","51.59","9706989604.62","n/a","2000","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/grmn",
+"GENC","Gencor Industries Inc.","16.1","231746394.6","n/a","n/a","Capital Goods","Construction/Ag Equipment/Trucks","http://www.nasdaq.com/symbol/genc",
+"GD","General Dynamics Corporation","204.55","61709758388.4","n/a","n/a","Capital Goods","Marine Transportation","http://www.nasdaq.com/symbol/gd",
+"GM","General Motors Company","36.07","53914668348.9","n/a","2010","Capital Goods","Auto Manufacturing","http://www.nasdaq.com/symbol/gm",
+"GNTX","Gentex Corporation","17.28","4964030524.8","n/a","n/a","Capital Goods","Auto Parts:O.E.M.","http://www.nasdaq.com/symbol/gntx",
+"THRM","Gentherm Inc","39.7","1458919380.3","n/a","n/a","Capital Goods","Auto Parts:O.E.M.","http://www.nasdaq.com/symbol/thrm",
+"GPC","Genuine Parts Company","82.71","12190959311.49","n/a","n/a","Capital Goods","Automotive Aftermarket","http://www.nasdaq.com/symbol/gpc",
+"GEOS","Geospace Technologies Corporation","14.04","188705546.64","n/a","n/a","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/geos",
+"GGB","Gerdau S.A.","3.35","5725592019.1","n/a","n/a","Capital Goods","Steel/Iron Ore","http://www.nasdaq.com/symbol/ggb",
+"ROCK","Gibraltar Industries, Inc.","31.5","994831236","n/a","1993","Capital Goods","Steel/Iron Ore","http://www.nasdaq.com/symbol/rock",
+"GIGA","Giga-tronics Incorporated","0.832","8140456.896","n/a","1983","Capital Goods","Electrical Products","http://www.nasdaq.com/symbol/giga",
+"BRSS","Global Brass and Copper Holdings, Inc.","32","700315072","n/a","2013","Capital Goods","Metal Fabrications","http://www.nasdaq.com/symbol/brss",
+"GRC","Gorman-Rupp Company (The)","27.14","708167358.22","n/a","n/a","Capital Goods","Fluid Controls","http://www.nasdaq.com/symbol/grc",
+"GGG","Graco Inc.","107.94","5996282880","n/a","n/a","Capital Goods","Fluid Controls","http://www.nasdaq.com/symbol/ggg",
+"GRBK","Green Brick Partners, Inc.","11.4","559392550.8","n/a","n/a","Capital Goods","Homebuilding","http://www.nasdaq.com/symbol/grbk",
+"GBX","Greenbrier Companies, Inc. (The)","44.3","1262673508.4","n/a","1994","Capital Goods","Railroads","http://www.nasdaq.com/symbol/gbx",
+"GFF","Griffon Corporation","20.25","957518293.5","n/a","n/a","Capital Goods","Building Products","http://www.nasdaq.com/symbol/gff",
+"GIFI","Gulf Island Fabrication, Inc.","11.6","172269662.8","n/a","1997","Capital Goods","Metal Fabrications","http://www.nasdaq.com/symbol/gifi",
+"HNH","Handy & Harman Ltd.","32.55","397807579.05","n/a","n/a","Capital Goods","Industrial Specialties","http://www.nasdaq.com/symbol/hnh",
+"HDNG","Hardinge Inc.","12.26","158585110.64","n/a","1995","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/hdng",
+"HRS","Harris Corporation","113.94","13670560737.18","n/a","n/a","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/hrs",
+"HSC","Harsco Corporation","15.55","1246978758","n/a","n/a","Capital Goods","Metal Fabrications","http://www.nasdaq.com/symbol/hsc",
+"HBIO","Harvard Bioscience, Inc.","2.55","88278187.35","n/a","2000","Capital Goods","Biotechnology: Laboratory Analytical Instruments","http://www.nasdaq.com/symbol/hbio",
+"HAYN","Haynes International, Inc.","30.47","381110594.04","n/a","2007","Capital Goods","Steel/Iron Ore","http://www.nasdaq.com/symbol/hayn",
+"HCHC","HC2 Holdings, Inc.","6.2","261366332","n/a","n/a","Capital Goods","Metal Fabrications","http://www.nasdaq.com/symbol/hchc",
+"HEBT","Hebron Technology Co., Ltd.","3.22","47319017.34","n/a","2016","Capital Goods","Metal Fabrications","http://www.nasdaq.com/symbol/hebt",
+"HEI","Heico Corporation","77.49","6533863734.51","n/a","n/a","Capital Goods","Aerospace","http://www.nasdaq.com/symbol/hei",
+"HIHO","Highway Holdings Limited","4.1501","15778157.2874","n/a","n/a","Capital Goods","Metal Fabrications","http://www.nasdaq.com/symbol/hiho",
+"HMC","Honda Motor Company, Ltd.","27.52","49598756470.4","n/a","n/a","Capital Goods","Auto Manufacturing","http://www.nasdaq.com/symbol/hmc",
+"HON","Honeywell International Inc.","136.35","103944807570.6","n/a","n/a","Capital Goods","Auto Parts:O.E.M.","http://www.nasdaq.com/symbol/hon",
+"HZN","Horizon Global Corporation","13.81","353286121.86","n/a","2015","Capital Goods","Auto Parts:O.E.M.","http://www.nasdaq.com/symbol/hzn",
+"HOV","Hovnanian Enterprises Inc","2.41","355152811.92","n/a","n/a","Capital Goods","Homebuilding","http://www.nasdaq.com/symbol/hov",
+"HOVNP","Hovnanian Enterprises Inc","7.27","36350000","n/a","n/a","Capital Goods","Homebuilding","http://www.nasdaq.com/symbol/hovnp",
+"HTGM","HTG Molecular Diagnostics, Inc.","2.37","25220250.72","n/a","2015","Capital Goods","Biotechnology: Laboratory Analytical Instruments","http://www.nasdaq.com/symbol/htgm",
+"HUBB","Hubbell Inc","116.12","6391416889.84","n/a","2015","Capital Goods","Electrical Products","http://www.nasdaq.com/symbol/hubb",
+"HII","Huntington Ingalls Industries, Inc.","201.35","9266035184.4","n/a","n/a","Capital Goods","Marine Transportation","http://www.nasdaq.com/symbol/hii",
+"HURC","Hurco Companies, Inc.","33.75","223566648.75","n/a","n/a","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/hurc",
+"HY","Hyster-Yale Materials Handling, Inc.","71.63","1178602097.27","n/a","n/a","Capital Goods","Construction/Ag Equipment/Trucks","http://www.nasdaq.com/symbol/hy",
+"IEP","Icahn Enterprises L.P.","53.25","8533238482.5","n/a","n/a","Capital Goods","Auto Parts:O.E.M.","http://www.nasdaq.com/symbol/iep",
+"IEX","IDEX Corporation","113.97","8696813528.43","n/a","1989","Capital Goods","Fluid Controls","http://www.nasdaq.com/symbol/iex",
+"IESC","IES Holdings, Inc.","17.35","372529275.8","n/a","n/a","Capital Goods","Engineering & Construction","http://www.nasdaq.com/symbol/iesc",
+"IIVI","II-VI Incorporated","38.2","2411518479.2","n/a","1987","Capital Goods","Electronic Components","http://www.nasdaq.com/symbol/iivi",
+"ILMN","Illumina, Inc.","172.75","25221500000","n/a","2000","Capital Goods","Biotechnology: Laboratory Analytical Instruments","http://www.nasdaq.com/symbol/ilmn",
+"ISNS","Image Sensing Systems, Inc.","3.85","19819476.6","n/a","1995","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/isns",
+"PI","Impinj, Inc.","52.41","1081501890.51","n/a","2016","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/pi",
+"IR","Ingersoll-Rand plc (Ireland)","91.67","23469566899.43","n/a","n/a","Capital Goods","Auto Parts:O.E.M.","http://www.nasdaq.com/symbol/ir",
+"IIIN","Insteel Industries, Inc.","26.3","500364390.6","n/a","n/a","Capital Goods","Steel/Iron Ore","http://www.nasdaq.com/symbol/iiin",
+"IART","Integra LifeSciences Holdings Corporation","55.04","4162171969.28","n/a","n/a","Capital Goods","Biotechnology: Laboratory Analytical Instruments","http://www.nasdaq.com/symbol/iart",
+"INTT","inTest Corporation","7.6","79055640.8","n/a","1997","Capital Goods","Electrical Products","http://www.nasdaq.com/symbol/intt",
+"IIN","IntriCon Corporation","7.6874","52611251.0546","n/a","n/a","Capital Goods","Electrical Products","http://www.nasdaq.com/symbol/iin",
+"ITRI","Itron, Inc.","73.6","2844534531.2","n/a","1993","Capital Goods","Electrical Products","http://www.nasdaq.com/symbol/itri",
+"ITT","ITT Inc.","41.63","3692581000","n/a","2011","Capital Goods","Fluid Controls","http://www.nasdaq.com/symbol/itt",
+"JHX","James Hardie Industries plc.","15.2","6701070297.6","n/a","n/a","Capital Goods","Building Materials","http://www.nasdaq.com/symbol/jhx",
+"KALU","Kaiser Aluminum Corporation","95.89","1646634107.35","n/a","n/a","Capital Goods","Metal Fabrications","http://www.nasdaq.com/symbol/kalu",
+"KNDI","Kandi Technologies Group, Inc.","4.125","198088844.25","n/a","n/a","Capital Goods","Auto Manufacturing","http://www.nasdaq.com/symbol/kndi",
+"KBH","KB Home","23.3","1993273129.9","n/a","1986","Capital Goods","Homebuilding","http://www.nasdaq.com/symbol/kbh",
+"KIQ","Kelso Technologies Inc","0.7828","36722519.4656","n/a","n/a","Capital Goods","Railroads","http://www.nasdaq.com/symbol/kiq",
+"KEM","Kemet Corporation","16.33","776271992.14","n/a","n/a","Capital Goods","Electrical Products","http://www.nasdaq.com/symbol/kem",
+"KMT","Kennametal Inc.","37.88","3051393020.24","n/a","n/a","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/kmt",
+"KEQU","Kewaunee Scientific Corporation","25.3","68612410.9","n/a","n/a","Capital Goods","Medical Specialities","http://www.nasdaq.com/symbol/kequ",
+"KEYS","Keysight Technologies Inc.","41.97","7779892693.62","n/a","2014","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/keys",
+"KLAC","KLA-Tencor Corporation","99.89","15659018411.47","n/a","1980","Capital Goods","Electronic Components","http://www.nasdaq.com/symbol/klac",
+"KLXI","KLX Inc.","51.5","2663634023.5","n/a","n/a","Capital Goods","Aerospace","http://www.nasdaq.com/symbol/klxi",
+"KRNT","Kornit Digital Ltd.","21.2","712651843.6","n/a","2015","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/krnt",
+"KTOS","Kratos Defense & Security Solutions, Inc.","12.38","1070202519.92","n/a","n/a","Capital Goods","Military/Government/Technical","http://www.nasdaq.com/symbol/ktos",
+"SCX","L.S. Starrett Company (The)","8","56467192","n/a","n/a","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/scx",
+"LDR","Landauer, Inc.","54.8","528264492.4","n/a","n/a","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/ldr",
+"LCII","LCI Industries ","101.9","2537846095.9","n/a","n/a","Capital Goods","Auto Parts:O.E.M.","http://www.nasdaq.com/symbol/lcii",
+"LEA","Lear Corporation","144.51","9955048811.04","n/a","n/a","Capital Goods","Auto Parts:O.E.M.","http://www.nasdaq.com/symbol/lea",
+"LII","Lennox International, Inc.","182.41","7784101408.55","n/a","1999","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/lii",
+"LPL","LG Display Co., Ltd.","15.28","10934847792","n/a","2004","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/lpl",
+"LGIH","LGI Homes, Inc.","43.28","934841984.08","n/a","2013","Capital Goods","Homebuilding","http://www.nasdaq.com/symbol/lgih",
+"LGL","LGL Group, Inc. (The)","4.61","12333898.26","n/a","n/a","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/lgl",
+"LBY","Libbey, Inc.","7.49","164371615.24","n/a","1993","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/lby",
+"LCUT","Lifetime Brands, Inc.","19.55","284955873.4","n/a","1991","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/lcut",
+"LNN","Lindsay Corporation","92.77","991678644.96","n/a","n/a","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/lnn",
+"LMT","Lockheed Martin Corporation","289.12","83683775483.36","n/a","n/a","Capital Goods","Military/Government/Technical","http://www.nasdaq.com/symbol/lmt",
+"LDL","Lydall, Inc.","49.5","852820254","n/a","n/a","Capital Goods","Auto Parts:O.E.M.","http://www.nasdaq.com/symbol/ldl",
+"WLH","Lyon William Homes","23.42","747932712.22","n/a","2013","Capital Goods","Homebuilding","http://www.nasdaq.com/symbol/wlh",
+"MDC","M.D.C. Holdings, Inc.","35.61","1836098676.42","n/a","n/a","Capital Goods","Homebuilding","http://www.nasdaq.com/symbol/mdc",
+"MHO","M/I Homes, Inc.","27.25","675658082","n/a","1993","Capital Goods","Homebuilding","http://www.nasdaq.com/symbol/mho",
+"MGA","Magna International, Inc.","47.61","17764227821.97","n/a","n/a","Capital Goods","Auto Parts:O.E.M.","http://www.nasdaq.com/symbol/mga",
+"MBUU","Malibu Boats, Inc.","28.54","512860888.92","n/a","2014","Capital Goods","Marine Transportation","http://www.nasdaq.com/symbol/mbuu",
+"MTW","Manitowoc Company, Inc. (The)","5.79","813718777.71","n/a","n/a","Capital Goods","Construction/Ag Equipment/Trucks","http://www.nasdaq.com/symbol/mtw",
+"MPX","Marine Products Corporation","14.81","517718442.36","n/a","n/a","Capital Goods","Marine Transportation","http://www.nasdaq.com/symbol/mpx",
+"MTRN","Materion Corporation","37.8","755488188","n/a","n/a","Capital Goods","Industrial Specialties","http://www.nasdaq.com/symbol/mtrn",
+"MATW","Matthews International Corporation","65.45","2108730670.2","n/a","1994","Capital Goods","Metal Fabrications","http://www.nasdaq.com/symbol/matw",
+"MCFT","MCBC Holdings, Inc.","19.21","358045757.89","n/a","2015","Capital Goods","Marine Transportation","http://www.nasdaq.com/symbol/mcft",
+"MDR","McDermott International, Inc.","7.19","2040969174.86","n/a","n/a","Capital Goods","Metal Fabrications","http://www.nasdaq.com/symbol/mdr",
+"MRCY","Mercury Systems Inc","44.04","2113603000.08","n/a","1998","Capital Goods","Electrical Products","http://www.nasdaq.com/symbol/mrcy",
+"MTH","Meritage Corporation","42.1","1697223273.2","n/a","n/a","Capital Goods","Homebuilding","http://www.nasdaq.com/symbol/mth",
+"MTOR","Meritor, Inc.","17.78","1574786530.38","n/a","n/a","Capital Goods","Auto Parts:O.E.M.","http://www.nasdaq.com/symbol/mtor",
+"MLAB","Mesa Laboratories, Inc.","152.46","569800954.8","n/a","n/a","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/mlab",
+"MEI","Methode Electronics, Inc.","40.5","1489885690.5","n/a","n/a","Capital Goods","Electrical Products","http://www.nasdaq.com/symbol/mei",
+"MTD","Mettler-Toledo International, Inc.","613.49","15841535712.55","n/a","1997","Capital Goods","Biotechnology: Laboratory Analytical Instruments","http://www.nasdaq.com/symbol/mtd",
+"MICT","Micronet Enertec Technologies, Inc.","1","6823629","n/a","n/a","Capital Goods","Electrical Products","http://www.nasdaq.com/symbol/mict",
+"MICTW","Micronet Enertec Technologies, Inc.","0.1299","0","n/a","n/a","Capital Goods","Electrical Products","http://www.nasdaq.com/symbol/mictw",
+"MVIS","Microvision, Inc.","2.25","153274500","n/a","1996","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/mvis",
+"MLR","Miller Industries, Inc.","25.7","291745937.4","n/a","n/a","Capital Goods","Construction/Ag Equipment/Trucks","http://www.nasdaq.com/symbol/mlr",
+"MSON","MISONIX, Inc.","8.5","76698509","n/a","1992","Capital Goods","Medical Specialities","http://www.nasdaq.com/symbol/mson",
+"MKSI","MKS Instruments, Inc.","79.45","4298898952.95","n/a","1999","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/mksi",
+"MINI","Mobile Mini, Inc.","30.75","1359273061.5","n/a","1994","Capital Goods","Metal Fabrications","http://www.nasdaq.com/symbol/mini",
+"MOD","Modine Manufacturing Company","16.5","826316056.5","n/a","n/a","Capital Goods","Auto Parts:O.E.M.","http://www.nasdaq.com/symbol/mod",
+"MPAA","Motorcar Parts of America, Inc.","27.68","516282211.52","n/a","n/a","Capital Goods","Auto Parts:O.E.M.","http://www.nasdaq.com/symbol/mpaa",
+"MRC","MRC Global Inc.","16.18","1528579870.88","n/a","2012","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/mrc",
+"MSM","MSC Industrial Direct Company, Inc.","70.8","4032270630","n/a","1995","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/msm",
+"MTSC","MTS Systems Corporation","53.1","888983261.1","n/a","n/a","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/mtsc",
+"MLI","Mueller Industries, Inc.","30.33","1747071147.06","n/a","n/a","Capital Goods","Metal Fabrications","http://www.nasdaq.com/symbol/mli",
+"MWA","MUELLER WATER PRODUCTS","11.5","1834400822.5","n/a","2006","Capital Goods","Metal Fabrications","http://www.nasdaq.com/symbol/mwa",
+"NANO","Nanometrics Incorporated","27.49","694169013.08","n/a","1984","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/nano",
+"NPK","National Presto Industries, Inc.","111.5","776427462.5","n/a","n/a","Capital Goods","Ordnance And Accessories","http://www.nasdaq.com/symbol/npk",
+"SID","National Steel Company","2.31","3134977338.57","n/a","n/a","Capital Goods","Steel/Iron Ore","http://www.nasdaq.com/symbol/sid",
+"NAV","Navistar International Corporation","29.41","2886544561.64","n/a","n/a","Capital Goods","Auto Manufacturing","http://www.nasdaq.com/symbol/nav",
+"NAV^D","Navistar International Corporation","10.36","0","n/a","n/a","Capital Goods","Auto Manufacturing","http://www.nasdaq.com/symbol/nav^d",
+"NCS","NCI Building Systems, Inc.","17.55","1244290472.1","n/a","n/a","Capital Goods","Metal Fabrications","http://www.nasdaq.com/symbol/ncs",
+"NEON","Neonode Inc.","1.18","57636513.54","n/a","n/a","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/neon",
+"NWHM","New Home Company Inc. (The)","11.39","237634114.61","n/a","2014","Capital Goods","Homebuilding","http://www.nasdaq.com/symbol/nwhm",
+"NFEC","NF Energy Saving Corporation","0.86","6083028.54","n/a","n/a","Capital Goods","Metal Fabrications","http://www.nasdaq.com/symbol/nfec",
+"NNBR","NN, Inc.","28.8","790994073.6","n/a","1994","Capital Goods","Metal Fabrications","http://www.nasdaq.com/symbol/nnbr",
+"NDSN","Nordson Corporation","123.98","7145668630.88","n/a","n/a","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/ndsn",
+"NSYS","Nortech Systems Incorporated","3.65","10029583.15","n/a","n/a","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/nsys",
+"NTIC","Northern Technologies International Corporation","17.25","78091060.5","n/a","n/a","Capital Goods","Industrial Specialties","http://www.nasdaq.com/symbol/ntic",
+"NOC","Northrop Grumman Corporation","265.3","46314156942.2","n/a","n/a","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/noc",
+"NVMI","Nova Measuring Instruments Ltd.","24.95","685891443.05","n/a","2000","Capital Goods","Electronic Components","http://www.nasdaq.com/symbol/nvmi",
+"NVR","NVR, Inc.","2648.45","9925802644.1","n/a","n/a","Capital Goods","Homebuilding","http://www.nasdaq.com/symbol/nvr",
+"OFLX","Omega Flex, Inc.","58.11","586435776.42","n/a","n/a","Capital Goods","Industrial Specialties","http://www.nasdaq.com/symbol/oflx",
+"OA","Orbital ATK, Inc.","103.25","5959344471.5","n/a","n/a","Capital Goods","Military/Government/Technical","http://www.nasdaq.com/symbol/oa",
+"ORBK","Orbotech Ltd.","36.98","1771342000","n/a","n/a","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/orbk",
+"OSK","Oshkosh Corporation","69.74","5216170243.24","n/a","n/a","Capital Goods","Auto Manufacturing","http://www.nasdaq.com/symbol/osk",
+"OC","Owens Corning Inc","64.76","7246812311.24","n/a","n/a","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/oc",
+"PCAR","PACCAR Inc.","68.87","24192626120.87","n/a","n/a","Capital Goods","Auto Manufacturing","http://www.nasdaq.com/symbol/pcar",
+"PACB","Pacific Biosciences of California, Inc.","3.18","367079127.84","n/a","2010","Capital Goods","Biotechnology: Laboratory Analytical Instruments","http://www.nasdaq.com/symbol/pacb",
+"PH","Parker-Hannifin Corporation","164.54","21913989889.86","n/a","n/a","Capital Goods","Metal Fabrications","http://www.nasdaq.com/symbol/ph",
+"PKOH","Park-Ohio Holdings Corp.","39.9","501071980.5","n/a","n/a","Capital Goods","Industrial Specialties","http://www.nasdaq.com/symbol/pkoh",
+"PRCP","Perceptron, Inc.","7.38","69521474.52","n/a","1992","Capital Goods","Electronic Components","http://www.nasdaq.com/symbol/prcp",
+"PKI","PerkinElmer, Inc.","69.52","7649912183.76","n/a","n/a","Capital Goods","Biotechnology: Laboratory Analytical Instruments","http://www.nasdaq.com/symbol/pki",
+"PPIH","Perma-Pipe International Holdings, Inc.","7.9","60212528.1","n/a","n/a","Capital Goods","Pollution Control Equipment","http://www.nasdaq.com/symbol/ppih",
+"PGTI","PGT Innovations, Inc.","13","642480852","n/a","2006","Capital Goods","Building Products","http://www.nasdaq.com/symbol/pgti",
+"PII","Polaris Industries Inc.","94.33","5942145065.79","n/a","n/a","Capital Goods","Industrial Specialties","http://www.nasdaq.com/symbol/pii",
+"PRPO","Precipio, Inc.","11.35","75001458.3","n/a","n/a","Capital Goods","Biotechnology: Laboratory Analytical Instruments","http://www.nasdaq.com/symbol/prpo",
+"PRLB","Proto Labs, Inc.","71.4","1891741643.4","n/a","2012","Capital Goods","Metal Fabrications","http://www.nasdaq.com/symbol/prlb",
+"PSDV","pSivida Corp.","1.37","53919088.63","n/a","n/a","Capital Goods","Biotechnology: Laboratory Analytical Instruments","http://www.nasdaq.com/symbol/psdv",
+"PHM","PulteGroup, Inc.","24.31","7669899614.52","n/a","n/a","Capital Goods","Homebuilding","http://www.nasdaq.com/symbol/phm",
+"NX","Quanex Building Products Corporation","21.2","730204680.4","n/a","n/a","Capital Goods","Metal Fabrications","http://www.nasdaq.com/symbol/nx",
+"PWR","Quanta Services, Inc.","33.05","4895088578.3","n/a","n/a","Capital Goods","Engineering & Construction","http://www.nasdaq.com/symbol/pwr",
+"RAVN","Raven Industries, Inc.","34.6","1248733237.6","n/a","n/a","Capital Goods","Specialty Chemicals","http://www.nasdaq.com/symbol/ravn",
+"RTN","Raytheon Company","169.37","49299203380","n/a","n/a","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/rtn",
+"ROLL","RBC Bearings Incorporated","103.86","2501688283.2","n/a","2005","Capital Goods","Metal Fabrications","http://www.nasdaq.com/symbol/roll",
+"REVG","REV Group, Inc.","26.24","1672086140.8","n/a","2017","Capital Goods","Auto Manufacturing","http://www.nasdaq.com/symbol/revg",
+"RFIL","RF Industries, Ltd.","1.8748","16564763.5284","n/a","n/a","Capital Goods","Electrical Products","http://www.nasdaq.com/symbol/rfil",
+"ROK","Rockwell Automation, Inc.","165.08","21268148492.32","n/a","n/a","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/rok",
+"COL","Rockwell Collins, Inc.","109.31","17750136340.53","n/a","n/a","Capital Goods","Military/Government/Technical","http://www.nasdaq.com/symbol/col",
+"ROKA","Roka Bioscience, Inc.","2.55","12769742.1","n/a","2014","Capital Goods","Biotechnology: Laboratory Analytical Instruments","http://www.nasdaq.com/symbol/roka",
+"ROP","Roper Technologies, Inc.","234.77","23954045596.9","n/a","1992","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/rop",
+"RTEC","Rudolph Technologies, Inc.","25.25","793847627.5","n/a","1999","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/rtec",
+"SMIT","Schmitt Industries, Inc.","1.81","5422597.1","n/a","n/a","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/smit",
+"ST","Sensata Technologies Holding N.V.","44.37","7592479969.77","n/a","2010","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/st",
+"SENS","Senseonics Holdings, Inc.","2.36","222079252.08","n/a","n/a","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/sens",
+"SVT","Servotronics, Inc.","9.27","22567342.23","n/a","n/a","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/svt",
+"SHLO","Shiloh Industries, Inc.","8.19","146386356.48","n/a","1993","Capital Goods","Industrial Specialties","http://www.nasdaq.com/symbol/shlo",
+"SIF","SIFCO Industries, Inc.","6.85","38351204.6","n/a","n/a","Capital Goods","Aerospace","http://www.nasdaq.com/symbol/sif",
+"SSD","Simpson Manufacturing Company, Inc.","44.5","2120616750.5","n/a","n/a","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/ssd",
+"SNA","Snap-On Incorporated","150","8692366500","n/a","n/a","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/sna",
+"SORL","SORL Auto Parts, Inc.","7.33","141505070.93","n/a","n/a","Capital Goods","Auto Parts:O.E.M.","http://www.nasdaq.com/symbol/sorl",
+"SPAR","Spartan Motors, Inc.","9.05","317905585.45","n/a","n/a","Capital Goods","Auto Manufacturing","http://www.nasdaq.com/symbol/spar",
+"SPR","Spirit Aerosystems Holdings, Inc.","60.84","7338369916.8","n/a","2006","Capital Goods","Military/Government/Technical","http://www.nasdaq.com/symbol/spr",
+"SMP","Standard Motor Products, Inc.","52.22","1191787503.48","n/a","n/a","Capital Goods","Auto Parts:O.E.M.","http://www.nasdaq.com/symbol/smp",
+"SWJ","Stanley Black & Decker, Inc.","25.57","0","n/a","n/a","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/swj",
+"SWK","Stanley Black & Decker, Inc.","146.79","22465511366.76","n/a","n/a","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/swk",
+"SWP","Stanley Black & Decker, Inc.","109.81","0","n/a","n/a","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/swp",
+"SPLP","Steel Partners Holdings LP","18.6","483914823.6","n/a","n/a","Capital Goods","Industrial Specialties","http://www.nasdaq.com/symbol/splp",
+"SRI","Stoneridge, Inc.","15.48","435667107.6","n/a","1997","Capital Goods","Auto Parts:O.E.M.","http://www.nasdaq.com/symbol/sri",
+"STRT","Strattec Security Corporation","36.1","132475628.5","n/a","n/a","Capital Goods","Auto Parts:O.E.M.","http://www.nasdaq.com/symbol/strt",
+"RGR","Sturm, Ruger & Company, Inc.","57.45","1014811047.6","n/a","n/a","Capital Goods","Ordnance And Accessories","http://www.nasdaq.com/symbol/rgr",
+"SNHY","Sun Hydraulics Corporation","41.67","1126945523.43","n/a","1997","Capital Goods","Metal Fabrications","http://www.nasdaq.com/symbol/snhy",
+"RUN","Sunrun Inc.","7.29","768692336.85","n/a","2015","Capital Goods","Industrial Specialties","http://www.nasdaq.com/symbol/run",
+"SUP","Superior Industries International, Inc.","20.1","500631021.6","n/a","n/a","Capital Goods","Auto Parts:O.E.M.","http://www.nasdaq.com/symbol/sup",
+"STS","Supreme Industries, Inc.","15.71","269520351.54","n/a","n/a","Capital Goods","Construction/Ag Equipment/Trucks","http://www.nasdaq.com/symbol/sts",
+"SYPR","Sypris Solutions, Inc.","1.67","35736664","n/a","n/a","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/sypr",
+"TATT","TAT Technologies Ltd.","10.7","94464350.8","n/a","n/a","Capital Goods","Aerospace","http://www.nasdaq.com/symbol/tatt",
+"TTM","Tata Motors Ltd","35.69","24244782008.39","n/a","n/a","Capital Goods","Auto Manufacturing","http://www.nasdaq.com/symbol/ttm",
+"TAYD","Taylor Devices, Inc.","13.15","45193394","n/a","n/a","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/tayd",
+"TMHC","Taylor Morrison Home Corporation","23.73","3078903025.59","n/a","2013","Capital Goods","Homebuilding","http://www.nasdaq.com/symbol/tmhc",
+"TGEN","Tecogen Inc.","3.3","81529760.4","n/a","2014","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/tgen",
+"TDY","Teledyne Technologies Incorporated","135.97","4797916146.63","n/a","n/a","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/tdy",
+"TNAV","Telenav, Inc.","7.95","347689275","n/a","2010","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/tnav",
+"TIK","Tel-Instrument Electronics Corp.","3.75","12209576.25","n/a","n/a","Capital Goods","Electrical Products","http://www.nasdaq.com/symbol/tik",
+"TEN","Tenneco Inc.","57.86","3127443628.32","n/a","n/a","Capital Goods","Auto Parts:O.E.M.","http://www.nasdaq.com/symbol/ten",
+"TER","Teradyne, Inc.","35.13","6989139039.51","n/a","n/a","Capital Goods","Electrical Products","http://www.nasdaq.com/symbol/ter",
+"TEX","Terex Corporation","38.43","3750768000","n/a","n/a","Capital Goods","Construction/Ag Equipment/Trucks","http://www.nasdaq.com/symbol/tex",
+"TSLA","Tesla, Inc. ","328.4","53942897302.4","n/a","2010","Capital Goods","Auto Manufacturing","http://www.nasdaq.com/symbol/tsla",
+"TXT","Textron Inc.","48.49","12980253720.59","n/a","n/a","Capital Goods","Aerospace","http://www.nasdaq.com/symbol/txt",
+"XONE","The ExOne Company","11.26","181750880.36","n/a","2013","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/xone",
+"TMO","Thermo Fisher Scientific Inc","182.18","71272444661.24","n/a","n/a","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/tmo",
+"TKR","Timken Company (The)","48.7","3798281599.4","n/a","n/a","Capital Goods","Metal Fabrications","http://www.nasdaq.com/symbol/tkr",
+"TOL","Toll Brothers Inc.","39.3","6428497500","n/a","n/a","Capital Goods","Homebuilding","http://www.nasdaq.com/symbol/tol",
+"TTC","Toro Company (The)","71.49","7714960307.64","n/a","n/a","Capital Goods","Tools/Hardware","http://www.nasdaq.com/symbol/ttc",
+"TOWR","Tower International, Inc.","22.75","466143450.5","n/a","2010","Capital Goods","Auto Parts:O.E.M.","http://www.nasdaq.com/symbol/towr",
+"TM","Toyota Motor Corp Ltd Ord","109.31","162583477694.68","n/a","n/a","Capital Goods","Auto Manufacturing","http://www.nasdaq.com/symbol/tm",
+"TRNS","Transcat, Inc.","12.8997","91699065.414","n/a","n/a","Capital Goods","Electrical Products","http://www.nasdaq.com/symbol/trns",
+"TDG","Transdigm Group Incorporated","286.5","14904822711","n/a","2006","Capital Goods","Military/Government/Technical","http://www.nasdaq.com/symbol/tdg",
+"TG","Tredegar Corporation","15.3","505396332","n/a","n/a","Capital Goods","Metal Fabrications","http://www.nasdaq.com/symbol/tg",
+"TPH","TRI Pointe Group, Inc.","13.98","2219545087.14","n/a","2013","Capital Goods","Homebuilding","http://www.nasdaq.com/symbol/tph",
+"TRS","TriMas Corporation","22.15","1012543725.25","n/a","2007","Capital Goods","Industrial Specialties","http://www.nasdaq.com/symbol/trs",
+"TRMB","Trimble Inc.","37.71","9536748547.41","n/a","1990","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/trmb",
+"TRN","Trinity Industries, Inc.","27.82","4233457005.18","n/a","n/a","Capital Goods","Railroads","http://www.nasdaq.com/symbol/trn",
+"TGI","Triumph Group, Inc.","34.2","1696711795.2","n/a","1996","Capital Goods","Aerospace","http://www.nasdaq.com/symbol/tgi",
+"USCR","U S Concrete, Inc.","78.05","1249113370.75","n/a","n/a","Capital Goods","Building Materials","http://www.nasdaq.com/symbol/uscr",
+"UCP","UCP, Inc.","11.2","89134236.8","n/a","2013","Capital Goods","Homebuilding","http://www.nasdaq.com/symbol/ucp",
+"UFPT","UFP Technologies, Inc.","27.35","197791945.35","n/a","1993","Capital Goods","Containers/Packaging","http://www.nasdaq.com/symbol/ufpt",
+"UNXL","Uni-Pixel, Inc.","0.39","25159852.38","n/a","n/a","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/unxl",
+"UFAB","Unique Fabricating, Inc.","8.6","83896938.8","n/a","2015","Capital Goods","Auto Parts:O.E.M.","http://www.nasdaq.com/symbol/ufab",
+"UAMY","United States Antimony Corporation","0.35","23514213.1","n/a","n/a","Capital Goods","Metal Fabrications","http://www.nasdaq.com/symbol/uamy",
+"UTX","United Technologies Corporation","123.49","98943584468.96","n/a","n/a","Capital Goods","Aerospace","http://www.nasdaq.com/symbol/utx",
+"OLED","Universal Display Corporation","123.1","5789178559.8","n/a","n/a","Capital Goods","Electrical Products","http://www.nasdaq.com/symbol/oled",
+"UQM","UQM TECHNOLOGIES INC","0.89","43237939.06","n/a","n/a","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/uqm",
+"USG","USG Corporation","29.07","4238173440","n/a","n/a","Capital Goods","Building Materials","http://www.nasdaq.com/symbol/usg",
+"VMI","Valmont Industries, Inc.","157.95","3567239623.35","n/a","n/a","Capital Goods","Metal Fabrications","http://www.nasdaq.com/symbol/vmi",
+"VREX","Varex Imaging Corporation","31.48","1182407089.88","n/a","n/a","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/vrex",
+"VEDL","Vedanta  Limited","16.81","12460412500","n/a","2013","Capital Goods","Metal Fabrications","http://www.nasdaq.com/symbol/vedl",
+"VICR","Vicor Corporation","19.75","772311702.5","n/a","n/a","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/vicr",
+"VSH","Vishay Intertechnology, Inc.","18.05","2638489723.8","n/a","n/a","Capital Goods","Electrical Products","http://www.nasdaq.com/symbol/vsh",
+"VPG","Vishay Precision Group, Inc.","17.6","232630780.8","n/a","n/a","Capital Goods","Electrical Products","http://www.nasdaq.com/symbol/vpg",
+"VSTO","Vista Outdoor Inc.","22.62","1289480899.98","n/a","2015","Capital Goods","Ordnance And Accessories","http://www.nasdaq.com/symbol/vsto",
+"VC","Visteon Corporation","107.8","3424330494.2","n/a","n/a","Capital Goods","Auto Parts:O.E.M.","http://www.nasdaq.com/symbol/vc",
+"VSLR","Vivint Solar, Inc.","5.3","586054050.8","n/a","2014","Capital Goods","Building Products","http://www.nasdaq.com/symbol/vslr",
+"VJET","voxeljet AG","4.33","80538000","n/a","2013","Capital Goods","Industrial Machinery/Components","http://www.nasdaq.com/symbol/vjet",
+"WNC","Wabash National Corporation","22.68","1364098647.24","n/a","1991","Capital Goods","Construction/Ag Equipment/Trucks","http://www.nasdaq.com/symbol/wnc",
+"WBC","Wabco Holdings Inc.","140.5","7601700093.5","n/a","n/a","Capital Goods","Auto Manufacturing","http://www.nasdaq.com/symbol/wbc",
+"WAT","Waters Corporation","185.24","14826152798.16","n/a","1995","Capital Goods","Biotechnology: Laboratory Analytical Instruments","http://www.nasdaq.com/symbol/wat",
+"WTS","Watts Water Technologies, Inc.","64.6","2213103363.6","n/a","1986","Capital Goods","Metal Fabrications","http://www.nasdaq.com/symbol/wts",
+"WAIR","Wesco Aircraft Holdings, Inc.","11","1096554646","n/a","2011","Capital Goods","Wholesale Distributors","http://www.nasdaq.com/symbol/wair",
+"WAB","Westinghouse Air Brake Technologies Corporation","87.49","8395584407.47","n/a","n/a","Capital Goods","Railroads","http://www.nasdaq.com/symbol/wab",
+"WTT","Wireless Telecom Group,  Inc.","1.53","34102896.75","n/a","n/a","Capital Goods","Electrical Products","http://www.nasdaq.com/symbol/wtt",
+"WKHS","Workhorse Group, Inc.","2.95","106072256.15","n/a","n/a","Capital Goods","Auto Manufacturing","http://www.nasdaq.com/symbol/wkhs",
+"WOR","Worthington Industries, Inc.","52.11","3318394711.14","n/a","n/a","Capital Goods","Steel/Iron Ore","http://www.nasdaq.com/symbol/wor",
+"XCRA","Xcerra Corporation","9.73","528020585.75","n/a","n/a","Capital Goods","Electrical Products","http://www.nasdaq.com/symbol/xcra",
+"XYL","Xylem Inc.","57.62","10355259889.92","n/a","2011","Capital Goods","Fluid Controls","http://www.nasdaq.com/symbol/xyl",

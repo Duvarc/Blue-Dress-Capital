@@ -1,114 +1,122 @@
-Symbol,Name,Sector,Industry
-AIRM,Air Methods Corporation,Transportation,Transportation Services
-AIRT,"Air T, Inc.",Transportation,Air Freight/Delivery Services
-ATSG,"Air Transport Services Group, Inc",Transportation,Air Freight/Delivery Services
-ALK,"Alaska Air Group, Inc.",Transportation,Air Freight/Delivery Services
-ALGT,Allegiant Travel Company,Transportation,Air Freight/Delivery Services
-AAL,"American Airlines Group, Inc.",Transportation,Air Freight/Delivery Services
-ARCB,ArcBest Corporation,Transportation,Trucking Freight/Courier Services
-ASC,Ardmore Shipping Corporation,Transportation,Marine Transportation
-AAWW,Atlas Air Worldwide Holdings,Transportation,Transportation Services
-AVH,Avianca Holdings S.A.,Transportation,Air Freight/Delivery Services
-BCO,Brink&#39;s Company (The),Transportation,Oil Refining/Marketing
-BRS,Bristow Group Inc,Transportation,Transportation Services
-CHRW,"C.H. Robinson Worldwide, Inc.",Transportation,Oil Refining/Marketing
-CNI,Canadian National Railway Company,Transportation,Railroads
-CP,Canadian Pacific Railway Limited,Transportation,Railroads
-CPLP,Capital Product Partners L.P.,Transportation,Marine Transportation
-CGI,"Celadon Group, Inc.",Transportation,Trucking Freight/Courier Services
-CEA,China Eastern Airlines Corporation Ltd.,Transportation,Air Freight/Delivery Services
-ZNH,China Southern Airlines Company Limited,Transportation,Air Freight/Delivery Services
-VLRS,"Controladora Vuela Compania de Aviacion, S.A.B. de C.V.",Transportation,Air Freight/Delivery Services
-CPA,"Copa Holdings, S.A.",Transportation,Air Freight/Delivery Services
-CMRE,Costamare Inc.,Transportation,Marine Transportation
-CVTI,"Covenant Transportation Group, Inc.",Transportation,Trucking Freight/Courier Services
-CSX,CSX Corporation,Transportation,Railroads
-DAC,Danaos Corporation,Transportation,Marine Transportation
-DAL,"Delta Air Lines, Inc.",Transportation,Air Freight/Delivery Services
-DHT,"DHT Holdings, Inc.",Transportation,Marine Transportation
-DCIX,Diana Containerships Inc.,Transportation,Marine Transportation
-DSX,Diana Shipping inc.,Transportation,Marine Transportation
-DSXN,Diana Shipping inc.,Transportation,Marine Transportation
-LPG,Dorian LPG Ltd.,Transportation,Marine Transportation
-DRYS,DryShips Inc.,Transportation,Marine Transportation
-EGLE,Eagle Bulk Shipping Inc.,Transportation,Marine Transportation
-ECHO,"Echo Global Logistics, Inc.",Transportation,Oil Refining/Marketing
-ERA,"Era Group, Inc.",Transportation,Transportation Services
-EURN,Euronav NV,Transportation,Marine Transportation
-ESEA,Euroseas Ltd.,Transportation,Marine Transportation
-EXPD,"Expeditors International of Washington, Inc.",Transportation,Oil Refining/Marketing
-FDX,FedEx Corporation,Transportation,Air Freight/Delivery Services
-FWRD,Forward Air Corporation,Transportation,Oil Refining/Marketing
-FRO,Frontline Ltd.,Transportation,Marine Transportation
-GNK,Genco Shipping & Trading Limited Warrants Expiring 12/31/2021 ,Transportation,Marine Transportation
-GNRT,"Gener8 Maritime, Inc.",Transportation,Marine Transportation
-GWR,"Genesee & Wyoming, Inc.",Transportation,Railroads
-GSL,"Global Ship Lease, Inc.",Transportation,Marine Transportation
-GLBS,Globus Maritime Limited,Transportation,Marine Transportation
-GOL,Gol Linhas Aereas Inteligentes S.A.,Transportation,Air Freight/Delivery Services
-OMAB,Grupo Aeroportuario del Centro Norte S.A.B. de C.V.,Transportation,Aerospace
-PAC,"Grupo Aeroportuario Del Pacifico, S.A. de C.V.",Transportation,Aerospace
-ASR,"Grupo Aeroportuario del Sureste, S.A. de C.V.",Transportation,Aerospace
-GSH,Guangshen Railway Company Limited,Transportation,Railroads
-HA,"Hawaiian Holdings, Inc.",Transportation,Air Freight/Delivery Services
-HTLD,"Heartland Express, Inc.",Transportation,Trucking Freight/Courier Services
-HUBG,"Hub Group, Inc.",Transportation,Oil Refining/Marketing
-JBHT,"J.B. Hunt Transport Services, Inc.",Transportation,Trucking Freight/Courier Services
-JBLU,JetBlue Airways Corporation,Transportation,Air Freight/Delivery Services
-KSU,Kansas City Southern,Transportation,Railroads
-KSU^,Kansas City Southern,Transportation,Railroads
-KNX,"Knight Transportation, Inc.",Transportation,Trucking Freight/Courier Services
-LSTR,"Landstar System, Inc.",Transportation,Trucking Freight/Courier Services
-LFL,LATAM Airlines Group S.A.,Transportation,Air Freight/Delivery Services
-MRTN,"Marten Transport, Ltd.",Transportation,Trucking Freight/Courier Services
-NVGS,Navigator Holdings Ltd.,Transportation,Marine Transportation
-NNA,Navios Maritime Acquisition Corporation,Transportation,Marine Transportation
-NM,Navios Maritime Holdings Inc.,Transportation,Marine Transportation
-NMM,Navios Maritime Partners LP,Transportation,Marine Transportation
-NAO,Nordic American Offshore Ltd,Transportation,Marine Transportation
-NSC,Norfolk Souther Corporation,Transportation,Railroads
-ODFL,"Old Dominion Freight Line, Inc.",Transportation,Trucking Freight/Courier Services
-OSG,"Overseas Shipholding Group, Inc.",Transportation,Marine Transportation
-PTSI,"P.A.M. Transportation Services, Inc.",Transportation,Trucking Freight/Courier Services
-PANL,Pangaea Logistics Solutions Ltd.,Transportation,Marine Transportation
-PATI,"Patriot Transportation Holding, Inc.",Transportation,Trucking Freight/Courier Services
-PHII,"PHI, Inc.",Transportation,Transportation Services
-PHIIK,"PHI, Inc.",Transportation,Transportation Services
-PXS,Pyxis Tankers Inc.,Transportation,Marine Transportation
-RLGT,"Radiant Logistics, Inc.",Transportation,Oil Refining/Marketing
-RRTS,"Roadrunner Transportation Systems, Inc",Transportation,Oil Refining/Marketing
-RYAAY,Ryanair Holdings plc,Transportation,Air Freight/Delivery Services
-SB,"Safe Bulkers, Inc",Transportation,Marine Transportation
-SAIA,"Saia, Inc.",Transportation,Trucking Freight/Courier Services
-SALT,Scorpio Bulkers Inc.,Transportation,Marine Transportation
-SLTB,Scorpio Bulkers Inc.,Transportation,Marine Transportation
-SBNA,Scorpio Tankers Inc.,Transportation,Marine Transportation
-SBNB,Scorpio Tankers Inc.,Transportation,Marine Transportation
-STNG,Scorpio Tankers Inc.,Transportation,Marine Transportation
-CKH,"SEACOR Holdings, Inc.",Transportation,Marine Transportation
-SHIP,Seanergy Maritime Holdings Corp,Transportation,Marine Transportation
-SSW,Seaspan Corporation,Transportation,Marine Transportation
-SSWN,Seaspan Corporation,Transportation,Marine Transportation
-SFL,Ship Finance International Limited,Transportation,Marine Transportation
-SINO,"Sino-Global Shipping America, Ltd.",Transportation,Oil Refining/Marketing
-SKYW,"SkyWest, Inc.",Transportation,Air Freight/Delivery Services
-LUV,Southwest Airlines Company,Transportation,Air Freight/Delivery Services
-SAVE,"Spirit Airlines, Inc.",Transportation,Air Freight/Delivery Services
-SBLK,Star Bulk Carriers Corp.,Transportation,Marine Transportation
-SBLKL,Star Bulk Carriers Corp.,Transportation,Marine Transportation
-GASS,"StealthGas, Inc.",Transportation,Marine Transportation
-STB,Student Transportation Inc,Transportation,Other Transportation
-SWFT,Swift Transportation Company,Transportation,Trucking Freight/Courier Services
-TK,Teekay Corporation,Transportation,Marine Transportation
-TOPS,TOP Ships Inc.,Transportation,Marine Transportation
-TNP,Tsakos Energy Navigation Ltd,Transportation,Marine Transportation
-UNP,Union Pacific Corporation,Transportation,Railroads
-UAL,"United Continental Holdings, Inc.",Transportation,Air Freight/Delivery Services
-UPS,"United Parcel Service, Inc.",Transportation,Trucking Freight/Courier Services
-ULH,"Universal Logistics Holdings, Inc.",Transportation,Trucking Freight/Courier Services
-USAK,"USA Truck, Inc.",Transportation,Trucking Freight/Courier Services
-USDP,USD Partners LP,Transportation,Railroads
-VA,Virgin America Inc.,Transportation,Air Freight/Delivery Services
-WERN,"Werner Enterprises, Inc.",Transportation,Trucking Freight/Courier Services
-YRCW,"YRC Worldwide, Inc.",Transportation,Trucking Freight/Courier Services
-ZTO,ZTO Express (Cayman) Inc.,Transportation,Trucking Freight/Courier Services
+"Symbol","Name","LastSale","MarketCap","ADR TSO","IPOyear","Sector","Industry","Summary Quote",
+"AIRT","Air T, Inc.","15.95","32582484.55","n/a","n/a","Transportation","Air Freight/Delivery Services","http://www.nasdaq.com/symbol/airt",
+"ATSG","Air Transport Services Group, Inc","23.09","1365152656.08","n/a","n/a","Transportation","Air Freight/Delivery Services","http://www.nasdaq.com/symbol/atsg",
+"ALK","Alaska Air Group, Inc.","88.25","10908044351.5","n/a","n/a","Transportation","Air Freight/Delivery Services","http://www.nasdaq.com/symbol/alk",
+"ALGT","Allegiant Travel Company","144.8","2409014866.4","n/a","2006","Transportation","Air Freight/Delivery Services","http://www.nasdaq.com/symbol/algt",
+"AAL","American Airlines Group, Inc.","51.91","25570285542.38","n/a","n/a","Transportation","Air Freight/Delivery Services","http://www.nasdaq.com/symbol/aal",
+"ARCB","ArcBest Corporation","21.55","556762050.3","n/a","n/a","Transportation","Trucking Freight/Courier Services","http://www.nasdaq.com/symbol/arcb",
+"ASC","Ardmore Shipping Corporation","7.8","261889758","n/a","2013","Transportation","Marine Transportation","http://www.nasdaq.com/symbol/asc",
+"AAWW","Atlas Air Worldwide Holdings","57.75","1458932417.25","n/a","n/a","Transportation","Transportation Services","http://www.nasdaq.com/symbol/aaww",
+"AVH","Avianca Holdings S.A.","7.2","897288559.2","n/a","2013","Transportation","Air Freight/Delivery Services","http://www.nasdaq.com/symbol/avh",
+"AZUL","Azul S.A.","24.99","7738278924.81","n/a","2017","Transportation","Air Freight/Delivery Services","http://www.nasdaq.com/symbol/azul",
+"BCO","Brink&#39;s Company (The)","71.25","3590108947.5","n/a","n/a","Transportation","Oil Refining/Marketing","http://www.nasdaq.com/symbol/bco",
+"BRS","Bristow Group Inc","7.5","264571635","n/a","n/a","Transportation","Transportation Services","http://www.nasdaq.com/symbol/brs",
+"CHRW","C.H. Robinson Worldwide, Inc.","65.56","9236631047.6","n/a","1997","Transportation","Oil Refining/Marketing","http://www.nasdaq.com/symbol/chrw",
+"CNI","Canadian National Railway Company","81.98","61806371847.5","n/a","n/a","Transportation","Railroads","http://www.nasdaq.com/symbol/cni",
+"CP","Canadian Pacific Railway Limited","162.16","23765951819.12","n/a","n/a","Transportation","Railroads","http://www.nasdaq.com/symbol/cp",
+"CPLP","Capital Product Partners L.P.","3.86","475914994.4","n/a","2007","Transportation","Marine Transportation","http://www.nasdaq.com/symbol/cplp",
+"CGI","Celadon Group, Inc.","4","113197616","n/a","n/a","Transportation","Trucking Freight/Courier Services","http://www.nasdaq.com/symbol/cgi",
+"CEA","China Eastern Airlines Corporation Ltd.","29.21","11173809756.73","n/a","1997","Transportation","Air Freight/Delivery Services","http://www.nasdaq.com/symbol/cea",
+"ZNH","China Southern Airlines Company Limited","40.48","7948302243.2","n/a","1997","Transportation","Air Freight/Delivery Services","http://www.nasdaq.com/symbol/znh",
+"VLRS","Controladora Vuela Compania de Aviacion, S.A.B. de C.V.","14.72","1489482458.24","n/a","2013","Transportation","Air Freight/Delivery Services","http://www.nasdaq.com/symbol/vlrs",
+"CPA","Copa Holdings, S.A.","129.99","5474662609.71","n/a","2005","Transportation","Air Freight/Delivery Services","http://www.nasdaq.com/symbol/cpa",
+"CMRE","Costamare Inc.","6.73","712308907.04","n/a","2010","Transportation","Marine Transportation","http://www.nasdaq.com/symbol/cmre",
+"CVTI","Covenant Transportation Group, Inc.","16.95","309725485.5","n/a","1994","Transportation","Trucking Freight/Courier Services","http://www.nasdaq.com/symbol/cvti",
+"CYRX","CryoPort, Inc.","5.7","136661404.5","n/a","n/a","Transportation","Oil Refining/Marketing","http://www.nasdaq.com/symbol/cyrx",
+"CYRXW","CryoPort, Inc.","2.2803","0","n/a","n/a","Transportation","Oil Refining/Marketing","http://www.nasdaq.com/symbol/cyrxw",
+"CSX","CSX Corporation","51.68","47681066665.12","n/a","n/a","Transportation","Railroads","http://www.nasdaq.com/symbol/csx",
+"DAC","Danaos Corporation","2.1","230578639.2","n/a","2006","Transportation","Marine Transportation","http://www.nasdaq.com/symbol/dac",
+"DAL","Delta Air Lines, Inc.","52.26","37837819192.68","n/a","n/a","Transportation","Air Freight/Delivery Services","http://www.nasdaq.com/symbol/dal",
+"DHT","DHT Holdings, Inc.","4.06","577930029.88","n/a","2005","Transportation","Marine Transportation","http://www.nasdaq.com/symbol/dht",
+"DCIX","Diana Containerships Inc.","0.45","925770.15","n/a","n/a","Transportation","Marine Transportation","http://www.nasdaq.com/symbol/dcix",
+"DSX","Diana Shipping inc.","3.93","417094896.81","n/a","2005","Transportation","Marine Transportation","http://www.nasdaq.com/symbol/dsx",
+"DSXN","Diana Shipping inc.","25.6","0","n/a","2015","Transportation","Marine Transportation","http://www.nasdaq.com/symbol/dsxn",
+"LPG","Dorian LPG Ltd.","8.02","440895698.52","n/a","2014","Transportation","Marine Transportation","http://www.nasdaq.com/symbol/lpg",
+"DRYS","DryShips Inc.","2.17","0","n/a","2005","Transportation","Marine Transportation","http://www.nasdaq.com/symbol/drys",
+"EGLE","Eagle Bulk Shipping Inc.","4.37","323834287.72","n/a","n/a","Transportation","Marine Transportation","http://www.nasdaq.com/symbol/egle",
+"ECHO","Echo Global Logistics, Inc.","17.95","523173159.15","n/a","2009","Transportation","Oil Refining/Marketing","http://www.nasdaq.com/symbol/echo",
+"ERA","Era Group, Inc.","9.76","207597854.72","n/a","n/a","Transportation","Transportation Services","http://www.nasdaq.com/symbol/era",
+"EURN","Euronav NV","7.85","1249790249.65","n/a","2015","Transportation","Marine Transportation","http://www.nasdaq.com/symbol/eurn",
+"ESEA","Euroseas Ltd.","1.3362","14935899.2904","n/a","n/a","Transportation","Marine Transportation","http://www.nasdaq.com/symbol/esea",
+"EXPD","Expeditors International of Washington, Inc.","59.01","10631519478.09","n/a","n/a","Transportation","Oil Refining/Marketing","http://www.nasdaq.com/symbol/expd",
+"FDX","FedEx Corporation","212.51","57007387299.34","n/a","n/a","Transportation","Air Freight/Delivery Services","http://www.nasdaq.com/symbol/fdx",
+"FWRD","Forward Air Corporation","53.6","1619523410.4","n/a","n/a","Transportation","Oil Refining/Marketing","http://www.nasdaq.com/symbol/fwrd",
+"FRO","Frontline Ltd.","5.9","1001875011.6","n/a","n/a","Transportation","Marine Transportation","http://www.nasdaq.com/symbol/fro",
+"GNK","Genco Shipping & Trading Limited Warrants Expiring 12/31/2021 ","10.27","353455452.35","n/a","n/a","Transportation","Marine Transportation","http://www.nasdaq.com/symbol/gnk",
+"GNRT","Gener8 Maritime, Inc.","5.61","465406688.34","n/a","2015","Transportation","Marine Transportation","http://www.nasdaq.com/symbol/gnrt",
+"GWR","Genesee & Wyoming, Inc.","67.27","4189719221.45","n/a","n/a","Transportation","Railroads","http://www.nasdaq.com/symbol/gwr",
+"GSL","Global Ship Lease, Inc.","1.41","77524006.65","n/a","n/a","Transportation","Marine Transportation","http://www.nasdaq.com/symbol/gsl",
+"GLBS","Globus Maritime Limited","1.1018","30443034.7914","n/a","n/a","Transportation","Marine Transportation","http://www.nasdaq.com/symbol/glbs",
+"GOL","Gol Linhas Aereas Inteligentes S.A.","14.59","7642856384.9","n/a","2004","Transportation","Air Freight/Delivery Services","http://www.nasdaq.com/symbol/gol",
+"OMAB","Grupo Aeroportuario del Centro Norte S.A.B. de C.V.","51.74","338482096.94","6541981","2006","Transportation","Aerospace","http://www.nasdaq.com/symbol/omab",
+"PAC","Grupo Aeroportuario Del Pacifico, S.A. de C.V.","117.23","6576603000","n/a","2006","Transportation","Aerospace","http://www.nasdaq.com/symbol/pac",
+"ASR","Grupo Aeroportuario del Sureste, S.A. de C.V.","222.76","6682800000","n/a","n/a","Transportation","Aerospace","http://www.nasdaq.com/symbol/asr",
+"GSH","Guangshen Railway Company Limited","25.1623","3564761661.102","n/a","n/a","Transportation","Railroads","http://www.nasdaq.com/symbol/gsh",
+"HA","Hawaiian Holdings, Inc.","45.3","2429739339","n/a","n/a","Transportation","Air Freight/Delivery Services","http://www.nasdaq.com/symbol/ha",
+"HTLD","Heartland Express, Inc.","21.58","1797487390.14","n/a","1986","Transportation","Trucking Freight/Courier Services","http://www.nasdaq.com/symbol/htld",
+"HUBG","Hub Group, Inc.","39.55","1350180522.6","n/a","1996","Transportation","Oil Refining/Marketing","http://www.nasdaq.com/symbol/hubg",
+"HUNT","Hunter Maritime Acquisition Corp.","9.79","42219375","n/a","2017","Transportation","Oil Refining/Marketing","http://www.nasdaq.com/symbol/hunt",
+"HUNTU","Hunter Maritime Acquisition Corp.","9.95","0","n/a","2016","Transportation","Oil Refining/Marketing","http://www.nasdaq.com/symbol/huntu",
+"HUNTW","Hunter Maritime Acquisition Corp.","0.4101","0","n/a","2017","Transportation","Oil Refining/Marketing","http://www.nasdaq.com/symbol/huntw",
+"JBHT","J.B. Hunt Transport Services, Inc.","91.56","10070060510.16","n/a","n/a","Transportation","Trucking Freight/Courier Services","http://www.nasdaq.com/symbol/jbht",
+"JBLU","JetBlue Airways Corporation","23.45","7824645873.1","n/a","2002","Transportation","Air Freight/Delivery Services","http://www.nasdaq.com/symbol/jblu",
+"KSU","Kansas City Southern","105.25","11165012409.5","n/a","n/a","Transportation","Railroads","http://www.nasdaq.com/symbol/ksu",
+"KSU^","Kansas City Southern","28.66","0","n/a","n/a","Transportation","Railroads","http://www.nasdaq.com/symbol/ksu^",
+"KNX","Knight Transportation, Inc.","35.4","2846873168.4","n/a","n/a","Transportation","Trucking Freight/Courier Services","http://www.nasdaq.com/symbol/knx",
+"LSTR","Landstar System, Inc.","87.2","3655849187.2","n/a","1993","Transportation","Trucking Freight/Courier Services","http://www.nasdaq.com/symbol/lstr",
+"LTM","LATAM Airlines Group S.A.","12.03","7295084546.79","n/a","n/a","Transportation","Air Freight/Delivery Services","http://www.nasdaq.com/symbol/ltm",
+"MRTN","Marten Transport, Ltd.","16.55","901642709.1","n/a","1986","Transportation","Trucking Freight/Courier Services","http://www.nasdaq.com/symbol/mrtn",
+"NVGS","Navigator Holdings Ltd.","10.45","580307633.95","n/a","2013","Transportation","Marine Transportation","http://www.nasdaq.com/symbol/nvgs",
+"NNA","Navios Maritime Acquisition Corporation","1.44","218855505.6","n/a","n/a","Transportation","Marine Transportation","http://www.nasdaq.com/symbol/nna",
+"NM","Navios Maritime Holdings Inc.","1.13","132358489.91","n/a","n/a","Transportation","Marine Transportation","http://www.nasdaq.com/symbol/nm",
+"NMM","Navios Maritime Partners LP","1.59","234423678.84","n/a","2007","Transportation","Marine Transportation","http://www.nasdaq.com/symbol/nmm",
+"NAO","Nordic American Offshore Ltd","1.24","76863690.28","n/a","2014","Transportation","Marine Transportation","http://www.nasdaq.com/symbol/nao",
+"NSC","Norfolk Souther Corporation","117.85","34150886481","n/a","n/a","Transportation","Railroads","http://www.nasdaq.com/symbol/nsc",
+"ODFL","Old Dominion Freight Line, Inc.","97.45","8033960718.75","n/a","1991","Transportation","Trucking Freight/Courier Services","http://www.nasdaq.com/symbol/odfl",
+"OSG","Overseas Shipholding Group, Inc.","2.8","208048985.2","n/a","2015","Transportation","Marine Transportation","http://www.nasdaq.com/symbol/osg",
+"PTSI","P.A.M. Transportation Services, Inc.","18.31","117300286.81","n/a","1986","Transportation","Trucking Freight/Courier Services","http://www.nasdaq.com/symbol/ptsi",
+"PANL","Pangaea Logistics Solutions Ltd.","2.76","113704835.04","n/a","1996","Transportation","Marine Transportation","http://www.nasdaq.com/symbol/panl",
+"PATI","Patriot Transportation Holding, Inc.","20.089","66370078.378","n/a","n/a","Transportation","Trucking Freight/Courier Services","http://www.nasdaq.com/symbol/pati",
+"PHII","PHI, Inc.","10.12","158916373.88","n/a","n/a","Transportation","Transportation Services","http://www.nasdaq.com/symbol/phii",
+"PHIIK","PHI, Inc.","9.8","153891350.2","n/a","n/a","Transportation","Transportation Services","http://www.nasdaq.com/symbol/phiik",
+"PXS","Pyxis Tankers Inc.","1.745","31894923.285","n/a","n/a","Transportation","Marine Transportation","http://www.nasdaq.com/symbol/pxs",
+"RLGT","Radiant Logistics, Inc.","5.29","258608833.82","n/a","n/a","Transportation","Oil Refining/Marketing","http://www.nasdaq.com/symbol/rlgt",
+"RRTS","Roadrunner Transportation Systems, Inc","6.96","266850624.72","n/a","2010","Transportation","Oil Refining/Marketing","http://www.nasdaq.com/symbol/rrts",
+"RYAAY","Ryanair Holdings plc","112.47","11383897921.65","101217195","1997","Transportation","Air Freight/Delivery Services","http://www.nasdaq.com/symbol/ryaay",
+"SB","Safe Bulkers, Inc","2.51","254772919.05","n/a","2008","Transportation","Marine Transportation","http://www.nasdaq.com/symbol/sb",
+"SAIA","Saia, Inc.","51.85","1319401802.75","n/a","n/a","Transportation","Trucking Freight/Courier Services","http://www.nasdaq.com/symbol/saia",
+"SNDR","Schneider National, Inc.","20.95","3704827120.5","n/a","2017","Transportation","Trucking Freight/Courier Services","http://www.nasdaq.com/symbol/sndr",
+"SALT","Scorpio Bulkers Inc.","7.25","546009259.5","n/a","2013","Transportation","Marine Transportation","http://www.nasdaq.com/symbol/salt",
+"SLTB","Scorpio Bulkers Inc.","24.4","0","n/a","2014","Transportation","Marine Transportation","http://www.nasdaq.com/symbol/sltb",
+"SBBC","Scorpio Tankers Inc.","25.36","0","n/a","2017","Transportation","Marine Transportation","http://www.nasdaq.com/symbol/sbbc",
+"SBNA","Scorpio Tankers Inc.","24.3976","0","n/a","2014","Transportation","Marine Transportation","http://www.nasdaq.com/symbol/sbna",
+"SBNB","Scorpio Tankers Inc.","25.1401","0","n/a","2014","Transportation","Marine Transportation","http://www.nasdaq.com/symbol/sbnb",
+"STNG","Scorpio Tankers Inc.","3.73","651368986.15","n/a","2010","Transportation","Marine Transportation","http://www.nasdaq.com/symbol/stng",
+"CKH","SEACOR Holdings, Inc.","35.3","619514682.3","n/a","n/a","Transportation","Marine Transportation","http://www.nasdaq.com/symbol/ckh",
+"SMHI","SEACOR Marine Holdings Inc.","17.68","312429574.08","n/a","2017","Transportation","Marine Transportation","http://www.nasdaq.com/symbol/smhi",
+"SHIP","Seanergy Maritime Holdings Corp","0.751","27771488.846","n/a","n/a","Transportation","Marine Transportation","http://www.nasdaq.com/symbol/ship",
+"SHIPW","Seanergy Maritime Holdings Corp","0.15","0","n/a","n/a","Transportation","Marine Transportation","http://www.nasdaq.com/symbol/shipw",
+"SSW","Seaspan Corporation","6.62","725546670.9","n/a","2005","Transportation","Marine Transportation","http://www.nasdaq.com/symbol/ssw",
+"SSWN","Seaspan Corporation","25.45","0","n/a","2014","Transportation","Marine Transportation","http://www.nasdaq.com/symbol/sswn",
+"SFL","Ship Finance International Limited","13.4","1360161305","n/a","n/a","Transportation","Marine Transportation","http://www.nasdaq.com/symbol/sfl",
+"SINO","Sino-Global Shipping America, Ltd.","3.1","31327158.5","n/a","n/a","Transportation","Oil Refining/Marketing","http://www.nasdaq.com/symbol/sino",
+"SKYW","SkyWest, Inc.","37.9","1960880584.6","n/a","1986","Transportation","Air Freight/Delivery Services","http://www.nasdaq.com/symbol/skyw",
+"LUV","Southwest Airlines Company","60.28","36449066531.24","n/a","n/a","Transportation","Air Freight/Delivery Services","http://www.nasdaq.com/symbol/luv",
+"SAVE","Spirit Airlines, Inc.","50.12","3476804853.2","n/a","2011","Transportation","Air Freight/Delivery Services","http://www.nasdaq.com/symbol/save",
+"SBLK","Star Bulk Carriers Corp.","9.71","612397844.09","n/a","n/a","Transportation","Marine Transportation","http://www.nasdaq.com/symbol/sblk",
+"SBLKL","Star Bulk Carriers Corp.","25.0698","0","n/a","n/a","Transportation","Marine Transportation","http://www.nasdaq.com/symbol/sblkl",
+"GASS","StealthGas, Inc.","3.1","123567745.3","n/a","2005","Transportation","Marine Transportation","http://www.nasdaq.com/symbol/gass",
+"STB","Student Transportation Inc","6.13","580092584.59","n/a","n/a","Transportation","Other Transportation","http://www.nasdaq.com/symbol/stb",
+"SWFT","Swift Transportation Company","25.34","3377341908.36","n/a","2010","Transportation","Trucking Freight/Courier Services","http://www.nasdaq.com/symbol/swft",
+"TK","Teekay Corporation","7.71","665057383.44","n/a","n/a","Transportation","Marine Transportation","http://www.nasdaq.com/symbol/tk",
+"TOPS","TOP Ships Inc.","0.26","279541.86","n/a","n/a","Transportation","Marine Transportation","http://www.nasdaq.com/symbol/tops",
+"TNP","Tsakos Energy Navigation Ltd","5","421354330","n/a","2002","Transportation","Marine Transportation","http://www.nasdaq.com/symbol/tnp",
+"UNP","Union Pacific Corporation","104.85","84660003475.2","n/a","n/a","Transportation","Railroads","http://www.nasdaq.com/symbol/unp",
+"UAL","United Continental Holdings, Inc.","71.57","22162080349.42","n/a","n/a","Transportation","Air Freight/Delivery Services","http://www.nasdaq.com/symbol/ual",
+"UPS","United Parcel Service, Inc.","112.68","50394035166.12","n/a","1999","Transportation","Trucking Freight/Courier Services","http://www.nasdaq.com/symbol/ups",
+"ULH","Universal Logistics Holdings, Inc.","14.65","416688397.1","n/a","n/a","Transportation","Trucking Freight/Courier Services","http://www.nasdaq.com/symbol/ulh",
+"USAK","USA Truck, Inc.","9.53","78121765.21","n/a","1992","Transportation","Trucking Freight/Courier Services","http://www.nasdaq.com/symbol/usak",
+"USDP","USD Partners LP","11.8","311028246.8","n/a","2014","Transportation","Railroads","http://www.nasdaq.com/symbol/usdp",
+"WERN","Werner Enterprises, Inc.","29.55","2134094144.4","n/a","1986","Transportation","Trucking Freight/Courier Services","http://www.nasdaq.com/symbol/wern",
+"YRCW","YRC Worldwide, Inc.","12.38","415109347.96","n/a","n/a","Transportation","Trucking Freight/Courier Services","http://www.nasdaq.com/symbol/yrcw",
+"ZTO","ZTO Express (Cayman) Inc.","15.04","10837291644.16","n/a","2016","Transportation","Trucking Freight/Courier Services","http://www.nasdaq.com/symbol/zto",

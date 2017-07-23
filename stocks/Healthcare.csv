@@ -1,804 +1,812 @@
-Symbol,Name,Sector,Industry
-MMM,3M Company,Health Care,Medical/Dental Instruments
-AAC,"AAC Holdings, Inc.",Health Care,Medical Specialities
-ABT,Abbott Laboratories,Health Care,Major Pharmaceuticals
-ABBV,AbbVie Inc.,Health Care,Major Pharmaceuticals
-ABEO,Abeona Therapeutics Inc.,Health Care,Major Pharmaceuticals
-ABEOW,Abeona Therapeutics Inc.,Health Care,Major Pharmaceuticals
-ABMD,"ABIOMED, Inc.",Health Care,Medical/Dental Instruments
-ACIU,AC Immune SA,Health Care,Major Pharmaceuticals
-ACHC,"Acadia Healthcare Company, Inc.",Health Care,Medical Specialities
-ACAD,ACADIA Pharmaceuticals Inc.,Health Care,Major Pharmaceuticals
-ACST,"Acasti Pharma, Inc.",Health Care,Major Pharmaceuticals
-XLRN,Acceleron Pharma Inc.,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-ARAY,Accuray Incorporated,Health Care,Medical/Dental Instruments
-ACRX,"AcelRx Pharmaceuticals, Inc.",Health Care,Major Pharmaceuticals
-ACET,Aceto Corporation,Health Care,Other Pharmaceuticals
-AKAO,"Achaogen, Inc.",Health Care,Major Pharmaceuticals
-ACHN,"Achillion Pharmaceuticals, Inc.",Health Care,Major Pharmaceuticals
-ACRS,"Aclaris Therapeutics, Inc.",Health Care,Major Pharmaceuticals
-ACOR,"Acorda Therapeutics, Inc.",Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-ATNM,"Actinium Pharmaceuticals, Inc.",Health Care,Major Pharmaceuticals
-ACUR,"Acura Pharmaceuticals, Inc.",Health Care,Major Pharmaceuticals
-ADMS,"Adamas Pharmaceuticals, Inc.",Health Care,Major Pharmaceuticals
-ADMP,Adamis Pharmaceuticals Corporation,Health Care,Major Pharmaceuticals
-ADAP,Adaptimmune Therapeutics plc,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-ADK,Adcare Health Systems Inc,Health Care,Hospital/Nursing Management
-ADUS,Addus HomeCare Corporation,Health Care,Medical/Nursing Services
-ADPT,Adeptus Health Inc.,Health Care,Hospital/Nursing Management
-ADMA,ADMA Biologics Inc,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-ADRO,"Aduro Biotech, Inc.",Health Care,Major Pharmaceuticals
-AAAP,Advanced Accelerator Applications S.A.,Health Care,Major Pharmaceuticals
-ADXS,"Advaxis, Inc.",Health Care,Major Pharmaceuticals
-ADXSW,"Advaxis, Inc.",Health Care,Major Pharmaceuticals
-ADVM,"Adverum Biotechnologies, Inc.",Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-AEGR,"Aegerion Pharmaceuticals, Inc.",Health Care,Major Pharmaceuticals
-AGLE,"Aeglea BioTherapeutics, Inc.",Health Care,Major Pharmaceuticals
-AERI,"Aerie Pharmaceuticals, Inc.",Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-AEZS,AEterna Zentaris Inc.,Health Care,Major Pharmaceuticals
-AET,Aetna Inc.,Health Care,Medical Specialities
-AFMD,Affimed N.V.,Health Care,Major Pharmaceuticals
-AGEN,Agenus Inc.,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-AGRX,"Agile Therapeutics, Inc.",Health Care,Major Pharmaceuticals
-AGIO,"Agios Pharmaceuticals, Inc.",Health Care,Major Pharmaceuticals
-AIMT,"Aimmune Therapeutics, Inc.",Health Care,Major Pharmaceuticals
-AKTX,Akari Therapeutics Plc,Health Care,Major Pharmaceuticals
-AKBA,"Akebia Therapeutics, Inc.",Health Care,Major Pharmaceuticals
-AKER,Akers Biosciences Inc,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances
-AKRX,"Akorn, Inc.",Health Care,Major Pharmaceuticals
-AMRI,"Albany Molecular Research, Inc.",Health Care,Biotechnology: Commercial Physical & Biological Resarch
-ALBO,"Albireo Pharma, Inc.",Health Care,Major Pharmaceuticals
-ADHD,Alcobra Ltd.,Health Care,Major Pharmaceuticals
-ALDR,"Alder BioPharmaceuticals, Inc.",Health Care,Major Pharmaceuticals
-ALDX,"Aldeyra Therapeutics, Inc.",Health Care,Major Pharmaceuticals
-ALR,Alere Inc.,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances
-ALXN,"Alexion Pharmaceuticals, Inc.",Health Care,Major Pharmaceuticals
-ALGN,"Align Technology, Inc.",Health Care,Industrial Specialties
-ALIM,"Alimera Sciences, Inc.",Health Care,Major Pharmaceuticals
-ALKS,Alkermes plc,Health Care,Major Pharmaceuticals
-AGN,Allergan plc.,Health Care,Major Pharmaceuticals
-AIQ,"Alliance HealthCare Services, Inc.",Health Care,Medical Specialities
-AHPI,"Allied Healthcare Products, Inc.",Health Care,Industrial Specialties
-ALQA,"Alliqua BioMedical, Inc.",Health Care,Medical/Dental Instruments
-AFAM,Almost Family Inc,Health Care,Medical/Nursing Services
-ALNY,"Alnylam Pharmaceuticals, Inc.",Health Care,Major Pharmaceuticals
-APT,"Alpha Pro Tech, Ltd.",Health Care,Industrial Specialties
-ATEC,"Alphatec Holdings, Inc.",Health Care,Medical/Dental Instruments
-AMAG,"AMAG Pharmaceuticals, Inc.",Health Care,Major Pharmaceuticals
-AMRN,Amarin Corporation plc,Health Care,Major Pharmaceuticals
-AMDA,Amedica Corporation,Health Care,Medical/Dental Instruments
-AMED,Amedisys Inc,Health Care,Medical/Nursing Services
-ARA,"American Renal Associates Holdings, Inc",Health Care,Hospital/Nursing Management
-AMS,American Shared Hospital Services,Health Care,Medical Specialities
-ABC,AmerisourceBergen Corporation (Holding Co),Health Care,Other Pharmaceuticals
-AMGN,Amgen Inc.,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-FOLD,"Amicus Therapeutics, Inc.",Health Care,Major Pharmaceuticals
-AMPH,"Amphastar Pharmaceuticals, Inc.",Health Care,Major Pharmaceuticals
-AMPE,"Ampio Pharmaceuticals, Inc.",Health Care,Major Pharmaceuticals
-APHB,AmpliPhi Biosciences Corporation,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-AMSG,Amsurg Corp.,Health Care,Medical/Nursing Services
-AMSGP,Amsurg Corp.,Health Care,Medical/Nursing Services
-AVXL,Anavex Life Sciences Corp.,Health Care,Biotechnology: Commercial Physical & Biological Resarch
-ANGO,"AngioDynamics, Inc.",Health Care,Medical/Dental Instruments
-ANIP,"ANI Pharmaceuticals, Inc.",Health Care,Major Pharmaceuticals
-ANIK,Anika Therapeutics Inc.,Health Care,Medical/Dental Instruments
-ATRS,"Antares Pharma, Inc.",Health Care,Medical/Dental Instruments
-ANTM,"Anthem, Inc.",Health Care,Medical Specialities
-ANTX,"Anthem, Inc.",Health Care,Medical Specialities
-ANTH,"Anthera Pharmaceuticals, Inc.",Health Care,Major Pharmaceuticals
-AXN,"Aoxing Pharmaceutical Company, Inc.",Health Care,Major Pharmaceuticals
-AGTC,Applied Genetic Technologies Corporation,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-APRI,"Apricus Biosciences, Inc.",Health Care,Major Pharmaceuticals
-APVO,Aptevo Therapeutics Inc.,Health Care,Major Pharmaceuticals
-APTO,"Aptose Biosciences, Inc.",Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-AQXP,"Aquinox Pharmaceuticals, Inc.",Health Care,Major Pharmaceuticals
-ARDM,Aradigm Corporation,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus
-ARLZ,Aralez Pharmaceuticals Inc.,Health Care,Major Pharmaceuticals
-PETX,"Aratana Therapeutics, Inc.",Health Care,Major Pharmaceuticals
-ABUS,Arbutus Biopharma Corporation,Health Care,Major Pharmaceuticals
-ABIO,"ARCA biopharma, Inc.",Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances
-ARDX,"Ardelyx, Inc.",Health Care,Major Pharmaceuticals
-ARNA,"Arena Pharmaceuticals, Inc.",Health Care,Major Pharmaceuticals
-ARGS,"Argos Therapeutics, Inc.",Health Care,Major Pharmaceuticals
-ARIA,"ARIAD Pharmaceuticals, Inc.",Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-ARQL,"ArQule, Inc.",Health Care,Major Pharmaceuticals
-ARRY,Array BioPharma Inc.,Health Care,Major Pharmaceuticals
-HRT,Arrhythmia Research Technology Inc.,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus
-ARWR,"Arrowhead Pharmaceuticals, Inc.",Health Care,Major Pharmaceuticals
-ASND,Ascendis Pharma A/S,Health Care,Major Pharmaceuticals
-ASMB,"Assembly Biosciences, Inc.",Health Care,Major Pharmaceuticals
-AST,"Asterias Biotherapeutics, Inc.",Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-AZN,Astrazeneca PLC,Health Care,Major Pharmaceuticals
-ATRA,"Atara Biotherapeutics, Inc.",Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-ATHX,"Athersys, Inc.",Health Care,Major Pharmaceuticals
-ATOS,Atossa Genetics Inc.,Health Care,Medical/Dental Instruments
-ATRC,"AtriCure, Inc.",Health Care,Medical/Dental Instruments
-ATRI,Atrion Corporation,Health Care,Medical/Dental Instruments
-LIFE,"aTyr Pharma, Inc.",Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-BOLD,"Audentes Therapeutics, Inc.",Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-AUPH,Aurinia Pharmaceuticals Inc,Health Care,Major Pharmaceuticals
-EARS,Auris Medical Holding AG,Health Care,Major Pharmaceuticals
-AVEO,"AVEO Pharmaceuticals, Inc.",Health Care,Major Pharmaceuticals
-AVXS,"AveXis, Inc.",Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-AVGR,"Avinger, Inc.",Health Care,Medical/Dental Instruments
-AVIR,"Aviragen Therapeutics, Inc.",Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-AXGN,"AxoGen, Inc.",Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus
-AXON          ,Axovant Sciences Ltd.,Health Care,Major Pharmaceuticals
-AXSM,"Axsome Therapeutics, Inc.",Health Care,Major Pharmaceuticals
-BAX,Baxter International Inc.,Health Care,Medical/Dental Instruments
-BDX,"Becton, Dickinson and Company",Health Care,Medical/Dental Instruments
-BGNE,"BeiGene, Ltd.",Health Care,Major Pharmaceuticals
-BLPH,"Bellerophon Therapeutics, Inc.",Health Care,Major Pharmaceuticals
-BLCM,"Bellicum Pharmaceuticals, Inc.",Health Care,Major Pharmaceuticals
-BNTC,Benitec Biopharma Limited,Health Care,Major Pharmaceuticals
-BNTCW,Benitec Biopharma Limited,Health Care,Major Pharmaceuticals
-BASI,"Bioanalytical Systems, Inc.",Health Care,Biotechnology: Commercial Physical & Biological Resarch
-ORPN,Bioblast Pharma Ltd.,Health Care,Major Pharmaceuticals
-BIOC,"Biocept, Inc.",Health Care,Medical Specialities
-BCRX,"BioCryst Pharmaceuticals, Inc.",Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-BDSI,"BioDelivery Sciences International, Inc.",Health Care,Major Pharmaceuticals
-BIIB,Biogen Inc.,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-BIOL,"Biolase, Inc.",Health Care,Medical/Dental Instruments
-BLFS,"BioLife Solutions, Inc.",Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus
-BLRX,BioLineRx Ltd.,Health Care,Major Pharmaceuticals
-BMRN,BioMarin Pharmaceutical Inc.,Health Care,Major Pharmaceuticals
-BMRA,"Biomerica, Inc.",Health Care,Medical/Dental Instruments
-BVXV,BiondVax Pharmaceuticals Ltd.,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-BVXVW,BiondVax Pharmaceuticals Ltd.,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-BPTH,"Bio-Path Holdings, Inc.",Health Care,Major Pharmaceuticals
-BPMX,BioPharmX Corporation,Health Care,Major Pharmaceuticals
-BIOS,"BioScrip, Inc.",Health Care,Medical/Nursing Services
-BSTC,BioSpecifics Technologies Corp,Health Care,Major Pharmaceuticals
-BSTG,"Biostage, Inc.",Health Care,Medical/Dental Instruments
-BSPM,"Biostar Pharmaceuticals, Inc.",Health Care,Major Pharmaceuticals
-TECH,Bio-Techne Corp,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-BEAT,"BioTelemetry, Inc.",Health Care,Medical Specialities
-BTX,"BioTime, Inc.",Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-BLUE,"bluebird bio, Inc.",Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-BPMC,Blueprint Medicines Corporation,Health Care,Major Pharmaceuticals
-BSX,Boston Scientific Corporation,Health Care,Medical/Dental Instruments
-BVX,Bovie Medical Corporation,Health Care,Medical/Dental Instruments
-BCLI,Brainstorm Cell Therapeutics Inc.,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-BMY,Bristol-Myers Squibb Company,Health Care,Major Pharmaceuticals
-BKD,Brookdale Senior Living Inc.,Health Care,Hospital/Nursing Management
-BCR,"C.R. Bard, Inc.",Health Care,Medical/Dental Instruments
-CLBS,"Caladrius Biosciences, Inc.",Health Care,Hospital/Nursing Management
-CALA,"Calithera Biosciences, Inc.",Health Care,Major Pharmaceuticals
-CBM,Cambrex Corporation,Health Care,Major Pharmaceuticals
-CGIX,"Cancer Genetics, Inc.",Health Care,Medical Specialities
-CANF,Can-Fite Biopharma Ltd,Health Care,Major Pharmaceuticals
-CMN,Cantel Medical Corp.,Health Care,Medical/Dental Instruments
-CSU,Capital Senior Living Corporation,Health Care,Hospital/Nursing Management
-CAPN,"Capnia, Inc.",Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus
-CAPNW,"Capnia, Inc.",Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus
-CAPR,"Capricor Therapeutics, Inc.",Health Care,Major Pharmaceuticals
-CARA,"Cara Therapeutics, Inc.",Health Care,Major Pharmaceuticals
-CBYL,"Carbylan Therapeutics, Inc.",Health Care,Major Pharmaceuticals
-CAH,"Cardinal Health, Inc.",Health Care,Other Pharmaceuticals
-CRME,Cardiome Pharma Corporation,Health Care,Major Pharmaceuticals
-CSII,"Cardiovascular Systems, Inc.",Health Care,Medical/Dental Instruments
-CDNA,"CareDx, Inc.",Health Care,Medical Specialities
-CASM,"CAS Medical Systems, Inc.",Health Care,Medical/Dental Instruments
-CASC,"Cascadian Therapeutics, Inc.",Health Care,Biotechnology: Commercial Physical & Biological Resarch
-CASI,"CASI Pharmaceuticals, Inc.",Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-CATB,"Catabasis Pharmaceuticals, Inc.",Health Care,Major Pharmaceuticals
-CTLT,"Catalent, Inc.",Health Care,Major Pharmaceuticals
-CBIO,"Catalyst Biosciences, Inc. ",Health Care,Major Pharmaceuticals
-CPRX,"Catalyst Pharmaceuticals, Inc.",Health Care,Major Pharmaceuticals
-CELG,Celgene Corporation,Health Care,Major Pharmaceuticals
-CELGZ,Celgene Corporation,Health Care,Major Pharmaceuticals
-CLDX,"Celldex Therapeutics, Inc.",Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances
-CLRB,"Cellectar Biosciences, Inc.",Health Care,Major Pharmaceuticals
-CLRBW,"Cellectar Biosciences, Inc.",Health Care,Major Pharmaceuticals
-CLRBZ,"Cellectar Biosciences, Inc.",Health Care,Major Pharmaceuticals
-CLLS,Cellectis S.A.,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-CBMG,"Cellular Biomedicine Group, Inc.",Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-CVM,Cel-Sci Corporation,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-CLSN,Celsion Corporation,Health Care,Major Pharmaceuticals
-CYAD,Celyad SA,Health Care,Major Pharmaceuticals
-CEMP,"Cempra, Inc.",Health Care,Major Pharmaceuticals
-CNC,Centene Corporation,Health Care,Medical Specialities
-CERC,Cerecor Inc.,Health Care,Major Pharmaceuticals
-CERCW,Cerecor Inc.,Health Care,Major Pharmaceuticals
-CERCZ,Cerecor Inc.,Health Care,Major Pharmaceuticals
-CERU,Cerulean Pharma Inc.,Health Care,Major Pharmaceuticals
-CERS,Cerus Corporation,Health Care,Medical/Dental Instruments
-CSBR,"Champions Oncology, Inc.",Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-CRL,"Charles River Laboratories International, Inc.",Health Care,Biotechnology: Commercial Physical & Biological Resarch
-CHEK,Check-Cap Ltd.,Health Care,Medical Electronics
-CHEKW,Check-Cap Ltd.,Health Care,Medical Electronics
-CEMI,"Chembio Diagnostics, Inc.",Health Care,Major Pharmaceuticals
-CHE,Chemed Corp.,Health Care,Medical/Nursing Services
-CCXI,"ChemoCentryx, Inc.",Health Care,Major Pharmaceuticals
-CHMA,"Chiasma, Inc.",Health Care,Major Pharmaceuticals
-CMRX,"Chimerix, Inc.",Health Care,Major Pharmaceuticals
-CBPO,"China Biologic Products, Inc.",Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-CPHI,"China Pharma Holdings, Inc.",Health Care,Major Pharmaceuticals
-CDTX,"Cidara Therapeutics, Inc.",Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-CI,Cigna Corporation,Health Care,Medical Specialities
-CPHR,Cipher Pharmaceuticals Inc.,Health Care,Major Pharmaceuticals
-CIVI,"Civitas Solutions, Inc.",Health Care,Medical/Nursing Services
-CLSD,"Clearside Biomedical, Inc.",Health Care,Major Pharmaceuticals
-CBLI,"Cleveland BioLabs, Inc.",Health Care,Biotechnology: Commercial Physical & Biological Resarch
-CLVS,"Clovis Oncology, Inc.",Health Care,Major Pharmaceuticals
-CGNT,"Cogentix Medical, Inc.",Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus
-CHRS,"Coherus BioSciences, Inc.",Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-COLL,"Collegium Pharmaceutical, Inc.",Health Care,Major Pharmaceuticals
-CLCD,"CoLucid Pharmaceuticals, Inc.",Health Care,Major Pharmaceuticals
-CBMX,CombiMatrix Corporation,Health Care,Hospital/Nursing Management
-CBMXW,CombiMatrix Corporation,Health Care,Hospital/Nursing Management
-CYH,"Community Health Systems, Inc.",Health Care,Hospital/Nursing Management
-CYHHZ,"Community Health Systems, Inc.",Health Care,Hospital/Nursing Management
-CGEN,Compugen Ltd.,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-CNAT,Conatus Pharmaceuticals Inc.,Health Care,Major Pharmaceuticals
-CNCE,"Concert Pharmaceuticals, Inc.",Health Care,Major Pharmaceuticals
-CCM,Concord Medical Services Holdings Limited,Health Care,Medical/Nursing Services
-CXRX,Concordia International Corp.,Health Care,Major Pharmaceuticals
-CFMS,"ConforMIS, Inc.",Health Care,Industrial Specialties
-CNMD,CONMED Corporation,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus
-CFRX,ContraFect Corporation,Health Care,Major Pharmaceuticals
-CFRXW,ContraFect Corporation,Health Care,Major Pharmaceuticals
-CTRV,ContraVir Pharmaceuticals Inc,Health Care,Major Pharmaceuticals
-COO,"Cooper Companies, Inc. (The)",Health Care,Ophthalmic Goods
-CRBP,"Corbus Pharmaceuticals Holdings, Inc.",Health Care,Major Pharmaceuticals
-CORT,Corcept Therapeutics Incorporated,Health Care,Major Pharmaceuticals
-CVRS,"Corindus Vascular Robotics, Inc.",Health Care,Medical/Dental Instruments
-CORI,"Corium International, Inc.",Health Care,Major Pharmaceuticals
-CRMD,CorMedix Inc,Health Care,Major Pharmaceuticals
-CRVS,"Corvus Pharmaceuticals, Inc.",Health Care,Major Pharmaceuticals
-CRHM,CRH Medical Corporation,Health Care,Medical/Dental Instruments
-CRSP,CRISPR Therapeutics AG,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-CRY,"CryoLife, Inc.",Health Care,Medical/Dental Instruments
-CTIC,CTI BioPharma Corp.,Health Care,Major Pharmaceuticals
-CPIX,Cumberland Pharmaceuticals Inc.,Health Care,Major Pharmaceuticals
-CRIS,"Curis, Inc.",Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-CUTR,"Cutera, Inc.",Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus
-CVS,CVS Health Corporation,Health Care,Medical/Nursing Services
-CYCC,"Cyclacel Pharmaceuticals, Inc.",Health Care,Major Pharmaceuticals
-CYCCP,"Cyclacel Pharmaceuticals, Inc.",Health Care,Major Pharmaceuticals
-CBAY,CymaBay Therapeutics Inc.,Health Care,Major Pharmaceuticals
-CYNO,"Cynosure, Inc.",Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus
-CYTK,"Cytokinetics, Incorporated",Health Care,Major Pharmaceuticals
-CTMX,"CytomX Therapeutics, Inc.",Health Care,Major Pharmaceuticals
-CYTX,Cytori Therapeutics Inc,Health Care,Medical/Dental Instruments
-CYTXW,Cytori Therapeutics Inc,Health Care,Medical/Dental Instruments
-CTSO,Cytosorbents Corporation,Health Care,Medical/Dental Instruments
-CYTR,CytRx Corporation,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-DRIO,DarioHealth Corp.,Health Care,Medical/Dental Instruments
-DRIOW,DarioHealth Corp.,Health Care,Medical/Dental Instruments
-DVA,DaVita Inc.,Health Care,Hospital/Nursing Management
-DXR,Daxor Corporation,Health Care,Medical/Dental Instruments
-DBVT,DBV Technologies S.A.,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-DCTH,"Delcath Systems, Inc.",Health Care,Medical/Dental Instruments
-DMPI,"DelMar Pharmaceuticals, Inc.",Health Care,Major Pharmaceuticals
-XRAY,DENTSPLY SIRONA Inc.,Health Care,Medical/Dental Instruments
-DEPO,"Depomed, Inc.",Health Care,Major Pharmaceuticals
-DSCI,"Derma Sciences, Inc.",Health Care,Medical/Dental Instruments
-DERM,"Dermira, Inc.",Health Care,Major Pharmaceuticals
-DXCM,"DexCom, Inc.",Health Care,Medical/Dental Instruments
-DXTR,Dextera Surgical Inc.,Health Care,Medical/Dental Instruments
-DRNA,"Dicerna Pharmaceuticals, Inc.",Health Care,Major Pharmaceuticals
-DFFN,Diffusion Pharmaceuticals Inc.,Health Care,Major Pharmaceuticals
-DRAD,Digirad Corporation,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus
-DMTX,"Dimension Therapeutics, Inc.",Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-DPRX,"Dipexium Pharmaceuticals, Inc.",Health Care,Major Pharmaceuticals
-DPLO,"Diplomat Pharmacy, Inc.",Health Care,Medical/Nursing Services
-DVCR,Diversicare Healthcare Services Inc.,Health Care,Hospital/Nursing Management
-RDY,Dr. Reddy&#39;s Laboratories Ltd,Health Care,Major Pharmaceuticals
-DRRX,DURECT Corporation,Health Care,Major Pharmaceuticals
-DYNT,Dynatronics Corporation,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus
-DVAX,Dynavax Technologies Corporation,Health Care,Major Pharmaceuticals
-EGRX,"Eagle Pharmaceuticals, Inc.",Health Care,Major Pharmaceuticals
-EDAP,EDAP TMS S.A.,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus
-EDGE,"Edge Therapeutics, Inc.",Health Care,Major Pharmaceuticals
-EDIT,"Editas Medicine, Inc.",Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-EW,Edwards Lifesciences Corporation,Health Care,Industrial Specialties
-EGLT,Egalet Corporation,Health Care,Major Pharmaceuticals
-EIGR,"Eiger BioPharmaceuticals, Inc.",Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-ELMD,"Electromed, Inc.",Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus
-EBIO,"Eleven Biotherapeutics, Inc.",Health Care,Major Pharmaceuticals
-LLY,Eli Lilly and Company,Health Care,Major Pharmaceuticals
-EBS,"Emergent Biosolutions, Inc.",Health Care,Major Pharmaceuticals
-ENTA,"Enanta Pharmaceuticals, Inc.",Health Care,Major Pharmaceuticals
-ENDP,Endo International plc,Health Care,Major Pharmaceuticals
-GI,"EndoChoice Holdings, Inc.",Health Care,Medical/Dental Instruments
-ECYT,"Endocyte, Inc.",Health Care,Major Pharmaceuticals
-ELGX,"Endologix, Inc.",Health Care,Medical/Dental Instruments
-ENTL,"Entellus Medical, Inc.",Health Care,Medical/Dental Instruments
-ETRM,EnteroMedics Inc.,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus
-EVHC,"Envision Healthcare Holdings, Inc.",Health Care,Hospital/Nursing Management
-ENZ,"Enzo Biochem, Inc.",Health Care,Medical Specialities
-EPZM,"Epizyme, Inc.",Health Care,Major Pharmaceuticals
-ESPR,"Esperion Therapeutics, Inc.",Health Care,Major Pharmaceuticals
-EPIX,ESSA Pharma Inc.,Health Care,Major Pharmaceuticals
-EVOK,"Evoke Pharma, Inc.",Health Care,Major Pharmaceuticals
-EXAS,Exact Sciences Corporation,Health Care,Biotechnology: Commercial Physical & Biological Resarch
-EXAC,"Exactech, Inc.",Health Care,Industrial Specialties
-EXEL,"Exelixis, Inc.",Health Care,Biotechnology: Commercial Physical & Biological Resarch
-ESRX,Express Scripts Holding Company,Health Care,Medical/Nursing Services
-EYEG,"Eyegate Pharmaceuticals, Inc.",Health Care,Major Pharmaceuticals
-EYEGW,"Eyegate Pharmaceuticals, Inc.",Health Care,Major Pharmaceuticals
-FATE,"Fate Therapeutics, Inc.",Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-FCSC,Fibrocell Science Inc,Health Care,Major Pharmaceuticals
-FGEN,"FibroGen, Inc",Health Care,Major Pharmaceuticals
-FPRX,"Five Prime Therapeutics, Inc.",Health Care,Major Pharmaceuticals
-FVE,"Five Star Quality Care, Inc.",Health Care,Hospital/Nursing Management
-FLML,Flamel Technologies S.A.,Health Care,Major Pharmaceuticals
-FLKS,"Flex Pharma, Inc.",Health Care,Major Pharmaceuticals
-FLXN,"Flexion Therapeutics, Inc.",Health Care,Major Pharmaceuticals
-FONR,Fonar Corporation,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus
-FBIO,"Fortress Biotech, Inc.",Health Care,Major Pharmaceuticals
-FWP,Forward Pharma A/S,Health Care,Major Pharmaceuticals
-FMI,"Foundation Medicine, Inc.",Health Care,Medical Specialities
-FMS,Fresenius Medical Care Corporation,Health Care,Hospital/Nursing Management
-FLGT,"Fulgent Genetics, Inc.",Health Care,Medical Specialities
-GLPG,Galapagos NV,Health Care,Major Pharmaceuticals
-GALT,Galectin Therapeutics Inc.,Health Care,Major Pharmaceuticals
-GALTU,Galectin Therapeutics Inc.,Health Care,Major Pharmaceuticals
-GALTW,Galectin Therapeutics Inc.,Health Care,Major Pharmaceuticals
-GALE,"Galena Biopharma, Inc.",Health Care,Major Pharmaceuticals
-GLMD,Galmed Pharmaceuticals Ltd.,Health Care,Major Pharmaceuticals
-GEMP,Gemphire Therapeutics Inc.,Health Care,Major Pharmaceuticals
-GEN           ,"Genesis Healthcare, Inc.",Health Care,Hospital/Nursing Management
-GENE,Genetic Technologies Ltd,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-GNMK,"GenMark Diagnostics, Inc.",Health Care,Medical/Dental Instruments
-GNCA,"Genocea Biosciences, Inc.",Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-GHDX,"Genomic Health, Inc.",Health Care,Medical Specialities
-GNVC,"GenVec, Inc.",Health Care,Major Pharmaceuticals
-GERN,Geron Corporation,Health Care,Major Pharmaceuticals
-GILD,"Gilead Sciences, Inc.",Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-GKOS,Glaukos Corporation,Health Care,Medical/Dental Instruments
-GSK,GlaxoSmithKline PLC,Health Care,Major Pharmaceuticals
-GBT,"Global Blood Therapeutics, Inc.",Health Care,Major Pharmaceuticals
-GMED,"Globus Medical, Inc.",Health Care,Medical/Dental Instruments
-GLYC,"GlycoMimetics, Inc.",Health Care,Major Pharmaceuticals
-GRFS,"Grifols, S.A.",Health Care,Major Pharmaceuticals
-GTXI,"GTx, Inc.",Health Care,Major Pharmaceuticals
-GWPH,GW Pharmaceuticals Plc,Health Care,Major Pharmaceuticals
-HAE,Haemonetics Corporation,Health Care,Medical/Dental Instruments
-HALO,"Halozyme Therapeutics, Inc.",Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-HYH,"Halyard Health, Inc.",Health Care,Industrial Specialties
-HCA,"HCA Holdings, Inc.",Health Care,Hospital/Nursing Management
-HCSG,"Healthcare Services Group, Inc.",Health Care,Hospital/Nursing Management
-HLS,HealthSouth Corporation,Health Care,Hospital/Nursing Management
-HWAY,"Healthways, Inc.",Health Care,Hospital/Nursing Management
-HTBX,"Heat Biologics, Inc.",Health Care,Major Pharmaceuticals
-HSIC,"Henry Schein, Inc.",Health Care,Medical Specialities
-HLF,Herbalife LTD.,Health Care,Other Pharmaceuticals
-HRTX,"Heron Therapeutics, Inc.  ",Health Care,Major Pharmaceuticals
-HSKA,Heska Corporation,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-HRC,Hill-Rom Holdings Inc,Health Care,Medical/Dental Instruments
-HSGX,Histogenics Corporation,Health Care,Industrial Specialties
-HOLX,"Hologic, Inc.",Health Care,Medical Electronics
-HH,"Hooper Holmes, Inc.",Health Care,Hospital/Nursing Management
-HZNP,Horizon Pharma plc,Health Care,Major Pharmaceuticals
-HUM,Humana Inc.,Health Care,Medical Specialities
-HCM,Hutchison China MediTech Limited,Health Care,Major Pharmaceuticals
-IBIO,"iBio, Inc.",Health Care,Major Pharmaceuticals
-ICAD,icad inc.,Health Care,Medical/Dental Instruments
-ICLR,ICON plc,Health Care,Biotechnology: Commercial Physical & Biological Resarch
-ICUI,"ICU Medical, Inc.",Health Care,Medical/Dental Instruments
-IDRA,"Idera Pharmaceuticals, Inc.",Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-IDXX,"IDEXX Laboratories, Inc.",Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances
-RXDX,"Ignyta, Inc.",Health Care,Major Pharmaceuticals
-KANG,"iKang Healthcare Group, Inc.",Health Care,Medical/Nursing Services
-ICCC,ImmuCell Corporation,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances
-IMDZ,Immune Design Corp.,Health Care,Major Pharmaceuticals
-IMNP          ,Immune Pharmaceuticals Inc.,Health Care,Major Pharmaceuticals
-IMUC,"ImmunoCellular Therapeutics, Ltd.",Health Care,Major Pharmaceuticals
-IMGN,"ImmunoGen, Inc.",Health Care,Major Pharmaceuticals
-IMMU,"Immunomedics, Inc.",Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances
-IPXL,"Impax Laboratories, Inc.",Health Care,Major Pharmaceuticals
-IMMY,"Imprimis Pharmaceuticals, Inc.",Health Care,Major Pharmaceuticals
-INCR,"INC Research Holdings, Inc.",Health Care,Biotechnology: Commercial Physical & Biological Resarch
-INCY,Incyte Corporation,Health Care,Biotechnology: Commercial Physical & Biological Resarch
-INFI,"Infinity Pharmaceuticals, Inc.",Health Care,Major Pharmaceuticals
-INFU,"InfuSystems Holdings, Inc.",Health Care,Medical/Dental Instruments
-INNL,Innocoll Holdings,Health Care,Major Pharmaceuticals
-INVA,"Innoviva, Inc.",Health Care,Major Pharmaceuticals
-INGN,"Inogen, Inc",Health Care,Industrial Specialties
-ITEK,Inotek Pharmaceuticals Corporation,Health Care,Major Pharmaceuticals
-INO,"Inovio Pharmaceuticals, Inc.",Health Care,Medical/Dental Instruments
-INSM,"Insmed, Inc.",Health Care,Major Pharmaceuticals
-NSPR,"InspireMD, Inc.",Health Care,Medical/Dental Instruments
-PODD,Insulet Corporation,Health Care,Medical/Dental Instruments
-INSY,"Insys Therapeutics, Inc.",Health Care,Major Pharmaceuticals
-NTEC,Intec Pharma Ltd.,Health Care,Major Pharmaceuticals
-NTLA,"Intellia Therapeutics, Inc.",Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances
-IPCI,Intellipharmaceutics International Inc.,Health Care,Major Pharmaceuticals
-ICPT,"Intercept Pharmaceuticals, Inc.",Health Care,Major Pharmaceuticals
-IDXG,"Interpace Diagnostics Group, Inc.",Health Care,Medical/Dental Instruments
-XENT,"Intersect ENT, Inc.",Health Care,Medical/Dental Instruments
-ITCI,Intra-Cellular Therapies Inc.,Health Care,Major Pharmaceuticals
-XON,Intrexon Corporation,Health Care,Biotechnology: Commercial Physical & Biological Resarch
-ISRG,"Intuitive Surgical, Inc.",Health Care,Industrial Specialties
-IVC,Invacare Corporation,Health Care,Industrial Specialties
-NVTA,Invitae Corporation,Health Care,Medical Specialities
-NVIV,InVivo Therapeutics Holdings Corp.,Health Care,Medical/Dental Instruments
-IVTY,"Invuity, Inc.",Health Care,Medical/Dental Instruments
-IONS,"Ionis Pharmaceuticals, Inc.",Health Care,Major Pharmaceuticals
-IRMD,iRadimed Corporation,Health Care,Medical/Dental Instruments
-IRTC,"iRhythm Technologies, Inc.",Health Care,Medical/Dental Instruments
-IRIX,IRIDEX Corporation,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus
-IRWD,"Ironwood Pharmaceuticals, Inc.",Health Care,Major Pharmaceuticals
-ISR,"IsoRay, Inc.",Health Care,Medical/Dental Instruments
-JAGX,"Jaguar Animal Health, Inc.",Health Care,Major Pharmaceuticals
-JAZZ,Jazz Pharmaceuticals plc,Health Care,Major Pharmaceuticals
-JNJ,Johnson & Johnson,Health Care,Major Pharmaceuticals
-JNP,"Juniper Pharmaceuticals, Inc.",Health Care,Major Pharmaceuticals
-JUNO,"Juno Therapeutics, Inc.",Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-KTWO,"K2M Group Holdings, Inc.",Health Care,Medical/Dental Instruments
-KDMN,"Kadmon Holdings, Inc.",Health Care,Major Pharmaceuticals
-KMDA,Kamada Ltd.,Health Care,Major Pharmaceuticals
-KPTI,Karyopharm Therapeutics Inc.,Health Care,Major Pharmaceuticals
-KMPH,"KemPharm, Inc.",Health Care,Major Pharmaceuticals
-KERX,"Keryx Biopharmaceuticals, Inc.",Health Care,Major Pharmaceuticals
-KIN,"Kindred Biosciences, Inc.",Health Care,Major Pharmaceuticals
-KND,"Kindred Healthcare, Inc.",Health Care,Hospital/Nursing Management
-KITE,"Kite Pharma, Inc.",Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-KTOV,Kitov Pharmaceuticals Holdings Ltd.,Health Care,Major Pharmaceuticals
-KTOVW,Kitov Pharmaceuticals Holdings Ltd.,Health Care,Major Pharmaceuticals
-KURA,"Kura Oncology, Inc.",Health Care,Major Pharmaceuticals
-LJPC,La Jolla Pharmaceutical Company,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-LH,Laboratory Corporation of America Holdings,Health Care,Medical Specialities
-LAKE,"Lakeland Industries, Inc.",Health Care,Industrial Specialties
-LCI,Lannett Co Inc,Health Care,Major Pharmaceuticals
-LNTH,"Lantheus Holdings, Inc.",Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances
-LMAT,"LeMaitre Vascular, Inc.",Health Care,Medical/Dental Instruments
-LXRX,"Lexicon Pharmaceuticals, Inc.",Health Care,Major Pharmaceuticals
-LHCG,LHC Group,Health Care,Medical/Nursing Services
-LPNT,"LifePoint Health, Inc.",Health Care,Hospital/Nursing Management
-LFVN,Lifevantage Corporation,Health Care,Major Pharmaceuticals
-LGND,Ligand Pharmaceuticals Incorporated,Health Care,Major Pharmaceuticals
-LBIO,"Lion Biotechnologies, Inc.",Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-LPCN,Lipocine Inc.,Health Care,Major Pharmaceuticals
-LIVN,LivaNova PLC,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus
-EVAR,"Lombard Medical, Inc.",Health Care,Medical/Dental Instruments
-LOXO,"Loxo Oncology, Inc.",Health Care,Major Pharmaceuticals
-LPTN,"Lpath, Inc.",Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-LMNX,Luminex Corporation,Health Care,Medical/Dental Instruments
-LUNA,Luna Innovations Incorporated,Health Care,Biotechnology: Commercial Physical & Biological Resarch
-LUX,"Luxottica Group, S.p.A.",Health Care,Ophthalmic Goods
-MBVX,"MabVax Therapeutics Holdings, Inc.",Health Care,Major Pharmaceuticals
-MCUR,Macrocure Ltd.,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-MGNX,"MacroGenics, Inc.",Health Care,Major Pharmaceuticals
-MDGL,"Madrigal Pharmaceuticals, Inc.",Health Care,Major Pharmaceuticals
-MGLN,"Magellan Health, Inc.",Health Care,Hospital/Nursing Management
-MNK,Mallinckrodt plc,Health Care,Major Pharmaceuticals
-MNKD,MannKind Corporation,Health Care,Major Pharmaceuticals
-MRNS,"Marinus Pharmaceuticals, Inc.",Health Care,Major Pharmaceuticals
-MASI,Masimo Corporation,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus
-MSTX,"Mast Therapeutics, Inc.",Health Care,Major Pharmaceuticals
-MATN,"Mateon Therapeutics, Inc. ",Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-MZOR,Mazor Robotics Ltd.,Health Care,Medical/Dental Instruments
-MCK,McKesson Corporation,Health Care,Other Pharmaceuticals
-MDGN,"Medgenics, Inc.",Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-MNOV,"MediciNova, Inc.",Health Care,Major Pharmaceuticals
-MDGS,Medigus Ltd.,Health Care,Medical/Dental Instruments
-MD,"Mednax, Inc",Health Care,Hospital/Nursing Management
-MDVX,Medovex Corp.,Health Care,Medical/Dental Instruments
-MDVXW,Medovex Corp.,Health Care,Medical/Dental Instruments
-MEDP,"Medpace Holdings, Inc.",Health Care,Biotechnology: Commercial Physical & Biological Resarch
-MDT,Medtronic plc,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus
-MEIP,"MEI Pharma, Inc.",Health Care,Major Pharmaceuticals
-MRK,"Merck & Company, Inc.",Health Care,Major Pharmaceuticals
-VIVO,Meridian Bioscience Inc.,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances
-MMSI,"Merit Medical Systems, Inc.",Health Care,Medical/Dental Instruments
-MACK,"Merrimack Pharmaceuticals, Inc.",Health Care,Major Pharmaceuticals
-MSLI,Merus Labs International Inc.,Health Care,Major Pharmaceuticals
-MRUS,Merus N.V.,Health Care,Major Pharmaceuticals
-MESO,Mesoblast Limited,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-MGCD,MGC Diagnostics Corporation,Health Care,Medical/Dental Instruments
-MTP,Midatech Pharma PLC,Health Care,Major Pharmaceuticals
-MLSS,"Milestone Scientific, Inc.",Health Care,Industrial Specialties
-MDXG,"MiMedx Group, Inc",Health Care,Medical/Dental Instruments
-NERV,"Minerva Neurosciences, Inc",Health Care,Major Pharmaceuticals
-MRTX,"Mirati Therapeutics, Inc.",Health Care,Major Pharmaceuticals
-MIRN,"Mirna Therapeutics, Inc.",Health Care,Major Pharmaceuticals
-MBRX,"Moleculin Biotech, Inc.",Health Care,Major Pharmaceuticals
-MOH,Molina Healthcare Inc,Health Care,Medical Specialities
-MNTA,"Momenta Pharmaceuticals, Inc.",Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-MSA,MSA Safety Incorporporated,Health Care,Industrial Specialties
-MYL,Mylan N.V.,Health Care,Major Pharmaceuticals
-MYOK,"MyoKardia, Inc.",Health Care,Major Pharmaceuticals
-MYOS,MYOS RENS Technology Inc.,Health Care,Major Pharmaceuticals
-MYOV,Myovant Sciences Ltd.,Health Care,Major Pharmaceuticals
-MYGN,"Myriad Genetics, Inc.",Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances
-NBRV,Nabriva Therapeutics AG,Health Care,Major Pharmaceuticals
-NSTG,"NanoString Technologies, Inc.",Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-NNVC,"NanoViricides, Inc.",Health Care,Biotechnology: Commercial Physical & Biological Resarch
-NK,"NantKwest, Inc.",Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-NTRA,"Natera, Inc.",Health Care,Medical Specialities
-NHC,National HealthCare Corporation,Health Care,Hospital/Nursing Management
-NRCIA,National Research Corporation,Health Care,Biotechnology: Commercial Physical & Biological Resarch
-NRCIB,National Research Corporation,Health Care,Biotechnology: Commercial Physical & Biological Resarch
-NATR,"Nature&#39;s Sunshine Products, Inc.",Health Care,Major Pharmaceuticals
-BABY,Natus Medical Incorporated,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus
-NAVB,"Navidea Biopharmaceuticals, Inc.",Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances
-NKTR,Nektar Therapeutics,Health Care,Major Pharmaceuticals
-NEOG,Neogen Corporation,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances
-NEO,"NeoGenomics, Inc.",Health Care,Precision Instruments
-NEOS,"Neos Therapeutics, Inc.",Health Care,Major Pharmaceuticals
-NEOT,"Neothetics, Inc.",Health Care,Major Pharmaceuticals
-NVCN,Neovasc Inc.,Health Care,Medical/Dental Instruments
-NEPT,Neptune Technologies & Bioresources Inc,Health Care,Major Pharmaceuticals
-CUR,"Neuralstem, Inc.",Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-NBIX,"Neurocrine Biosciences, Inc.",Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-NDRM,NeuroDerm Ltd.,Health Care,Major Pharmaceuticals
-NURO,"NeuroMetrix, Inc.",Health Care,Medical/Dental Instruments
-NUROW,"NeuroMetrix, Inc.",Health Care,Medical/Dental Instruments
-NVRO,Nevro Corp.,Health Care,Medical/Dental Instruments
-NLNK,NewLink Genetics Corporation,Health Care,Major Pharmaceuticals
-NVET,Nexvet Biopharma plc,Health Care,Major Pharmaceuticals
-NVLS,"Nivalis Therapeutics, Inc.",Health Care,Major Pharmaceuticals
-HLTH,Nobilis Health Corp.,Health Care,Hospital/Nursing Management
-NWBO,"Northwest Biotherapeutics, Inc.",Health Care,Major Pharmaceuticals
-NWBOW,"Northwest Biotherapeutics, Inc.",Health Care,Major Pharmaceuticals
-NBY,"NovaBay Pharmaceuticals, Inc.",Health Care,Major Pharmaceuticals
-NVDQ,Novadaq Technologies Inc,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus
-NOVN,"Novan, Inc.",Health Care,Major Pharmaceuticals
-NVS,Novartis AG,Health Care,Major Pharmaceuticals
-NVAX,"Novavax, Inc.",Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-NVO,Novo Nordisk A/S,Health Care,Major Pharmaceuticals
-NVCR,NovoCure Limited,Health Care,Medical/Dental Instruments
-NVGN,Novogen Limited,Health Care,Major Pharmaceuticals
-NUS,"Nu Skin Enterprises, Inc.",Health Care,Other Pharmaceuticals
-NUVA,"NuVasive, Inc.",Health Care,Medical/Dental Instruments
-NVTR,Nuvectra Corporation,Health Care,Medical/Dental Instruments
-NXTM,"NxStage Medical, Inc.",Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus
-NYMX,Nymox Pharmaceutical Corporation,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances
-OASM,Oasmia Pharmaceutical AB,Health Care,Major Pharmaceuticals
-OBLN,"Obalon Therapeutics, Inc.",Health Care,Medical/Dental Instruments
-OCRX,"Ocera Therapeutics, Inc.",Health Care,Major Pharmaceuticals
-OCUL,"Ocular Therapeutix, Inc.",Health Care,Major Pharmaceuticals
-OCLS,"Oculus Innovative Sciences, Inc.",Health Care,Major Pharmaceuticals
-OCLSW,"Oculus Innovative Sciences, Inc.",Health Care,Major Pharmaceuticals
-OHRP,"Ohr Pharmaceuticals, Inc.",Health Care,Major Pharmaceuticals
-OMER,Omeros Corporation,Health Care,Major Pharmaceuticals
-ONS,"Oncobiologics, Inc.",Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-ONSIW,"Oncobiologics, Inc.",Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-ONSIZ,"Oncobiologics, Inc.",Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-OCX,OncoCyte Corporation,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances
-OGXI,OncoGenex Pharmaceuticals Inc.,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances
-OMED,"OncoMed Pharmaceuticals, Inc.",Health Care,Major Pharmaceuticals
-ONTX,"Onconova Therapeutics, Inc.",Health Care,Major Pharmaceuticals
-ONTXW,"Onconova Therapeutics, Inc.",Health Care,Major Pharmaceuticals
-ONCS,OncoSec Medical Incorporated,Health Care,Major Pharmaceuticals
-OPXA,"Opexa Therapeutics, Inc.",Health Care,Major Pharmaceuticals
-OPXAW,"Opexa Therapeutics, Inc.",Health Care,Major Pharmaceuticals
-OPGN,"OpGen, Inc.",Health Care,Medical Specialities
-OPGNW,"OpGen, Inc.",Health Care,Medical Specialities
-OPHT,Ophthotech Corporation,Health Care,Major Pharmaceuticals
-OPK,"Opko Health, Inc.",Health Care,Major Pharmaceuticals
-OGEN,"Oragenics, Inc.",Health Care,Major Pharmaceuticals
-ORMP,Oramed Pharmaceuticals Inc.,Health Care,Major Pharmaceuticals
-OSUR,"OraSure Technologies, Inc.",Health Care,Medical/Dental Instruments
-OREX,"Orexigen Therapeutics, Inc.",Health Care,Major Pharmaceuticals
-ONVO,"Organovo Holdings, Inc.",Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-OFIX,Orthofix International N.V.,Health Care,Medical/Dental Instruments
-OSIR,"Osiris Therapeutics, Inc.",Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-OTIC,"Otonomy, Inc.",Health Care,Major Pharmaceuticals
-OVAS,OvaScience Inc.,Health Care,Major Pharmaceuticals
-OMI,"Owens & Minor, Inc.",Health Care,Medical Specialities
-OXFD,Oxford Immunotec Global PLC,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances
-PCRX,"Pacira Pharmaceuticals, Inc.",Health Care,Major Pharmaceuticals
-PTIE,Pain Therapeutics,Health Care,Major Pharmaceuticals
-PTN,"Palatin Technologies, Inc.",Health Care,Major Pharmaceuticals
-PRTK,"Paratek Pharmaceuticals, Inc. ",Health Care,Major Pharmaceuticals
-PRXL,PAREXEL International Corporation,Health Care,Biotechnology: Commercial Physical & Biological Resarch
-PARN,Parnell Pharmaceuticals Holdings Ltd,Health Care,Major Pharmaceuticals
-PTHN,Patheon N.V.,Health Care,Major Pharmaceuticals
-PDCO,"Patterson Companies, Inc.",Health Care,Medical Specialities
-PAVM,PAVmed Inc.,Health Care,Medical/Dental Instruments
-PAVMW,PAVmed Inc.,Health Care,Medical/Dental Instruments
-PDLI,"PDL BioPharma, Inc.",Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-PEN,"Penumbra, Inc.",Health Care,Medical/Dental Instruments
-PPHM,Peregrine Pharmaceuticals Inc.,Health Care,Major Pharmaceuticals
-PPHMP,Peregrine Pharmaceuticals Inc.,Health Care,Major Pharmaceuticals
-PTX,"Pernix Therapeutics Holdings, Inc.",Health Care,Major Pharmaceuticals
-PRGO,Perrigo Company,Health Care,Major Pharmaceuticals
-PETS,"PetMed Express, Inc.",Health Care,Medical/Nursing Services
-PFNX,Pfenex Inc.,Health Care,Major Pharmaceuticals
-PFE,"Pfizer, Inc.",Health Care,Major Pharmaceuticals
-PIP,"PharmAthene, Inc",Health Care,Major Pharmaceuticals
-PMC,Pharmerica Corporation,Health Care,Medical/Nursing Services
-PZRX,"PhaseRx, Inc.",Health Care,Major Pharmaceuticals
-PAHC,Phibro Animal Health Corporation,Health Care,Major Pharmaceuticals
-PHMD,"PhotoMedex, Inc.",Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus
-PIRS,"Pieris Pharmaceuticals, Inc.",Health Care,Biotechnology: Commercial Physical & Biological Resarch
-PSTI,"Pluristem Therapeutics, Inc.",Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-PTLA,"Portola Pharmaceuticals, Inc.",Health Care,Major Pharmaceuticals
-PRAH,"PRA Health Sciences, Inc.",Health Care,Biotechnology: Commercial Physical & Biological Resarch
-PRAN,Prana Biotechnology Ltd,Health Care,Major Pharmaceuticals
-LENS,Presbia PLC,Health Care,Medical/Dental Instruments
-PBH,"Prestige Brand Holdings, Inc.",Health Care,Major Pharmaceuticals
-PBMD,Prima BioMed Ltd,Health Care,Major Pharmaceuticals
-PDEX,"Pro-Dex, Inc.",Health Care,Medical/Dental Instruments
-PGNX,Progenics Pharmaceuticals Inc.,Health Care,Major Pharmaceuticals
-DNAI,"ProNAi Therapeutics, Inc.",Health Care,Major Pharmaceuticals
-PRPH,"ProPhase Labs, Inc.",Health Care,Major Pharmaceuticals
-PRQR,ProQR Therapeutics N.V.,Health Care,Major Pharmaceuticals
-PTGX,"Protagonist Therapeutics, Inc.",Health Care,Major Pharmaceuticals
-PLX,"Protalix BioTherapeutics, Inc.",Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-PRTO,"Proteon Therapeutics, Inc.",Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-PTI,"Proteostasis Therapeutics, Inc.",Health Care,Major Pharmaceuticals
-PRTA,Prothena Corporation plc,Health Care,Major Pharmaceuticals
-PMD,Psychemedics Corporation,Health Care,Medical Specialities
-PTCT,"PTC Therapeutics, Inc.",Health Care,Major Pharmaceuticals
-PULM,"Pulmatrix, Inc.",Health Care,Major Pharmaceuticals
-PLSE,"Pulse Biosciences, Inc",Health Care,Medical/Dental Instruments
-PBYI,Puma Biotechnology Inc,Health Care,Major Pharmaceuticals
-QGEN,Qiagen N.V.,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-QLTI,QLT Inc.,Health Care,Major Pharmaceuticals
-DGX,Quest Diagnostics Incorporated,Health Care,Medical Specialities
-QDEL,Quidel Corporation,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances
-Q,"Quintiles IMS Holdings, Inc.",Health Care,Biotechnology: Commercial Physical & Biological Resarch
-QHC,Quorum Health Corporation,Health Care,Hospital/Nursing Management
-QTNT,Quotient Limited,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances
-RARX,"Ra Pharmaceuticals, Inc.",Health Care,Major Pharmaceuticals
-RDUS,"Radius Health, Inc.",Health Care,Major Pharmaceuticals
-RDNT,"RadNet, Inc.",Health Care,Medical Specialities
-RETA,"Reata Pharmaceuticals, Inc.",Health Care,Major Pharmaceuticals
-REPH,"Recro Pharma, Inc.",Health Care,Major Pharmaceuticals
-RDHL,Redhill Biopharma Ltd.,Health Care,Major Pharmaceuticals
-REGN,"Regeneron Pharmaceuticals, Inc.",Health Care,Major Pharmaceuticals
-RGNX,REGENXBIO Inc.,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-RGLS,Regulus Therapeutics Inc.,Health Care,Major Pharmaceuticals
-RELV,"Reliv&#39; International, Inc.",Health Care,Major Pharmaceuticals
-RNVA,"Rennova Health, Inc.",Health Care,Precision Instruments
-RNVAZ,"Rennova Health, Inc.",Health Care,Precision Instruments
-RGEN,Repligen Corporation,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-RPRX,Repros Therapeutics Inc.,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-RMD,ResMed Inc.,Health Care,Medical/Dental Instruments
-RVP,"Retractable Technologies, Inc.",Health Care,Medical/Dental Instruments
-RTRX,"Retrophin, Inc.",Health Care,Major Pharmaceuticals
-RVNC,"Revance Therapeutics, Inc.",Health Care,Major Pharmaceuticals
-RWLK,ReWalk Robotics Ltd,Health Care,Industrial Specialties
-RNN,"Rexahn Pharmaceuticals, Inc.",Health Care,Major Pharmaceuticals
-RIGL,"Rigel Pharmaceuticals, Inc.",Health Care,Major Pharmaceuticals
-RAD,Rite Aid Corporation,Health Care,Medical/Nursing Services
-RTTR,"Ritter Pharmaceuticals, Inc.",Health Care,Major Pharmaceuticals
-RMTI,"Rockwell Medical, Inc.",Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus
-ROSG,Rosetta Genomics Ltd.,Health Care,Major Pharmaceuticals
-RTIX,"RTI Surgical, Inc.",Health Care,Industrial Specialties
-RXII,RXi Pharmaceuticals Corporation,Health Care,Major Pharmaceuticals
-SAGE,"Sage Therapeutics, Inc.",Health Care,Major Pharmaceuticals
-SGMO,"Sangamo BioSciences, Inc.",Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-GCVRZ,Sanofi,Health Care,Major Pharmaceuticals
-SNY,Sanofi,Health Care,Major Pharmaceuticals
-SRPT,"Sarepta Therapeutics, Inc.",Health Care,Major Pharmaceuticals
-SCLN,"SciClone Pharmaceuticals, Inc.",Health Care,Major Pharmaceuticals
-SCYX,"SCYNEXIS, Inc.",Health Care,Major Pharmaceuticals
-SPNE,SeaSpine Holdings Corporation,Health Care,Medical/Dental Instruments
-SGEN,"Seattle Genetics, Inc.",Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-EYES,"Second Sight Medical Products, Inc.",Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus
-SEM,Select Medical Holdings Corporation,Health Care,Hospital/Nursing Management
-SELB,"Selecta Biosciences, Inc.",Health Care,Major Pharmaceuticals
-SNMX,"Senomyx, Inc.",Health Care,Biotechnology: Commercial Physical & Biological Resarch
-SRTS,"Sensus Healthcare, Inc.",Health Care,Medical/Dental Instruments
-SRTSW,"Sensus Healthcare, Inc.",Health Care,Medical/Dental Instruments
-MCRB,"Seres Therapeutics, Inc.",Health Care,Major Pharmaceuticals
-SHPG,Shire plc,Health Care,Major Pharmaceuticals
-SIEN,"Sientra, Inc.",Health Care,Industrial Specialties
-SGNL,"Signal Genetics, Inc.",Health Care,Medical Specialities
-SVA,"Sinovac Biotech, Ltd.",Health Care,Major Pharmaceuticals
-SKLN,Skyline Medical Inc.,Health Care,Industrial Specialties
-SNN,"Smith & Nephew SNATS, Inc.",Health Care,Industrial Specialties
-SRNE,"Sorrento Therapeutics, Inc.",Health Care,Biotechnology: Commercial Physical & Biological Resarch
-SPAN,"Span-America Medical Systems, Inc.",Health Care,Industrial Specialties
-ONCE,"Spark Therapeutics, Inc.",Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-SPPI,"Spectrum Pharmaceuticals, Inc.",Health Care,Major Pharmaceuticals
-SBPH,"Spring Bank Pharmaceuticals, Inc.",Health Care,Major Pharmaceuticals
-STJ,"St. Jude Medical, Inc.",Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus
-STAA,STAAR Surgical Company,Health Care,Ophthalmic Goods
-STDY,SteadyMed Ltd.,Health Care,Major Pharmaceuticals
-SBOT,"Stellar Biotechnologies, Inc.",Health Care,Major Pharmaceuticals
-STEM,"StemCells, Inc.",Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-STML,"Stemline Therapeutics, Inc.",Health Care,Major Pharmaceuticals
-STE,STERIS plc,Health Care,Industrial Specialties
-SSKN,"Strata Skin Sciences, Inc.",Health Care,Medical/Dental Instruments
-SBBP,Strongbridge Biopharma plc,Health Care,Major Pharmaceuticals
-SYK,Stryker Corporation,Health Care,Medical/Dental Instruments
-SCMP,"Sucampo Pharmaceuticals, Inc.",Health Care,Major Pharmaceuticals
-SMMT,Summit Therapeutics plc,Health Care,Major Pharmaceuticals
-SNSS,"Sunesis Pharmaceuticals, Inc.",Health Care,Major Pharmaceuticals
-SSY,"SunLink Health Systems, Inc.",Health Care,Hospital/Nursing Management
-SSH,Sunshine Heart Inc,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus
-SUPN,"Supernus Pharmaceuticals, Inc.",Health Care,Major Pharmaceuticals
-SGRY,"Surgery Partners, Inc.",Health Care,Hospital/Nursing Management
-SCAI,"Surgical Care Affiliates, Inc.",Health Care,Medical Specialities
-SRDX,"Surmodics, Inc.",Health Care,Medical/Dental Instruments
-SNDX,"Syndax Pharmaceuticals, Inc.",Health Care,Major Pharmaceuticals
-SGYP,"Synergy Pharmaceuticals, Inc.",Health Care,Major Pharmaceuticals
-SGYPU,"Synergy Pharmaceuticals, Inc.",Health Care,Major Pharmaceuticals
-SGYPW,"Synergy Pharmaceuticals, Inc.",Health Care,Major Pharmaceuticals
-ELOS,Syneron Medical Ltd.,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus
-SYN,"Synthetic Biologics, Inc",Health Care,Major Pharmaceuticals
-SYRS,"Syros Pharmaceuticals, Inc.",Health Care,Major Pharmaceuticals
-TTOO,"T2 Biosystems, Inc.",Health Care,Medical/Dental Instruments
-TCMD,"Tactile Systems Technology, Inc.",Health Care,Medical/Dental Instruments
-TNDM,"Tandem Diabetes Care, Inc.",Health Care,Medical/Dental Instruments
-TPIV,TapImmune Inc.,Health Care,Major Pharmaceuticals
-TARO,Taro Pharmaceutical Industries Ltd.,Health Care,Major Pharmaceuticals
-TEAR,TearLab Corporation,Health Care,Medical/Dental Instruments
-TDOC,"Teladoc, Inc.",Health Care,Medical/Nursing Services
-TFX,Teleflex Incorporated,Health Care,Medical/Dental Instruments
-TLGT,"Teligent, Inc.",Health Care,Major Pharmaceuticals
-TENX,"Tenax Therapeutics, Inc.",Health Care,Biotechnology: Commercial Physical & Biological Resarch
-THC,Tenet Healthcare Corporation,Health Care,Hospital/Nursing Management
-TSRO,"TESARO, Inc.",Health Care,Major Pharmaceuticals
-TTPH,"Tetraphase Pharmaceuticals, Inc.",Health Care,Major Pharmaceuticals
-TEVA,Teva Pharmaceutical Industries Limited,Health Care,Major Pharmaceuticals
-TGTX,"TG Therapeutics, Inc.",Health Care,Major Pharmaceuticals
-ENSG,"The Ensign Group, Inc.",Health Care,Hospital/Nursing Management
-MDCO,The Medicines Company,Health Care,Major Pharmaceuticals
-SPNC,The Spectranetics Corporation,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus
-TXMD,"TherapeuticsMD, Inc.",Health Care,Major Pharmaceuticals
-TBPH,"Theravance Biopharma, Inc.",Health Care,Major Pharmaceuticals
-THLD,"Threshold Pharmaceuticals, Inc.",Health Care,Major Pharmaceuticals
-TTNP,"Titan Pharmaceuticals, Inc.",Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-TKAI,"Tokai Pharmaceuticals, Inc.",Health Care,Major Pharmaceuticals
-TNXP,Tonix Pharmaceuticals Holding Corp.,Health Care,Major Pharmaceuticals
-TCON,"TRACON Pharmaceuticals, Inc.",Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-TRXC,"TransEnterix, Inc.",Health Care,Medical/Dental Instruments
-TRVN,"Trevena, Inc.",Health Care,Major Pharmaceuticals
-TRIL,Trillium Therapeutics Inc.,Health Care,Major Pharmaceuticals
-TRIB,Trinity Biotech plc,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances
-TROV,"TrovaGene, Inc.",Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-TROVU,"TrovaGene, Inc.",Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-TROVW,"TrovaGene, Inc.",Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-TRUP,"Trupanion, Inc.",Health Care,Medical Specialities
-USPH,"U.S. Physical Therapy, Inc.",Health Care,Medical/Nursing Services
-RARE,Ultragenyx Pharmaceutical Inc.,Health Care,Major Pharmaceuticals
-UNIS,Unilife Corporation,Health Care,Medical/Dental Instruments
-QURE,uniQure N.V.,Health Care,Major Pharmaceuticals
-UTHR,United Therapeutics Corporation,Health Care,Major Pharmaceuticals
-UNH,UnitedHealth Group Incorporated,Health Care,Medical Specialities
-UAM,Universal American Corp.,Health Care,Medical Specialities
-UHS,"Universal Health Services, Inc.",Health Care,Hospital/Nursing Management
-UTMD,"Utah Medical Products, Inc.",Health Care,Medical/Dental Instruments
-VRX,"Valeant Pharmaceuticals International, Inc.",Health Care,Major Pharmaceuticals
-VNDA,Vanda Pharmaceuticals Inc.,Health Care,Major Pharmaceuticals
-VAR,"Varian Medical Systems, Inc.",Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus
-VBLT,Vascular Biogenics Ltd.,Health Care,Major Pharmaceuticals
-VASC,"Vascular Solutions, Inc.",Health Care,Medical/Dental Instruments
-VBIV,"VBI Vaccines, Inc.",Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-APPY,"Venaxis, Inc.",Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances
-VCYT,"Veracyte, Inc.",Health Care,Medical Specialities
-VSTM,"Verastem, Inc.",Health Care,Major Pharmaceuticals
-VCEL,Vericel Corporation,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-VRML,"Vermillion, Inc.",Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances
-VSAR,"Versartis, Inc.",Health Care,Major Pharmaceuticals
-VRTX,Vertex Pharmaceuticals Incorporated,Health Care,Major Pharmaceuticals
-VICL,Vical Incorporated,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-VRAY,"ViewRay, Inc.",Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus
-VKTX,"Viking Therapeutics, Inc.",Health Care,Major Pharmaceuticals
-VKTXW,"Viking Therapeutics, Inc.",Health Care,Major Pharmaceuticals
-VTGN,"VistaGen Therapeutics, Inc.",Health Care,Major Pharmaceuticals
-VTL,"Vital Therapies, Inc.",Health Care,Major Pharmaceuticals
-VIVE,"Viveve Medical, Inc.",Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus
-VVUS,"VIVUS, Inc.",Health Care,Major Pharmaceuticals
-VNRX,VolitionRX Limited,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances
-VYGR,"Voyager Therapeutics, Inc.",Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-VTVT,vTv Therapeutics Inc.,Health Care,Major Pharmaceuticals
-WBA,"Walgreens Boots Alliance, Inc.",Health Care,Medical/Nursing Services
-WVE,WAVE Life Sciences Ltd.,Health Care,Major Pharmaceuticals
-WCG,"WellCare Health Plans, Inc.",Health Care,Medical Specialities
-WINT,"Windtree Therapeutics, Inc.",Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-WMGI,Wright Medical Group N.V.,Health Care,Industrial Specialties
-WMGIZ,Wright Medical Group N.V.,Health Care,Industrial Specialties
-XBIT,XBiotech Inc.,Health Care,Major Pharmaceuticals
-XNCR,"Xencor, Inc.",Health Care,Major Pharmaceuticals
-XBIO,"Xenetic Biosciences, Inc.",Health Care,Major Pharmaceuticals
-XENE,Xenon Pharmaceuticals Inc.,Health Care,Major Pharmaceuticals
-XOMA,XOMA Corporation,Health Care,Major Pharmaceuticals
-XTNT,"Xtant Medical Holdings, Inc.",Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
-XTLB,XTL Biopharmaceuticals Ltd.,Health Care,Major Pharmaceuticals
-ZFGN,"Zafgen, Inc.",Health Care,Major Pharmaceuticals
-ZLTQ,"ZELTIQ Aesthetics, Inc.",Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus
-ZBH,"Zimmer Biomet Holdings, Inc.",Health Care,Industrial Specialties
-ZIOP,ZIOPHARM Oncology Inc,Health Care,Major Pharmaceuticals
-ZTS,Zoetis Inc.,Health Care,Major Pharmaceuticals
-ZGNX,"Zogenix, Inc.",Health Care,Major Pharmaceuticals
-ZSAN,Zosano Pharma Corporation,Health Care,Major Pharmaceuticals
-ZYNE,"Zynerba Pharmaceuticals, Inc.",Health Care,Major Pharmaceuticals
+"Symbol","Name","LastSale","MarketCap","ADR TSO","IPOyear","Sector","Industry","Summary Quote",
+"MMM","3M Company","211.16","126113108868.16","n/a","n/a","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/mmm",
+"AAC","AAC Holdings, Inc.","6.75","162485790.75","n/a","2014","Health Care","Medical Specialities","http://www.nasdaq.com/symbol/aac",
+"ABT","Abbott Laboratories","50.84","88221231225.36","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/abt",
+"ABBV","AbbVie Inc.","74.63","118776668485.19","n/a","2012","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/abbv",
+"ABEO","Abeona Therapeutics Inc.","9.8","394499803.6","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/abeo",
+"ABEOW","Abeona Therapeutics Inc.","5.25","0","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/abeow",
+"ABMD","ABIOMED, Inc.","144.1","6349632775.2","n/a","n/a","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/abmd",
+"ACIU","AC Immune SA","8.08","459931715.36","n/a","2016","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/aciu",
+"ACHC","Acadia Healthcare Company, Inc.","50.89","4469053592.57","n/a","n/a","Health Care","Medical Specialities","http://www.nasdaq.com/symbol/achc",
+"ACAD","ACADIA Pharmaceuticals Inc.","30.43","3713873230.06","n/a","2004","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/acad",
+"ACST","Acasti Pharma, Inc.","1.28","18831426.56","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/acst",
+"XLRN","Acceleron Pharma Inc.","31.45","1214529275.35","n/a","2013","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/xlrn",
+"ARAY","Accuray Incorporated","4.45","369354298.7","n/a","2007","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/aray",
+"ACRX","AcelRx Pharmaceuticals, Inc.","3.15","142948489.95","n/a","2011","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/acrx",
+"ACET","Aceto Corporation","15.26","459337475.52","n/a","n/a","Health Care","Other Pharmaceuticals","http://www.nasdaq.com/symbol/acet",
+"AKAO","Achaogen, Inc.","21.9","903615900","n/a","2014","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/akao",
+"ACHN","Achillion Pharmaceuticals, Inc.","4.11","561935348.19","n/a","2006","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/achn",
+"ACRS","Aclaris Therapeutics, Inc.","29.07","777142641.51","n/a","2015","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/acrs",
+"ACOR","Acorda Therapeutics, Inc.","20.65","963517146.9","n/a","2006","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/acor",
+"ATNM","Actinium Pharmaceuticals, Inc.","1.02","59620789.08","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/atnm",
+"ADMS","Adamas Pharmaceuticals, Inc.","17.66","394866385.9","n/a","2014","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/adms",
+"ADMP","Adamis Pharmaceuticals Corporation","4.8","132303768","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/admp",
+"ADAP","Adaptimmune Therapeutics plc","5.7","275056617.9","48255547","2015","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/adap",
+"ADK","Adcare Health Systems Inc","1.05","20796220.2","n/a","n/a","Health Care","Hospital/Nursing Management","http://www.nasdaq.com/symbol/adk",
+"ADUS","Addus HomeCare Corporation","37.6","436291148.8","n/a","2009","Health Care","Medical/Nursing Services","http://www.nasdaq.com/symbol/adus",
+"ADMA","ADMA Biologics Inc","3.56","45876797.96","n/a","n/a","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/adma",
+"ADRO","Aduro Biotech, Inc.","13.75","961308686.25","n/a","2015","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/adro",
+"AAAP","Advanced Accelerator Applications S.A.","41.39","1714186468.86","41415474","2015","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/aaap",
+"ADXS","Advaxis, Inc.","6.88","278383376","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/adxs",
+"ADXSW","Advaxis, Inc.","3.7047","0","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/adxsw",
+"ADVM","Adverum Biotechnologies, Inc.","2.65","113603276.65","n/a","2014","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/advm",
+"AGLE","Aeglea BioTherapeutics, Inc.","3.7","49773362","n/a","2016","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/agle",
+"AERI","Aerie Pharmaceuticals, Inc.","57.8","2077167154.4","n/a","2013","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/aeri",
+"AEZS","AEterna Zentaris Inc.","2.87","42045436.86","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/aezs",
+"AET","Aetna Inc.","156.31","51848027000","n/a","n/a","Health Care","Medical Specialities","http://www.nasdaq.com/symbol/aet",
+"GNMX","Aevi Genomic Medicine, Inc.","1.29","47871955.47","n/a","n/a","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/gnmx",
+"AFMD","Affimed N.V.","2.325","102156726.525","n/a","2014","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/afmd",
+"AGEN","Agenus Inc.","5.05","500550500.55","n/a","2000","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/agen",
+"AGRX","Agile Therapeutics, Inc.","5.19","149505205.62","n/a","2014","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/agrx",
+"AGIO","Agios Pharmaceuticals, Inc.","57.17","2755872875.26","n/a","2013","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/agio",
+"ALRN","Aileron Therapeutics, Inc.","12.78","187996458.24","n/a","2017","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/alrn",
+"AIMT","Aimmune Therapeutics, Inc.","21.76","1095456586.24","n/a","2015","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/aimt",
+"AKTX","Akari Therapeutics Plc","4.63","54301922.51","11728277","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/aktx",
+"AKCA","Akcea Therapeutics, Inc.","13.53","868597302.87","n/a","2017","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/akca",
+"AKBA","Akebia Therapeutics, Inc.","13.82","650740723.06","n/a","2014","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/akba",
+"AKER","Akers Biosciences Inc","1.2","10674090","n/a","2014","Health Care","Biotechnology: In Vitro & In Vivo Diagnostic Substances","http://www.nasdaq.com/symbol/aker",
+"AKRX","Akorn, Inc.","33.6","4192070299.2","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/akrx",
+"AMRI","Albany Molecular Research, Inc.","21.7","932283125.2","n/a","1999","Health Care","Biotechnology: Commercial Physical & Biological Resarch","http://www.nasdaq.com/symbol/amri",
+"ALBO","Albireo Pharma, Inc.","26.21","231241499.24","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/albo",
+"ADHD","Alcobra Ltd.","1.13","31145958.35","n/a","2013","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/adhd",
+"ALDR","Alder BioPharmaceuticals, Inc.","11.5","778095267","n/a","2014","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/aldr",
+"ALDX","Aldeyra Therapeutics, Inc.","4.75","71876430","n/a","2014","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/aldx",
+"ALR","Alere Inc.","50.47","4409499348.87","n/a","n/a","Health Care","Biotechnology: In Vitro & In Vivo Diagnostic Substances","http://www.nasdaq.com/symbol/alr",
+"ALXN","Alexion Pharmaceuticals, Inc.","131.79","29594306670.18","n/a","1996","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/alxn",
+"ALGN","Align Technology, Inc.","158.87","12762239985.8","n/a","2001","Health Care","Industrial Specialties","http://www.nasdaq.com/symbol/algn",
+"ALIM","Alimera Sciences, Inc.","1.45","94107372.2","n/a","2010","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/alim",
+"ALKS","Alkermes plc","57.73","8843687622.73","n/a","1991","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/alks",
+"AGN","Allergan plc.","250.97","194636647378.88","n/a","2013","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/agn",
+"AIQ","Alliance HealthCare Services, Inc.","13.25","143514725","n/a","2001","Health Care","Medical Specialities","http://www.nasdaq.com/symbol/aiq",
+"AHPI","Allied Healthcare Products, Inc.","2.26","9070593.62","n/a","1992","Health Care","Industrial Specialties","http://www.nasdaq.com/symbol/ahpi",
+"ALQA","Alliqua BioMedical, Inc.","0.3734","17167436.1596","n/a","n/a","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/alqa",
+"AFAM","Almost Family Inc","57.15","796644596.7","n/a","n/a","Health Care","Medical/Nursing Services","http://www.nasdaq.com/symbol/afam",
+"ALNY","Alnylam Pharmaceuticals, Inc.","82.02","7069319547.84","n/a","2004","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/alny",
+"APT","Alpha Pro Tech, Ltd.","3.35","50413660.9","n/a","n/a","Health Care","Industrial Specialties","http://www.nasdaq.com/symbol/apt",
+"ATEC","Alphatec Holdings, Inc.","1.725","18729589.425","n/a","2006","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/atec",
+"ALT","Altimmune, Inc.","2.48","1706616.96","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/alt",
+"AMAG","AMAG Pharmaceuticals, Inc.","19.3","676376104.2","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/amag",
+"AMRN","Amarin Corporation plc","4.16","1095978033.28","263456258","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/amrn",
+"AMDA","Amedica Corporation","0.418","15158720.258","n/a","2014","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/amda",
+"AMED","Amedisys Inc","59.35","2001773180.6","n/a","n/a","Health Care","Medical/Nursing Services","http://www.nasdaq.com/symbol/amed",
+"ARA","American Renal Associates Holdings, Inc","18.01","561039757.69","n/a","2016","Health Care","Hospital/Nursing Management","http://www.nasdaq.com/symbol/ara",
+"AMS","American Shared Hospital Services","3.9501","22543220.7","n/a","n/a","Health Care","Medical Specialities","http://www.nasdaq.com/symbol/ams",
+"ABC","AmerisourceBergen Corporation (Holding Co)","91.62","20005787439.54","n/a","n/a","Health Care","Other Pharmaceuticals","http://www.nasdaq.com/symbol/abc",
+"AMGN","Amgen Inc.","180.21","132526276856.88","n/a","1983","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/amgn",
+"FOLD","Amicus Therapeutics, Inc.","13.53","2219449956.57","n/a","2007","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/fold",
+"AMPH","Amphastar Pharmaceuticals, Inc.","18.45","843864015.15","n/a","2014","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/amph",
+"AMPE","Ampio Pharmaceuticals, Inc.","0.545","37186662.905","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/ampe",
+"APHB","AmpliPhi Biosciences Corporation","1.075","9400783.625","n/a","n/a","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/aphb",
+"ANAB","AnaptysBio, Inc.","27.26","552540381.98","n/a","2017","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/anab",
+"AVXL","Anavex Life Sciences Corp.","4.21","174193216.81","n/a","n/a","Health Care","Biotechnology: Commercial Physical & Biological Resarch","http://www.nasdaq.com/symbol/avxl",
+"ANGO","AngioDynamics, Inc.","15.65","575743108.05","n/a","2004","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/ango",
+"ANIP","ANI Pharmaceuticals, Inc.","48.54","565411831.26","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/anip",
+"ANIK","Anika Therapeutics Inc.","47.91","702101406.9","n/a","n/a","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/anik",
+"ATRS","Antares Pharma, Inc.","3.02","470896674.02","n/a","n/a","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/atrs",
+"ANTM","Anthem, Inc.","190.65","50519620936.5","n/a","n/a","Health Care","Medical Specialities","http://www.nasdaq.com/symbol/antm",
+"ANTX","Anthem, Inc.","52.04","13789882368.4","n/a","2015","Health Care","Medical Specialities","http://www.nasdaq.com/symbol/antx",
+"ANTH","Anthera Pharmaceuticals, Inc.","1.59","16026878.82","n/a","2010","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/anth",
+"AXN","Aoxing Pharmaceutical Company, Inc.","0.291","22176875.745","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/axn",
+"APEN","Apollo Endosurgery, Inc.","6.2","66334401.4","n/a","n/a","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/apen",
+"AGTC","Applied Genetic Technologies Corporation","4.75","85896924.25","n/a","2014","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/agtc",
+"APRI","Apricus Biosciences, Inc.","1.08","13793524.56","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/apri",
+"APVO","Aptevo Therapeutics Inc.","1.82","38583625.08","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/apvo",
+"APTO","Aptose Biosciences, Inc.","1.43","33381928.58","n/a","n/a","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/apto",
+"AQXP","Aquinox Pharmaceuticals, Inc.","14.89","348770703.5","n/a","2014","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/aqxp",
+"ARDM","Aradigm Corporation","1.43","21441388.54","n/a","1996","Health Care","Biotechnology: Electromedical & Electrotherapeutic Apparatus","http://www.nasdaq.com/symbol/ardm",
+"ARLZ","Aralez Pharmaceuticals Inc.","1.43","94180878.22","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/arlz",
+"PETX","Aratana Therapeutics, Inc.","7.06","303277803.76","n/a","2013","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/petx",
+"ABUS","Arbutus Biopharma Corporation","3.8","209093316.6","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/abus",
+"ABIO","ARCA biopharma, Inc.","2.425","22412531.425","n/a","n/a","Health Care","Biotechnology: In Vitro & In Vivo Diagnostic Substances","http://www.nasdaq.com/symbol/abio",
+"ARDX","Ardelyx, Inc.","5.6","265365833.6","n/a","2014","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/ardx",
+"ARNA","Arena Pharmaceuticals, Inc.","24.05","764188990.5","n/a","2000","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/arna",
+"ARGX","argenx SE","20.28","136783530","6744750","2017","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/argx",
+"ARGS","Argos Therapeutics, Inc.","0.31","12819606.7","n/a","2014","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/args",
+"ARQL","ArQule, Inc.","1.28","91067644.16","n/a","1996","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/arql",
+"ARRY","Array BioPharma Inc.","8.24","1407393837.52","n/a","2000","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/arry",
+"ARWR","Arrowhead Pharmaceuticals, Inc.","1.51","112905875.53","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/arwr",
+"ASND","Ascendis Pharma A/S","28.05","787537269.75","28076195","2015","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/asnd",
+"ASMB","Assembly Biosciences, Inc.","21.78","377798123.34","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/asmb",
+"AST","Asterias Biotherapeutics, Inc.","3.45","169957646.7","n/a","n/a","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/ast",
+"AZN","Astrazeneca PLC","34.05","86214600000","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/azn",
+"ATRA","Atara Biotherapeutics, Inc.","16","465745968","n/a","2014","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/atra",
+"ATNX","Athenex, Inc.","18.44","1033451784.12","n/a","2017","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/atnx",
+"ATHX","Athersys, Inc.","1.64","182559248.6","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/athx",
+"ATOS","Atossa Genetics Inc.","0.4","3412630.8","n/a","2012","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/atos",
+"ATRC","AtriCure, Inc.","23.74","805886752.58","n/a","2005","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/atrc",
+"ATRI","Atrion Corporation","632.85","1162422044.25","n/a","n/a","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/atri",
+"LIFE","aTyr Pharma, Inc.","3.25","77370569.25","n/a","2015","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/life",
+"BOLD","Audentes Therapeutics, Inc.","21.09","584754289.26","n/a","2016","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/bold",
+"AUPH","Aurinia Pharmaceuticals Inc","6.55","546828918.05","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/auph",
+"EARS","Auris Medical Holding AG","0.878","38921480.112","n/a","2014","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/ears",
+"AVDL","Avadel Pharmaceuticals plc","10.36","418851236.16","40429656","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/avdl",
+"ATXI","Avenue Therapeutics, Inc.","7.19","63570154.92","n/a","2017","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/atxi",
+"AVEO","AVEO Pharmaceuticals, Inc.","2.48","273700106.08","n/a","2010","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/aveo",
+"AVXS","AveXis, Inc.","83.65","2668920839.2","n/a","2016","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/avxs",
+"AVGR","Avinger, Inc.","0.5099","12193421.7541","n/a","2015","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/avgr",
+"AVIR","Aviragen Therapeutics, Inc.","0.58","22416557.46","n/a","n/a","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/avir",
+"AXGN","AxoGen, Inc.","16.95","560968047","n/a","n/a","Health Care","Biotechnology: Electromedical & Electrotherapeutic Apparatus","http://www.nasdaq.com/symbol/axgn",
+"AXON          ","Axovant Sciences Ltd.","21.06","2261692915.56","n/a","2015","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/axon",
+"AXSM","Axsome Therapeutics, Inc.","5.6","132189125.6","n/a","2015","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/axsm",
+"AZRX","AzurRx BioPharma, Inc.","3.8","42026708","n/a","2016","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/azrx",
+"BAX","Baxter International Inc.","62.67","34071743374.38","n/a","n/a","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/bax",
+"BDX","Becton, Dickinson and Company","205.3","46675097067.6","n/a","n/a","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/bdx",
+"BDXA","Becton, Dickinson and Company","56.59","0","n/a","n/a","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/bdxa",
+"BGNE","BeiGene, Ltd.","77.29","1523526181.35","19711815","2016","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/bgne",
+"BLPH","Bellerophon Therapeutics, Inc.","1.51","52832911.33","n/a","2015","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/blph",
+"BLCM","Bellicum Pharmaceuticals, Inc.","11.83","391612109.98","n/a","2014","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/blcm",
+"BNTC","Benitec Biopharma Limited","2.31","3751398.42","1623982","2015","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/bntc",
+"BNTCW","Benitec Biopharma Limited","0.39","0","n/a","2015","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/bntcw",
+"BYSI","BeyondSpring, Inc.","37.8","858359565","n/a","2017","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/bysi",
+"BASI","Bioanalytical Systems, Inc.","1.8","14740012.8","n/a","1997","Health Care","Biotechnology: Commercial Physical & Biological Resarch","http://www.nasdaq.com/symbol/basi",
+"ORPN","Bioblast Pharma Ltd.","0.656","10753001.12","n/a","2014","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/orpn",
+"BIOC","Biocept, Inc.","1.45","38570358.15","n/a","2014","Health Care","Medical Specialities","http://www.nasdaq.com/symbol/bioc",
+"BCRX","BioCryst Pharmaceuticals, Inc.","5.41","435075537.97","n/a","1994","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/bcrx",
+"BDSI","BioDelivery Sciences International, Inc.","3.25","179809409","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/bdsi",
+"BIIB","Biogen Inc.","282.92","60011633232.76","n/a","n/a","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/biib",
+"BHVN","Biohaven Pharmaceutical Holding Company Ltd.","24.88","889412305.04","n/a","2017","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/bhvn",
+"BIOL","Biolase, Inc.","0.8199","62293361.1021","n/a","n/a","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/biol",
+"BLFS","BioLife Solutions, Inc.","3.22","41977919.62","n/a","n/a","Health Care","Biotechnology: Electromedical & Electrotherapeutic Apparatus","http://www.nasdaq.com/symbol/blfs",
+"BLRX","BioLineRx Ltd.","0.9649","34936148.7735","36207015","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/blrx",
+"BMRN","BioMarin Pharmaceutical Inc.","89.28","15578469432","n/a","1999","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/bmrn",
+"BMRA","Biomerica, Inc.","2.6863","22855505.1299","n/a","n/a","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/bmra",
+"BVXV","BiondVax Pharmaceuticals Ltd.","9.82","12430853.22","1265871","2015","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/bvxv",
+"BVXVW","BiondVax Pharmaceuticals Ltd.","3.7","0","n/a","2015","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/bvxvw",
+"BPTH","Bio-Path Holdings, Inc.","0.38","36345185.12","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/bpth",
+"BPMX","BioPharmX Corporation","0.46","34099724.1","n/a","2015","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/bpmx",
+"BIOP","Bioptix, Inc","3.86","20732716.2","n/a","n/a","Health Care","Biotechnology: In Vitro & In Vivo Diagnostic Substances","http://www.nasdaq.com/symbol/biop",
+"BIOS","BioScrip, Inc.","2.98","360825978.14","n/a","n/a","Health Care","Medical/Nursing Services","http://www.nasdaq.com/symbol/bios",
+"BSTC","BioSpecifics Technologies Corp","51.35","368257038.5","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/bstc",
+"BSTG","Biostage, Inc.","0.515","19115033.55","n/a","n/a","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/bstg",
+"BSPM","Biostar Pharmaceuticals, Inc.","1.4601","3887738.1852","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/bspm",
+"TECH","Bio-Techne Corp","117.98","4404606212.02","n/a","n/a","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/tech",
+"BEAT","BioTelemetry, Inc.","34.4","1110122296.8","n/a","2008","Health Care","Medical Specialities","http://www.nasdaq.com/symbol/beat",
+"BTX","BioTime, Inc.","2.97","329300561.7","n/a","n/a","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/btx",
+"BIVV","Bioverativ Inc.","63.22","6837865843.44","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/bivv",
+"BLUE","bluebird bio, Inc.","96.05","3933261523.3","n/a","2013","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/blue",
+"BPMC","Blueprint Medicines Corporation","54.58","2129623835.36","n/a","2015","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/bpmc",
+"BSX","Boston Scientific Corporation","27.62","37822875865.46","n/a","n/a","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/bsx",
+"BVX","Bovie Medical Corporation","2.45","75606394.85","n/a","n/a","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/bvx",
+"BCLI","Brainstorm Cell Therapeutics Inc.","4.94","92553617","n/a","n/a","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/bcli",
+"BMY","Bristol-Myers Squibb Company","55.65","44933993260.8","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/bmy",
+"BKD","Brookdale Senior Living Inc.","14.3","2662649861.3","n/a","2005","Health Care","Hospital/Nursing Management","http://www.nasdaq.com/symbol/bkd",
+"BCR","C.R. Bard, Inc.","322.22","23381981943.84","n/a","n/a","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/bcr",
+"CLBS","Caladrius Biosciences, Inc.","4.08","36478696.56","n/a","n/a","Health Care","Hospital/Nursing Management","http://www.nasdaq.com/symbol/clbs",
+"CALA","Calithera Biosciences, Inc.","15.55","548830641.25","n/a","2014","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/cala",
+"CBM","Cambrex Corporation","58.9","1918192471.5","n/a","1987","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/cbm",
+"CGIX","Cancer Genetics, Inc.","3.85","76082656.65","n/a","n/a","Health Care","Medical Specialities","http://www.nasdaq.com/symbol/cgix",
+"CANF","Can-Fite Biopharma Ltd","1.7974","29396387.13","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/canf",
+"CMD","Cantel Medical Corp.","76.11","3175387897.74","n/a","n/a","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/cmd",
+"CSU","Capital Senior Living Corporation","14.58","441750803.22","n/a","1997","Health Care","Hospital/Nursing Management","http://www.nasdaq.com/symbol/csu",
+"CAPR","Capricor Therapeutics, Inc.","1.31","29599856.1","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/capr",
+"CARA","Cara Therapeutics, Inc.","15.35","498989925.45","n/a","2014","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/cara",
+"CAH","Cardinal Health, Inc.","76.29","24098680120.95","n/a","n/a","Health Care","Other Pharmaceuticals","http://www.nasdaq.com/symbol/cah",
+"CRME","Cardiome Pharma Corporation","4.7","150063226.2","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/crme",
+"CSII","Cardiovascular Systems, Inc.","32.05","1048421458.9","n/a","1981","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/csii",
+"CDNA","CareDx, Inc.","1.3","27847320.8","n/a","2014","Health Care","Medical Specialities","http://www.nasdaq.com/symbol/cdna",
+"CASM","CAS Medical Systems, Inc.","1.17","33028024.77","n/a","n/a","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/casm",
+"CASC","Cascadian Therapeutics, Inc.","4.02","197927180.34","n/a","n/a","Health Care","Biotechnology: Commercial Physical & Biological Resarch","http://www.nasdaq.com/symbol/casc",
+"CASI","CASI Pharmaceuticals, Inc.","1.05","63206402.7","n/a","n/a","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/casi",
+"CATB","Catabasis Pharmaceuticals, Inc.","1.14","25615870.68","n/a","2015","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/catb",
+"CTLT","Catalent, Inc.","35.79","4472325629.58","n/a","2014","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/ctlt",
+"CBIO","Catalyst Biosciences, Inc. ","4.28","18235201.08","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/cbio",
+"CPRX","Catalyst Pharmaceuticals, Inc.","2.95","247169375.55","n/a","2006","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/cprx",
+"CATS","Catasys, Inc.","4.35","69054849.3","n/a","n/a","Health Care","Hospital/Nursing Management","http://www.nasdaq.com/symbol/cats",
+"CELG","Celgene Corporation","137.74","107550743902.9","n/a","1987","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/celg",
+"CELGZ","Celgene Corporation","1.22","0","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/celgz",
+"CLDX","Celldex Therapeutics, Inc.","2.36","295247125.04","n/a","n/a","Health Care","Biotechnology: In Vitro & In Vivo Diagnostic Substances","http://www.nasdaq.com/symbol/cldx",
+"CLRB","Cellectar Biosciences, Inc.","1.6299","21941990.883","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/clrb",
+"CLRBW","Cellectar Biosciences, Inc.","0.2","0","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/clrbw",
+"CLRBZ","Cellectar Biosciences, Inc.","0.58","0","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/clrbz",
+"CLLS","Cellectis S.A.","26.83","220296729.88","8210836","2015","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/clls",
+"CBMG","Cellular Biomedicine Group, Inc.","9.35","133617745.8","n/a","n/a","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/cbmg",
+"CVM","Cel-Sci Corporation","2.29","21052182.97","n/a","n/a","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/cvm",
+"CLSN","Celsion Corporation","1.85","10876351.65","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/clsn",
+"CYAD","Celyad SA","37","19724737","533101","2015","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/cyad",
+"CEMP","Cempra, Inc.","4.35","228390151.05","n/a","2012","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/cemp",
+"CNC","Centene Corporation","84.73","14597089775.19","n/a","n/a","Health Care","Medical Specialities","http://www.nasdaq.com/symbol/cnc",
+"CERC","Cerecor Inc.","0.7499","10559681.6047","n/a","2015","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/cerc",
+"CERCW","Cerecor Inc.","0.05","0","n/a","2015","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/cercw",
+"CERS","Cerus Corporation","2.15","225445802.95","n/a","1997","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/cers",
+"CSBR","Champions Oncology, Inc.","2.7","29641550.4","n/a","n/a","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/csbr",
+"CRL","Charles River Laboratories International, Inc.","101.16","4819198365.72","n/a","2000","Health Care","Biotechnology: Commercial Physical & Biological Resarch","http://www.nasdaq.com/symbol/crl",
+"CHEK","Check-Cap Ltd.","1.85","31412742.85","n/a","2015","Health Care","Medical Electronics","http://www.nasdaq.com/symbol/chek",
+"CHEKW","Check-Cap Ltd.","0.78","0","n/a","2015","Health Care","Medical Electronics","http://www.nasdaq.com/symbol/chekw",
+"CKPT","Checkpoint Therapeutics, Inc.","9.25","233271818.75","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/ckpt",
+"CEMI","Chembio Diagnostics, Inc.","6.05","74409688.1","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/cemi",
+"CHE","Chemed Corp.","203.43","3271598080.83","n/a","n/a","Health Care","Medical/Nursing Services","http://www.nasdaq.com/symbol/che",
+"CCXI","ChemoCentryx, Inc.","10.05","484144077","n/a","2012","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/ccxi",
+"CHFS","CHF Solutions, Inc.","0.7461","6629380.5258","n/a","n/a","Health Care","Biotechnology: Electromedical & Electrotherapeutic Apparatus","http://www.nasdaq.com/symbol/chfs",
+"CHMA","Chiasma, Inc.","1.425","34712407.2","n/a","2015","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/chma",
+"CMRX","Chimerix, Inc.","5.01","233725482.93","n/a","2013","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/cmrx",
+"CBPO","China Biologic Products, Inc.","102.8","2796311835.6","n/a","n/a","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/cbpo",
+"CPHI","China Pharma Holdings, Inc.","0.227","9892559.439","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/cphi",
+"CDTX","Cidara Therapeutics, Inc.","8","134448336","n/a","2015","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/cdtx",
+"CI","Cigna Corporation","174.23","44605427068.37","n/a","n/a","Health Care","Medical Specialities","http://www.nasdaq.com/symbol/ci",
+"CIVI","Civitas Solutions, Inc.","19.15","714547531.05","n/a","2014","Health Care","Medical/Nursing Services","http://www.nasdaq.com/symbol/civi",
+"CLSD","Clearside Biomedical, Inc.","9.93","251229158.88","n/a","2016","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/clsd",
+"CBLI","Cleveland BioLabs, Inc.","2.63","29665963.42","n/a","2006","Health Care","Biotechnology: Commercial Physical & Biological Resarch","http://www.nasdaq.com/symbol/cbli",
+"CLVS","Clovis Oncology, Inc.","86.64","4218766198.56","n/a","2011","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/clvs",
+"CODX","Co-Diagnostics, Inc.","4.58","50659045.66","n/a","2017","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/codx",
+"CGNT","Cogentix Medical, Inc.","1.83","110592157.59","n/a","n/a","Health Care","Biotechnology: Electromedical & Electrotherapeutic Apparatus","http://www.nasdaq.com/symbol/cgnt",
+"CHRS","Coherus BioSciences, Inc.","13.65","700082797.05","n/a","2014","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/chrs",
+"COLL","Collegium Pharmaceutical, Inc.","12.72","374712845.04","n/a","2015","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/coll",
+"CBMX","CombiMatrix Corporation","5.6","16301252.8","n/a","n/a","Health Care","Hospital/Nursing Management","http://www.nasdaq.com/symbol/cbmx",
+"CBMXW","CombiMatrix Corporation","1.39","0","n/a","n/a","Health Care","Hospital/Nursing Management","http://www.nasdaq.com/symbol/cbmxw",
+"CYH","Community Health Systems, Inc.","9.27","1063178200.35","n/a","2000","Health Care","Hospital/Nursing Management","http://www.nasdaq.com/symbol/cyh",
+"CYHHZ","Community Health Systems, Inc.","0.016","0","n/a","n/a","Health Care","Hospital/Nursing Management","http://www.nasdaq.com/symbol/cyhhz",
+"CGEN","Compugen Ltd.","3.55","181516945.7","n/a","2000","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/cgen",
+"CNAT","Conatus Pharmaceuticals Inc.","6.04","181097682.4","n/a","2013","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/cnat",
+"CNCE","Concert Pharmaceuticals, Inc.","14.03","316557487","n/a","2014","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/cnce",
+"CCM","Concord Medical Services Holdings Limited","4","173455968","n/a","2009","Health Care","Medical/Nursing Services","http://www.nasdaq.com/symbol/ccm",
+"CXRX","Concordia International Corp.","1.52","77686225.68","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/cxrx",
+"CFMS","ConforMIS, Inc.","4.66","204343763.38","n/a","2015","Health Care","Industrial Specialties","http://www.nasdaq.com/symbol/cfms",
+"CNMD","CONMED Corporation","50.11","1396655046.13","n/a","1987","Health Care","Biotechnology: Electromedical & Electrotherapeutic Apparatus","http://www.nasdaq.com/symbol/cnmd",
+"CFRX","ContraFect Corporation","1.25","52070007.5","n/a","2014","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/cfrx",
+"CTRV","ContraVir Pharmaceuticals Inc","0.5751","43539295.8348","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/ctrv",
+"COO","Cooper Companies, Inc. (The)","248.41","12136511974.57","n/a","n/a","Health Care","Ophthalmic Goods","http://www.nasdaq.com/symbol/coo",
+"CRBP","Corbus Pharmaceuticals Holdings, Inc.","6.4","321395264","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/crbp",
+"CORT","Corcept Therapeutics Incorporated","12.97","1468041382.14","n/a","1982","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/cort",
+"CVRS","Corindus Vascular Robotics, Inc.","1.66","310554328.86","n/a","2015","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/cvrs",
+"CORI","Corium International, Inc.","8.87","316413230.04","n/a","2014","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/cori",
+"CRMD","CorMedix Inc","0.4122","24460005.2958","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/crmd",
+"CRVS","Corvus Pharmaceuticals, Inc.","12.28","257075831.92","n/a","2016","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/crvs",
+"CRHM","CRH Medical Corporation","3.2","236842361.6","n/a","2015","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/crhm",
+"CRSP","CRISPR Therapeutics AG","16.64","665558816","n/a","2016","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/crsp",
+"CRY","CryoLife, Inc.","19.15","636940624.05","n/a","n/a","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/cry",
+"CTIC","CTI BioPharma Corp.","3.41","96821797.49","n/a","1997","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/ctic",
+"CPIX","Cumberland Pharmaceuticals Inc.","7.0101","112399599.9051","n/a","2009","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/cpix",
+"CRIS","Curis, Inc.","1.99","286107704.84","n/a","n/a","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/cris",
+"CUTR","Cutera, Inc.","26.9","372797711.9","n/a","2004","Health Care","Biotechnology: Electromedical & Electrotherapeutic Apparatus","http://www.nasdaq.com/symbol/cutr",
+"CVS","CVS Health Corporation","77.03","78477809507.94","n/a","n/a","Health Care","Medical/Nursing Services","http://www.nasdaq.com/symbol/cvs",
+"CYCC","Cyclacel Pharmaceuticals, Inc.","1.91","8161328.77","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/cycc",
+"CYCCP","Cyclacel Pharmaceuticals, Inc.","6.35","2128983.55","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/cyccp",
+"CBAY","CymaBay Therapeutics Inc.","7.75","222831495.25","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/cbay",
+"CYTK","Cytokinetics, Incorporated","14.5","654717760.5","n/a","2004","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/cytk",
+"CTMX","CytomX Therapeutics, Inc.","13.58","499061360.56","n/a","2015","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/ctmx",
+"CYTX","Cytori Therapeutics Inc","1.11","36050803.11","n/a","n/a","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/cytx",
+"CYTXW","Cytori Therapeutics Inc","0.5","0","n/a","n/a","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/cytxw",
+"CTSO","Cytosorbents Corporation","5.2","146163586.4","n/a","n/a","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/ctso",
+"CYTR","CytRx Corporation","0.5978","90898370.2004","n/a","1986","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/cytr",
+"DRIO","DarioHealth Corp.","2.71","26323606.68","n/a","n/a","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/drio",
+"DRIOW","DarioHealth Corp.","0.28","0","n/a","n/a","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/driow",
+"DVA","DaVita Inc.","65.76","12796896000","n/a","n/a","Health Care","Hospital/Nursing Management","http://www.nasdaq.com/symbol/dva",
+"DXR","Daxor Corporation","6.24","23702409.12","n/a","n/a","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/dxr",
+"DBVT","DBV Technologies S.A.","43.8","1067916357.6","24381652","2014","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/dbvt",
+"DCTH","Delcath Systems, Inc.","0.1438","70465193.6542","n/a","2000","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/dcth",
+"DMPI","DelMar Pharmaceuticals, Inc.","2.08","28000221.6","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/dmpi",
+"XRAY","DENTSPLY SIRONA Inc.","62.92","14423145811.36","n/a","1987","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/xray",
+"DEPO","Depomed, Inc.","10.6","667397337.8","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/depo",
+"DERM","Dermira, Inc.","29.4","1220718899.4","n/a","2014","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/derm",
+"DXCM","DexCom, Inc.","69.52","6004419945.04","n/a","2005","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/dxcm",
+"DXTR","Dextera Surgical Inc.","0.265","3824917.515","n/a","n/a","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/dxtr",
+"DRNA","Dicerna Pharmaceuticals, Inc.","4.13","175350313.39","n/a","2014","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/drna",
+"DFFN","Diffusion Pharmaceuticals Inc.","2.2","22760401.4","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/dffn",
+"DRAD","Digirad Corporation","4.15","82908633.6","n/a","2004","Health Care","Biotechnology: Electromedical & Electrotherapeutic Apparatus","http://www.nasdaq.com/symbol/drad",
+"DMTX","Dimension Therapeutics, Inc.","1.4","35060908.4","n/a","2015","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/dmtx",
+"DPLO","Diplomat Pharmacy, Inc.","15.63","1050297597.09","n/a","2014","Health Care","Medical/Nursing Services","http://www.nasdaq.com/symbol/dplo",
+"DVCR","Diversicare Healthcare Services Inc.","9.7","62650709.2","n/a","n/a","Health Care","Hospital/Nursing Management","http://www.nasdaq.com/symbol/dvcr",
+"DOVA","Dova Pharmaceuticals, Inc.","22.75","568527209.25","n/a","2017","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/dova",
+"RDY","Dr. Reddy&#39;s Laboratories Ltd","42.46","7037393133.98","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/rdy",
+"DRRX","DURECT Corporation","1.87","265477422.32","n/a","2000","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/drrx",
+"DYNT","Dynatronics Corporation","2.65","12314528.8","n/a","n/a","Health Care","Biotechnology: Electromedical & Electrotherapeutic Apparatus","http://www.nasdaq.com/symbol/dynt",
+"DVAX","Dynavax Technologies Corporation","9.6","525577497.6","n/a","2004","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/dvax",
+"EGRX","Eagle Pharmaceuticals, Inc.","75.2","1150425091.2","n/a","2014","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/egrx",
+"EDAP","EDAP TMS S.A.","3.2","93895340.8","29342294","1997","Health Care","Biotechnology: Electromedical & Electrotherapeutic Apparatus","http://www.nasdaq.com/symbol/edap",
+"EDGE","Edge Therapeutics, Inc.","10.32","317974019.52","n/a","2015","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/edge",
+"EDIT","Editas Medicine, Inc.","15.82","654132447.36","n/a","2016","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/edit",
+"EW","Edwards Lifesciences Corporation","118.01","24758828309.99","n/a","n/a","Health Care","Industrial Specialties","http://www.nasdaq.com/symbol/ew",
+"EGLT","Egalet Corporation","1.38","59343657","n/a","2014","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/eglt",
+"EIGR","Eiger BioPharmaceuticals, Inc.","9.75","81578542.5","n/a","2014","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/eigr",
+"ELMD","Electromed, Inc.","6.5","53496085.5","n/a","2011","Health Care","Biotechnology: Electromedical & Electrotherapeutic Apparatus","http://www.nasdaq.com/symbol/elmd",
+"EBIO","Eleven Biotherapeutics, Inc.","1.51","37298126.46","n/a","2014","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/ebio",
+"LLY","Eli Lilly and Company","84.66","93412890982.38","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/lly",
+"EBS","Emergent Biosolutions, Inc.","35.91","1471391996.76","n/a","2006","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/ebs",
+"ENTA","Enanta Pharmaceuticals, Inc.","37.47","715059157.17","n/a","2013","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/enta",
+"ENDP","Endo International plc","12.38","2762133282.34","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/endp",
+"ECYT","Endocyte, Inc.","1.43","60733349.82","n/a","2011","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/ecyt",
+"ELGX","Endologix, Inc.","5.02","416534816.26","n/a","n/a","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/elgx",
+"NDRA","ENDRA Life Sciences Inc.","3.49","0","n/a","2017","Health Care","Biotechnology: Electromedical & Electrotherapeutic Apparatus","http://www.nasdaq.com/symbol/ndra",
+"NDRAW","ENDRA Life Sciences Inc.","0.767","0","n/a","2017","Health Care","Biotechnology: Electromedical & Electrotherapeutic Apparatus","http://www.nasdaq.com/symbol/ndraw",
+"ENTL","Entellus Medical, Inc.","17.03","431139160.53","n/a","2015","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/entl",
+"ETRM","EnteroMedics Inc.","4.48","37125213.44","n/a","2007","Health Care","Biotechnology: Electromedical & Electrotherapeutic Apparatus","http://www.nasdaq.com/symbol/etrm",
+"EVHC","Envision Healthcare Corporation","62.61","7358621044.02","n/a","2016","Health Care","Medical/Nursing Services","http://www.nasdaq.com/symbol/evhc",
+"ENZ","Enzo Biochem, Inc.","11.35","526723206.85","n/a","n/a","Health Care","Medical Specialities","http://www.nasdaq.com/symbol/enz",
+"EPZM","Epizyme, Inc.","13.35","779082303.75","n/a","2013","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/epzm",
+"ESPR","Esperion Therapeutics, Inc.","47.71","1077770712.98","n/a","2013","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/espr",
+"EPIX","ESSA Pharma Inc.","0.3105","9034584.0345","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/epix",
+"EVOK","Evoke Pharma, Inc.","2.52","38778579","n/a","2013","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/evok",
+"EXAS","Exact Sciences Corporation","39.17","4647243254.74","n/a","2001","Health Care","Biotechnology: Commercial Physical & Biological Resarch","http://www.nasdaq.com/symbol/exas",
+"EXAC","Exactech, Inc.","30.5","436521886.5","n/a","1996","Health Care","Industrial Specialties","http://www.nasdaq.com/symbol/exac",
+"EXEL","Exelixis, Inc.","27.23","7965111236.04","n/a","2000","Health Care","Biotechnology: Commercial Physical & Biological Resarch","http://www.nasdaq.com/symbol/exel",
+"ESRX","Express Scripts Holding Company","62.5","37095437500","n/a","1992","Health Care","Medical/Nursing Services","http://www.nasdaq.com/symbol/esrx",
+"EYEG","Eyegate Pharmaceuticals, Inc.","1.4","22784689.2","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/eyeg",
+"EYEGW","Eyegate Pharmaceuticals, Inc.","0.09","0","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/eyegw",
+"FATE","Fate Therapeutics, Inc.","3.09","127930393.98","n/a","2013","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/fate",
+"FCSC","Fibrocell Science Inc","3.72","54665682.72","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/fcsc",
+"FGEN","FibroGen, Inc","34.95","2444550104.55","n/a","2014","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/fgen",
+"FPRX","Five Prime Therapeutics, Inc.","29.85","859259204.55","n/a","2013","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/fprx",
+"FVE","Five Star Senior Living Inc.","1.7","84987610.4","n/a","n/a","Health Care","Hospital/Nursing Management","http://www.nasdaq.com/symbol/fve",
+"FLKS","Flex Pharma, Inc.","3.6","64694124","n/a","2015","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/flks",
+"FLXN","Flexion Therapeutics, Inc.","23.82","756468223.44","n/a","2014","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/flxn",
+"FONR","Fonar Corporation","28.35","179452438.2","n/a","1981","Health Care","Biotechnology: Electromedical & Electrotherapeutic Apparatus","http://www.nasdaq.com/symbol/fonr",
+"FBIO","Fortress Biotech, Inc.","4.87","245116849.74","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/fbio",
+"FWP","Forward Pharma A/S","22.11","253917541.35","11484285","2014","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/fwp",
+"FMI","Foundation Medicine, Inc.","37.45","1334803760.5","n/a","2013","Health Care","Medical Specialities","http://www.nasdaq.com/symbol/fmi",
+"FMS","Fresenius Medical Care Corporation","47.55","29129501270.4","n/a","n/a","Health Care","Hospital/Nursing Management","http://www.nasdaq.com/symbol/fms",
+"FLGT","Fulgent Genetics, Inc.","6.6","116768830.2","n/a","2016","Health Care","Medical Specialities","http://www.nasdaq.com/symbol/flgt",
+"GTHX","G1 Therapeutics, Inc.","15.21","535322003.58","n/a","2017","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/gthx",
+"GLPG","Galapagos NV","82.25","807737605.5","9820518","2015","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/glpg",
+"GALT","Galectin Therapeutics Inc.","2.18","75582091.12","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/galt",
+"GALE","Galena Biopharma, Inc.","0.5833","21877042.1452","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/gale",
+"GLMD","Galmed Pharmaceuticals Ltd.","6.69","81410021.28","n/a","2014","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/glmd",
+"GEMP","Gemphire Therapeutics Inc.","17.45","184970785.25","n/a","2016","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/gemp",
+"GEN           ","Genesis Healthcare, Inc.","1.44","222526281.6","n/a","n/a","Health Care","Hospital/Nursing Management","http://www.nasdaq.com/symbol/gen",
+"GENE","Genetic Technologies Ltd","0.899","11726174.824","13043576","n/a","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/gene",
+"GNMK","GenMark Diagnostics, Inc.","12.05","567398759.7","n/a","2010","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/gnmk",
+"GNCA","Genocea Biosciences, Inc.","5.05","143949113.75","n/a","2014","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/gnca",
+"GHDX","Genomic Health, Inc.","32.94","1131233089.14","n/a","2005","Health Care","Medical Specialities","http://www.nasdaq.com/symbol/ghdx",
+"GERN","Geron Corporation","2.8","445693133.2","n/a","1996","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/gern",
+"GILD","Gilead Sciences, Inc.","73.76","96384286636.48","n/a","1992","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/gild",
+"GKOS","Glaukos Corporation","40.33","1382792048.22","n/a","2015","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/gkos",
+"GSK","GlaxoSmithKline PLC","42.66","104900940000","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/gsk",
+"GBT","Global Blood Therapeutics, Inc.","29.95","1306215669.45","n/a","2015","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/gbt",
+"GPAC","Global Partner Acquisition Corp.","9.99","193868437.5","n/a","2015","Health Care","Hospital/Nursing Management","http://www.nasdaq.com/symbol/gpac",
+"GPACU","Global Partner Acquisition Corp.","10.18","0","n/a","2015","Health Care","Hospital/Nursing Management","http://www.nasdaq.com/symbol/gpacu",
+"GPACW","Global Partner Acquisition Corp.","0.25","0","n/a","2015","Health Care","Hospital/Nursing Management","http://www.nasdaq.com/symbol/gpacw",
+"GMED","Globus Medical, Inc.","32.29","3102605186.44","n/a","2012","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/gmed",
+"GLYC","GlycoMimetics, Inc.","11.5","375939025","n/a","2014","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/glyc",
+"GRFS","Grifols, S.A.","20.7","3008552179.5","145340685","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/grfs",
+"GTXI","GTx, Inc.","5.6","89834768.8","n/a","2004","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/gtxi",
+"GWPH","GW Pharmaceuticals Plc","114.92","2691360091.16","23419423","2013","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/gwph",
+"HAE","Haemonetics Corporation","39.79","2089072923.19","n/a","1991","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/hae",
+"HALO","Halozyme Therapeutics, Inc.","13.53","1912330605.9","n/a","n/a","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/halo",
+"HYH","Halyard Health, Inc.","39.44","1841660344.48","n/a","2014","Health Care","Industrial Specialties","http://www.nasdaq.com/symbol/hyh",
+"HCA","HCA Healthcare, Inc.","85.73","31454731358","n/a","2011","Health Care","Hospital/Nursing Management","http://www.nasdaq.com/symbol/hca",
+"HCSG","Healthcare Services Group, Inc.","53.72","3920969080","n/a","1983","Health Care","Hospital/Nursing Management","http://www.nasdaq.com/symbol/hcsg",
+"HLS","HealthSouth Corporation","45.96","4116623320.08","n/a","n/a","Health Care","Hospital/Nursing Management","http://www.nasdaq.com/symbol/hls",
+"HTBX","Heat Biologics, Inc.","0.5342","19028121.7332","n/a","2013","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/htbx",
+"HEB","Hemispherx BioPharma, Inc.","0.481","14030433.3","n/a","n/a","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/heb",
+"HSIC","Henry Schein, Inc.","184.92","14669603743.2","n/a","1995","Health Care","Medical Specialities","http://www.nasdaq.com/symbol/hsic",
+"HLF","Herbalife LTD.","70.41","6568392096.93","n/a","2004","Health Care","Other Pharmaceuticals","http://www.nasdaq.com/symbol/hlf",
+"HRTX","Heron Therapeutics, Inc.  ","16.45","883314103.7","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/hrtx",
+"HSKA","Heska Corporation","100.17","712811322.72","n/a","1997","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/hska",
+"HRC","Hill-Rom Holdings Inc","82.14","5402084952","n/a","n/a","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/hrc",
+"HSGX","Histogenics Corporation","1.949","43205607.41","n/a","2014","Health Care","Industrial Specialties","http://www.nasdaq.com/symbol/hsgx",
+"HOLX","Hologic, Inc.","45.01","12603289573.77","n/a","1990","Health Care","Medical Electronics","http://www.nasdaq.com/symbol/holx",
+"HZNP","Horizon Pharma plc","12.87","2094077172.33","n/a","2011","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/hznp",
+"HUM","Humana Inc.","235.92","34046777106","n/a","n/a","Health Care","Medical Specialities","http://www.nasdaq.com/symbol/hum",
+"HCM","Hutchison China MediTech Limited","22.96","243806775.52","10618762","2016","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/hcm",
+"IBIO","iBio, Inc.","0.324","28874397.24","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/ibio",
+"ICAD","icad inc.","3.94","64517224.2","n/a","n/a","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/icad",
+"ICLR","ICON plc","99.85","5369503944.55","n/a","1998","Health Care","Biotechnology: Commercial Physical & Biological Resarch","http://www.nasdaq.com/symbol/iclr",
+"ICUI","ICU Medical, Inc.","172.15","3408535397.85","n/a","1992","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/icui",
+"IDRA","Idera Pharmaceuticals, Inc.","1.88","280398961.92","n/a","n/a","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/idra",
+"IDXX","IDEXX Laboratories, Inc.","166.62","14683129405.62","n/a","1991","Health Care","Biotechnology: In Vitro & In Vivo Diagnostic Substances","http://www.nasdaq.com/symbol/idxx",
+"RXDX","Ignyta, Inc.","9.3","522769368","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/rxdx",
+"KANG","iKang Healthcare Group, Inc.","12.36","572057781.12","46282992","2014","Health Care","Medical/Nursing Services","http://www.nasdaq.com/symbol/kang",
+"ICCC","ImmuCell Corporation","6.56","31805438.4","n/a","1987","Health Care","Biotechnology: In Vitro & In Vivo Diagnostic Substances","http://www.nasdaq.com/symbol/iccc",
+"IMDZ","Immune Design Corp.","9.95","254434106.65","n/a","2014","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/imdz",
+"IMNP          ","Immune Pharmaceuticals Inc.","2.46","24512180.46","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/imnp",
+"IMUC","ImmunoCellular Therapeutics, Ltd.","0.38","1316386.5","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/imuc",
+"IMGN","ImmunoGen, Inc.","5.66","505711881.74","n/a","1989","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/imgn",
+"IMMU","Immunomedics, Inc.","8.66","955178956.66","n/a","n/a","Health Care","Biotechnology: In Vitro & In Vivo Diagnostic Substances","http://www.nasdaq.com/symbol/immu",
+"IMRN","Immuron Limited","6.018","3344792.364","555798","2017","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/imrn",
+"IMRNW","Immuron Limited","1.1217","0","n/a","2017","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/imrnw",
+"IPXL","Impax Laboratories, Inc.","18.15","1337667087.9","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/ipxl",
+"IMMY","Imprimis Pharmaceuticals, Inc.","2.91","58390357.65","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/immy",
+"INCR","INC Research Holdings, Inc.","56.45","3057155650.2","n/a","2014","Health Care","Biotechnology: Commercial Physical & Biological Resarch","http://www.nasdaq.com/symbol/incr",
+"INCY","Incyte Corporation","134.22","27484821175.98","n/a","n/a","Health Care","Biotechnology: Commercial Physical & Biological Resarch","http://www.nasdaq.com/symbol/incy",
+"INFI","Infinity Pharmaceuticals, Inc.","1.4","70620379.2","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/infi",
+"INFU","InfuSystems Holdings, Inc.","1.8","40960269","n/a","n/a","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/infu",
+"INNL","Innocoll Holdings","2.35","936760764.7","n/a","2014","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/innl",
+"INVA","Innoviva, Inc.","13.06","1428174549.96","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/inva",
+"INGN","Inogen, Inc","95.22","1959788902.68","n/a","2014","Health Care","Industrial Specialties","http://www.nasdaq.com/symbol/ingn",
+"ITEK","Inotek Pharmaceuticals Corporation","0.9994","26970126.2092","n/a","2015","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/itek",
+"INO","Inovio Pharmaceuticals, Inc.","6.01","466162158.19","n/a","n/a","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/ino",
+"INSM","Insmed, Inc.","17.31","1074780340.71","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/insm",
+"NSPR","InspireMD, Inc.","0.4765","3536509.619","n/a","n/a","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/nspr",
+"PODD","Insulet Corporation","51.43","2978649709.4","n/a","2007","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/podd",
+"INSY","Insys Therapeutics, Inc.","11.98","864061345.58","n/a","2013","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/insy",
+"NTEC","Intec Pharma Ltd.","5.5","75560133","n/a","2015","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/ntec",
+"NTLA","Intellia Therapeutics, Inc.","16.41","591230589.57","n/a","2016","Health Care","Biotechnology: In Vitro & In Vivo Diagnostic Substances","http://www.nasdaq.com/symbol/ntla",
+"IPCI","Intellipharmaceutics International Inc.","2.69","82227683.28","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/ipci",
+"ICPT","Intercept Pharmaceuticals, Inc.","127.4","3186169277.2","n/a","2012","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/icpt",
+"IDXG","Interpace Diagnostics Group, Inc.","0.869","16240396.876","n/a","n/a","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/idxg",
+"XENT","Intersect ENT, Inc.","27.9","802754703","n/a","2014","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/xent",
+"ITCI","Intra-Cellular Therapies Inc.","12.58","546229613.24","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/itci",
+"XON","Intrexon Corporation","23.61","2840340183.42","n/a","2013","Health Care","Biotechnology: Commercial Physical & Biological Resarch","http://www.nasdaq.com/symbol/xon",
+"ISRG","Intuitive Surgical, Inc.","927.47","34168702459.61","n/a","2000","Health Care","Industrial Specialties","http://www.nasdaq.com/symbol/isrg",
+"IVC","Invacare Corporation","12.8","419623782.4","n/a","n/a","Health Care","Industrial Specialties","http://www.nasdaq.com/symbol/ivc",
+"NVTA","Invitae Corporation","9.33","400590426.21","n/a","2015","Health Care","Medical Specialities","http://www.nasdaq.com/symbol/nvta",
+"NVIV","InVivo Therapeutics Holdings Corp.","2.2","70739627.2","n/a","n/a","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/nviv",
+"IVTY","Invuity, Inc.","8.1","137494146.6","n/a","2015","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/ivty",
+"IONS","Ionis Pharmaceuticals, Inc.","56.39","6990417928.4","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/ions",
+"IOVA","Iovance Biotherapeutics, Inc.","6.35","395930374","n/a","n/a","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/iova",
+"IRMD","iRadimed Corporation","8.35","89761623.25","n/a","2014","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/irmd",
+"IRTC","iRhythm Technologies, Inc.","42.8","951373337.2","n/a","2016","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/irtc",
+"IRIX","IRIDEX Corporation","9.59","110716367.79","n/a","1996","Health Care","Biotechnology: Electromedical & Electrotherapeutic Apparatus","http://www.nasdaq.com/symbol/irix",
+"IRWD","Ironwood Pharmaceuticals, Inc.","17.22","2559173770.86","n/a","2010","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/irwd",
+"ISR","IsoRay, Inc.","0.61","33560625.59","n/a","n/a","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/isr",
+"JAGX","Jaguar Animal Health, Inc.","0.71","11134575.71","n/a","2015","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/jagx",
+"JAZZ","Jazz Pharmaceuticals plc","161.13","9682455579.15","n/a","2007","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/jazz",
+"JNJ","Johnson & Johnson","135.31","364502554190.11","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/jnj",
+"JNCE","Jounce Therapeutics, Inc.","13.42","431731599.2","n/a","2017","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/jnce",
+"JNP","Juniper Pharmaceuticals, Inc.","4.9","53134384.8","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/jnp",
+"JUNO","Juno Therapeutics, Inc.","29.69","3150149675.3","n/a","2014","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/juno",
+"KTWO","K2M Group Holdings, Inc.","25.01","1065819907.5","n/a","2014","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/ktwo",
+"KDMN","Kadmon Holdings, Inc.","2.87","148799515.27","n/a","2016","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/kdmn",
+"KALV","KalVista Pharmaceuticals, Inc.","7.23","70225293.66","n/a","2015","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/kalv",
+"KMDA","Kamada Ltd.","5.55","202138803.3","n/a","2013","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/kmda",
+"KPTI","Karyopharm Therapeutics Inc.","9.34","440084305.56","n/a","2013","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/kpti",
+"KMPH","KemPharm, Inc.","3.5","51266880","n/a","2015","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/kmph",
+"KERX","Keryx Biopharmaceuticals, Inc.","7.24","785299248.28","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/kerx",
+"KIN","Kindred Biosciences, Inc.","7.6","177160248.4","n/a","2013","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/kin",
+"KND","Kindred Healthcare, Inc.","11.5","984786860","n/a","n/a","Health Care","Hospital/Nursing Management","http://www.nasdaq.com/symbol/knd",
+"KITE","Kite Pharma, Inc.","109.15","6171991424.85","n/a","2014","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/kite",
+"KTOV","Kitov Pharmaceuticals Holdings Ltd.","1.9","8044254.2","4233818","2015","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/ktov",
+"KTOVW","Kitov Pharmaceuticals Holdings Ltd.","0.5192","0","n/a","2015","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/ktovw",
+"KURA","Kura Oncology, Inc.","9.3","199067588.1","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/kura",
+"LJPC","La Jolla Pharmaceutical Company","33.49","740914541.44","n/a","1994","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/ljpc",
+"LH","Laboratory Corporation of America Holdings","156.55","16015065000","n/a","n/a","Health Care","Medical Specialities","http://www.nasdaq.com/symbol/lh",
+"LAKE","Lakeland Industries, Inc.","16.05","116593941","n/a","1986","Health Care","Industrial Specialties","http://www.nasdaq.com/symbol/lake",
+"LCI","Lannett Co Inc","21.5","800457276.5","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/lci",
+"LNTH","Lantheus Holdings, Inc.","18.55","692197423.75","n/a","2015","Health Care","Biotechnology: In Vitro & In Vivo Diagnostic Substances","http://www.nasdaq.com/symbol/lnth",
+"LPTX","LEAP THERAPEUTICS, INC.","7.32","68752470.48","n/a","n/a","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/lptx",
+"LMAT","LeMaitre Vascular, Inc.","28.31","532491651.03","n/a","2006","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/lmat",
+"LXRX","Lexicon Pharmaceuticals, Inc.","16.7","1757430612.2","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/lxrx",
+"LHCG","LHC Group","63.43","1159502937.2","n/a","2005","Health Care","Medical/Nursing Services","http://www.nasdaq.com/symbol/lhcg",
+"LLIT","Lianluo Smart Limited","1.48","25622627.28","n/a","n/a","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/llit",
+"LPNT","LifePoint Health, Inc.","65.35","2637929863","n/a","n/a","Health Care","Hospital/Nursing Management","http://www.nasdaq.com/symbol/lpnt",
+"LFVN","Lifevantage Corporation","4.1","58353696.9","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/lfvn",
+"LGND","Ligand Pharmaceuticals Incorporated","123.05","2583563829.45","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/lgnd",
+"LPCN","Lipocine Inc.","4.71","90749698.92","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/lpcn",
+"LIVN","LivaNova PLC","60.99","2938863835.05","n/a","n/a","Health Care","Biotechnology: Electromedical & Electrotherapeutic Apparatus","http://www.nasdaq.com/symbol/livn",
+"EVAR","Lombard Medical, Inc.","0.5789","16180709.4365","n/a","2014","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/evar",
+"LOXO","Loxo Oncology, Inc.","73.13","1912362663.4","n/a","2014","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/loxo",
+"LMNX","Luminex Corporation","20.71","909709634.55","n/a","2000","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/lmnx",
+"LUNA","Luna Innovations Incorporated","1.33","37225508.32","n/a","2006","Health Care","Biotechnology: Commercial Physical & Biological Resarch","http://www.nasdaq.com/symbol/luna",
+"MBVX","MabVax Therapeutics Holdings, Inc.","0.96","8360200.32","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/mbvx",
+"MGNX","MacroGenics, Inc.","17.33","625831236.69","n/a","2013","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/mgnx",
+"MDGL","Madrigal Pharmaceuticals, Inc.","15.59","194808040.95","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/mdgl",
+"MGLN","Magellan Health, Inc.","79.85","1893812111.85","n/a","n/a","Health Care","Hospital/Nursing Management","http://www.nasdaq.com/symbol/mgln",
+"MNK","Mallinckrodt plc","47.42","4711015013.28","n/a","2013","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/mnk",
+"MNKD","MannKind Corporation","1.3","131308131.5","n/a","2004","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/mnkd",
+"MRNS","Marinus Pharmaceuticals, Inc.","1.71","38337351.84","n/a","2014","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/mrns",
+"MASI","Masimo Corporation","96.19","4950182395.93","n/a","2007","Health Care","Biotechnology: Electromedical & Electrotherapeutic Apparatus","http://www.nasdaq.com/symbol/masi",
+"MTNB","Matinas Biopharma Holdings, Inc.","1.33","121558532.69","n/a","2017","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/mtnb",
+"MZOR","Mazor Robotics Ltd.","39.19","531115851.89","13552331","n/a","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/mzor",
+"MCK","McKesson Corporation","165.92","35084827470.88","n/a","n/a","Health Care","Other Pharmaceuticals","http://www.nasdaq.com/symbol/mck",
+"MNOV","MediciNova, Inc.","5.43","187555148.49","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/mnov",
+"MDGS","Medigus Ltd.","2.2999","2825346.6535","1228465","n/a","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/mdgs",
+"MD","Mednax, Inc","58.11","5405138666.07","n/a","n/a","Health Care","Hospital/Nursing Management","http://www.nasdaq.com/symbol/md",
+"MDVX","Medovex Corp.","0.9497","19870225.5098","n/a","2015","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/mdvx",
+"MDVXW","Medovex Corp.","0.17","0","n/a","2015","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/mdvxw",
+"MEDP","Medpace Holdings, Inc.","28.23","1150255063.2","n/a","2016","Health Care","Biotechnology: Commercial Physical & Biological Resarch","http://www.nasdaq.com/symbol/medp",
+"MDT","Medtronic plc","85.17","115748301398.73","n/a","n/a","Health Care","Biotechnology: Electromedical & Electrotherapeutic Apparatus","http://www.nasdaq.com/symbol/mdt",
+"MEIP","MEI Pharma, Inc.","3.02","111052732.56","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/meip",
+"MRK","Merck & Company, Inc.","62.63","171303353261.3","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/mrk",
+"VIVO","Meridian Bioscience Inc.","15.15","639372526.05","n/a","1986","Health Care","Biotechnology: In Vitro & In Vivo Diagnostic Substances","http://www.nasdaq.com/symbol/vivo",
+"MMSI","Merit Medical Systems, Inc.","38.25","1909321998.75","n/a","n/a","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/mmsi",
+"MACK","Merrimack Pharmaceuticals, Inc.","1.29","171236311.83","n/a","2012","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/mack",
+"MRSN","Mersana Therapeutics, Inc.","14.05","318170975.05","n/a","2017","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/mrsn",
+"MRUS","Merus N.V.","16.3","316094424.8","n/a","2016","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/mrus",
+"MESO","Mesoblast Limited","7.71","32648573.25","4234575","2015","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/meso",
+"MGCD","MGC Diagnostics Corporation","8.4","37297125.6","n/a","n/a","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/mgcd",
+"MBOT","Microbot Medical Inc. ","1.2","38551599.6","n/a","n/a","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/mbot",
+"MICR","Micron Solutions, Inc.","4.02","11340415.98","n/a","n/a","Health Care","Biotechnology: Electromedical & Electrotherapeutic Apparatus","http://www.nasdaq.com/symbol/micr",
+"MTP","Midatech Pharma PLC","2.6368","5156022.4512","1955409","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/mtp",
+"MLSS","Milestone Scientific, Inc.","1.4","45328816.4","n/a","2015","Health Care","Industrial Specialties","http://www.nasdaq.com/symbol/mlss",
+"MDXG","MiMedx Group, Inc","14.84","1645323057.84","n/a","n/a","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/mdxg",
+"NERV","Minerva Neurosciences, Inc","7.85","333270745.2","n/a","2014","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/nerv",
+"MGEN","Miragen Therapeutics, Inc.","14.33","306761249.58","n/a","2014","Health Care","Medical Specialities","http://www.nasdaq.com/symbol/mgen",
+"MRTX","Mirati Therapeutics, Inc.","4.9","122205005.3","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/mrtx",
+"MIRN","Mirna Therapeutics, Inc.","1.66","34622110.38","n/a","2015","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/mirn",
+"MBRX","Moleculin Biotech, Inc.","1.91","33915606.42","n/a","2016","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/mbrx",
+"MOH","Molina Healthcare Inc","71.15","4055834600","n/a","2003","Health Care","Medical Specialities","http://www.nasdaq.com/symbol/moh",
+"MNTA","Momenta Pharmaceuticals, Inc.","16.8","1246528298.4","n/a","2004","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/mnta",
+"MTFB","Motif Bio plc","7.62","13657516.5","1792325","2016","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/mtfb",
+"MTFBW","Motif Bio plc","1.75","0","n/a","2016","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/mtfbw",
+"MSA","MSA Safety Incorporporated","79.48","3015468100.28","n/a","n/a","Health Care","Industrial Specialties","http://www.nasdaq.com/symbol/msa",
+"MYL","Mylan N.V.","39.17","20994401661.37","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/myl",
+"MYND","MYnd Analytics, Inc.","4.2","10643056.2","n/a","n/a","Health Care","Hospital/Nursing Management","http://www.nasdaq.com/symbol/mynd",
+"MYNDW","MYnd Analytics, Inc.","0.9815","0","n/a","n/a","Health Care","Hospital/Nursing Management","http://www.nasdaq.com/symbol/myndw",
+"MYOK","MyoKardia, Inc.","13.6","427800158.4","n/a","2015","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/myok",
+"MYO","Myomo Inc.","9.75","0","n/a","2017","Health Care","Industrial Specialties","http://www.nasdaq.com/symbol/myo",
+"MYOS","MYOS RENS Technology Inc.","1.81","10578313.32","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/myos",
+"MYOV","Myovant Sciences Ltd.","10.72","646203626.08","n/a","2016","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/myov",
+"MYGN","Myriad Genetics, Inc.","24.16","1645741752","n/a","1995","Health Care","Biotechnology: In Vitro & In Vivo Diagnostic Substances","http://www.nasdaq.com/symbol/mygn",
+"NBRV","Nabriva Therapeutics plc","10.49","285441921.4","n/a","2015","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/nbrv",
+"NSTG","NanoString Technologies, Inc.","15.84","398226201.12","n/a","2013","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/nstg",
+"NNVC","NanoViricides, Inc.","1.54","97130880","n/a","n/a","Health Care","Biotechnology: Commercial Physical & Biological Resarch","http://www.nasdaq.com/symbol/nnvc",
+"NK","NantKwest, Inc.","7.13","585771296.06","n/a","2015","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/nk",
+"NTRA","Natera, Inc.","9.69","512431066.47","n/a","2015","Health Care","Medical Specialities","http://www.nasdaq.com/symbol/ntra",
+"NHC","National HealthCare Corporation","68.25","1037060797.5","n/a","n/a","Health Care","Hospital/Nursing Management","http://www.nasdaq.com/symbol/nhc",
+"NRCIA","National Research Corporation","28.6","699815144.6","n/a","n/a","Health Care","Biotechnology: Commercial Physical & Biological Resarch","http://www.nasdaq.com/symbol/nrcia",
+"NRCIB","National Research Corporation","49","1198983989","n/a","n/a","Health Care","Biotechnology: Commercial Physical & Biological Resarch","http://www.nasdaq.com/symbol/nrcib",
+"NATR","Nature&#39;s Sunshine Products, Inc.","12.95","244283632.95","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/natr",
+"BABY","Natus Medical Incorporated","38.7","1280632149","n/a","2001","Health Care","Biotechnology: Electromedical & Electrotherapeutic Apparatus","http://www.nasdaq.com/symbol/baby",
+"NAVB","Navidea Biopharmaceuticals, Inc.","0.475","76901710.55","n/a","n/a","Health Care","Biotechnology: In Vitro & In Vivo Diagnostic Substances","http://www.nasdaq.com/symbol/navb",
+"NKTR","Nektar Therapeutics","22.24","3450529239.04","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/nktr",
+"NEOG","Neogen Corporation","67.15","2565062850","n/a","1989","Health Care","Biotechnology: In Vitro & In Vivo Diagnostic Substances","http://www.nasdaq.com/symbol/neog",
+"NEO","NeoGenomics, Inc.","9.11","721849479.95","n/a","n/a","Health Care","Precision Instruments","http://www.nasdaq.com/symbol/neo",
+"NEOS","Neos Therapeutics, Inc.","6.6","148900191","n/a","2015","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/neos",
+"NEOT","Neothetics, Inc.","0.5778","7991983.4166","n/a","2014","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/neot",
+"NVCN","Neovasc Inc.","1.24","97832707.8","n/a","n/a","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/nvcn",
+"NEPT","Neptune Technologies & Bioresources Inc","0.8015","63484338.365","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/nept",
+"CUR","Neuralstem, Inc.","5.49","65950694.73","n/a","n/a","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/cur",
+"NBIX","Neurocrine Biosciences, Inc.","47.07","4145688508.41","n/a","1996","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/nbix",
+"NDRM","NeuroDerm Ltd.","33.2","874428173.6","n/a","2014","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/ndrm",
+"NURO","NeuroMetrix, Inc.","1.99","2524245.35","n/a","2004","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/nuro",
+"NUROW","NeuroMetrix, Inc.","0.09","0","n/a","n/a","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/nurow",
+"NTRP","Neurotrope, Inc.","5.53","43624345.1","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/ntrp",
+"NVRO","Nevro Corp.","86.33","2529081205.64","n/a","2014","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/nvro",
+"NLNK","NewLink Genetics Corporation","7.26","212178451.32","n/a","2011","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/nlnk",
+"NVET","Nexvet Biopharma plc","6.7","81371104.7","n/a","2015","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/nvet",
+"NVLS","Nivalis Therapeutics, Inc.","2.35","36792189.85","n/a","2015","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/nvls",
+"HLTH","Nobilis Health Corp.","1.75","136157024.5","n/a","2015","Health Care","Hospital/Nursing Management","http://www.nasdaq.com/symbol/hlth",
+"NBY","NovaBay Pharmaceuticals, Inc.","3.9","59705782.5","n/a","2007","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/nby",
+"NVDQ","Novadaq Technologies Inc","11.71","676871502.31","n/a","n/a","Health Care","Biotechnology: Electromedical & Electrotherapeutic Apparatus","http://www.nasdaq.com/symbol/nvdq",
+"NOVN","Novan, Inc.","4.05","64676446.65","n/a","2016","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/novn",
+"NVS","Novartis AG","84.99","199123071000","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/nvs",
+"NVAX","Novavax, Inc.","1.48","418268600.12","n/a","n/a","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/nvax",
+"NVLN","Novelion Therapeutics Inc. ","9.43","175002618.96","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/nvln",
+"NVO","Novo Nordisk A/S","42.95","109522500000","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/nvo",
+"NVCR","NovoCure Limited","18.9","1666033639.2","n/a","2015","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/nvcr",
+"NVGN","Novogen Limited","3.0301","5424912.2641","1790341","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/nvgn",
+"NVUS","Novus Therapeutics, Inc.","5.48","1531807.96","n/a","2014","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/nvus",
+"NUS","Nu Skin Enterprises, Inc.","64.1","3387068870.8","n/a","1996","Health Care","Other Pharmaceuticals","http://www.nasdaq.com/symbol/nus",
+"NUVA","NuVasive, Inc.","79.92","4048967299.68","n/a","2004","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/nuva",
+"NVTR","Nuvectra Corporation","12.2","126178292.6","n/a","n/a","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/nvtr",
+"NXTM","NxStage Medical, Inc.","23.93","1573047164.8","n/a","2005","Health Care","Biotechnology: Electromedical & Electrotherapeutic Apparatus","http://www.nasdaq.com/symbol/nxtm",
+"NYMX","Nymox Pharmaceutical Corporation","4.02","202807777.92","n/a","n/a","Health Care","Biotechnology: In Vitro & In Vivo Diagnostic Substances","http://www.nasdaq.com/symbol/nymx",
+"OASM","Oasmia Pharmaceutical AB","1","841705","841705","2015","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/oasm",
+"OBLN","Obalon Therapeutics, Inc.","8.84","148442579.48","n/a","2016","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/obln",
+"OBSV","ObsEva SA","8.31","246235787.22","n/a","2017","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/obsv",
+"OCRX","Ocera Therapeutics, Inc.","1.25","33137563.75","n/a","2011","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/ocrx",
+"OCUL","Ocular Therapeutix, Inc.","6.72","195069396.48","n/a","2014","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/ocul",
+"OHRP","Ohr Pharmaceuticals, Inc.","0.66","37099542.48","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/ohrp",
+"OMER","Omeros Corporation","21.96","964911705.48","n/a","2009","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/omer",
+"ONS","Oncobiologics, Inc.","0.9899","24206037.5687","n/a","2016","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/ons",
+"ONSIW","Oncobiologics, Inc.","0.1386","0","n/a","2016","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/onsiw",
+"ONSIZ","Oncobiologics, Inc.","0.07","0","n/a","2016","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/onsiz",
+"OCX","OncoCyte Corporation","4.3","126284541.4","n/a","2015","Health Care","Biotechnology: In Vitro & In Vivo Diagnostic Substances","http://www.nasdaq.com/symbol/ocx",
+"OGXI","OncoGenex Pharmaceuticals Inc.","0.4664","14032803.004","n/a","n/a","Health Care","Biotechnology: In Vitro & In Vivo Diagnostic Substances","http://www.nasdaq.com/symbol/ogxi",
+"OMED","OncoMed Pharmaceuticals, Inc.","3.57","134315691.51","n/a","2013","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/omed",
+"ONTX","Onconova Therapeutics, Inc.","2.05","19449545.15","n/a","2013","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/ontx",
+"ONTXW","Onconova Therapeutics, Inc.","0.45","0","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/ontxw",
+"ONCS","OncoSec Medical Incorporated","1.08","22861649.52","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/oncs",
+"OPXA","Opexa Therapeutics, Inc.","0.9","6891598.8","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/opxa",
+"OPXAW","Opexa Therapeutics, Inc.","0.0855","0","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/opxaw",
+"OPGN","OpGen, Inc.","0.345","18076030.05","n/a","2015","Health Care","Medical Specialities","http://www.nasdaq.com/symbol/opgn",
+"OPGNW","OpGen, Inc.","0.1118","0","n/a","2015","Health Care","Medical Specialities","http://www.nasdaq.com/symbol/opgnw",
+"OPHT","Ophthotech Corporation","2.63","94292935.01","n/a","2013","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/opht",
+"OPK","Opko Health, Inc.","6.59","3686371467.1","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/opk",
+"OGEN","Oragenics, Inc.","0.4","19709687.6","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/ogen",
+"ORMP","Oramed Pharmaceuticals Inc.","8.56","114027434.72","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/ormp",
+"OSUR","OraSure Technologies, Inc.","18","1039729698","n/a","n/a","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/osur",
+"OREX","Orexigen Therapeutics, Inc.","2.47","37612670.94","n/a","2007","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/orex",
+"ONVO","Organovo Holdings, Inc.","2.37","250337274.54","n/a","n/a","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/onvo",
+"OFIX","Orthofix International N.V.","45.9","828234976.5","n/a","1992","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/ofix",
+"OTIC","Otonomy, Inc.","18.9","571857281.1","n/a","2014","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/otic",
+"OVAS","OvaScience Inc.","1.52","54206428.48","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/ovas",
+"OVID","Ovid Therapeutics Inc.","9.15","225107714.4","n/a","2017","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/ovid",
+"OMI","Owens & Minor, Inc.","31.85","1949271947.35","n/a","n/a","Health Care","Medical Specialities","http://www.nasdaq.com/symbol/omi",
+"OXFD","Oxford Immunotec Global PLC","16.31","373937787.93","n/a","2013","Health Care","Biotechnology: In Vitro & In Vivo Diagnostic Substances","http://www.nasdaq.com/symbol/oxfd",
+"PCRX","Pacira Pharmaceuticals, Inc.","47.65","1910473524.95","n/a","2011","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/pcrx",
+"PTIE","Pain Therapeutics, Inc.","3.55","23400552.75","n/a","2000","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/ptie",
+"PTN","Palatin Technologies, Inc.","0.45","68760812.7","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/ptn",
+"PRTK","Paratek Pharmaceuticals, Inc. ","21.35","586815894.7","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/prtk",
+"PRXL","PAREXEL International Corporation","87.5","4466837900","n/a","1995","Health Care","Biotechnology: Commercial Physical & Biological Resarch","http://www.nasdaq.com/symbol/prxl",
+"PTHN","Patheon N.V.","34.96","5073962041.44","n/a","2016","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/pthn",
+"PDCO","Patterson Companies, Inc.","42.89","4132108380","n/a","1992","Health Care","Medical Specialities","http://www.nasdaq.com/symbol/pdco",
+"PAVM","PAVmed Inc.","3.95","52579283.45","n/a","2016","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/pavm",
+"PAVMW","PAVmed Inc.","1.16","0","n/a","2016","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/pavmw",
+"PDLI","PDL BioPharma, Inc.","2.37","381533137.02","n/a","1992","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/pdli",
+"PEN","Penumbra, Inc.","82","2757427120","n/a","2015","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/pen",
+"PPHM","Peregrine Pharmaceuticals Inc.","4.6","207318264.8","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/pphm",
+"PPHMP","Peregrine Pharmaceuticals Inc.","21.699","15189300","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/pphmp",
+"PTX","Pernix Therapeutics Holdings, Inc.","3.43","34353648.63","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/ptx",
+"PRGO","Perrigo Company","76.21","10928307851.95","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/prgo",
+"PETS","PetMed Express, Inc.","40.54","832104742.96","n/a","n/a","Health Care","Medical/Nursing Services","http://www.nasdaq.com/symbol/pets",
+"PFNX","Pfenex Inc.","4.74","111179316.48","n/a","2014","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/pfnx",
+"PFE","Pfizer, Inc.","33.48","199803432855.6","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/pfe",
+"PMC","Pharmerica Corporation","25.75","800684276.25","n/a","n/a","Health Care","Medical/Nursing Services","http://www.nasdaq.com/symbol/pmc",
+"PZRX","PhaseRx, Inc.","0.8256","9651535.6224","n/a","2016","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/pzrx",
+"PAHC","Phibro Animal Health Corporation","38.3","1518280557","n/a","2014","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/pahc",
+"PIRS","Pieris Pharmaceuticals, Inc.","5.7","245492103","n/a","n/a","Health Care","Biotechnology: Commercial Physical & Biological Resarch","http://www.nasdaq.com/symbol/pirs",
+"PSTI","Pluristem Therapeutics, Inc.","1.2","115597418.4","n/a","n/a","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/psti",
+"PLXP","PLx Pharma Inc.","5.95","51669294.25","n/a","2014","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/plxp",
+"PTLA","Portola Pharmaceuticals, Inc.","66.04","3765608064.4","n/a","2013","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/ptla",
+"PRAH","PRA Health Sciences, Inc.","75.37","4708493084.18","n/a","2014","Health Care","Biotechnology: Commercial Physical & Biological Resarch","http://www.nasdaq.com/symbol/prah",
+"PRAN","Prana Biotechnology Ltd","2.74","17197546.98","6276477","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/pran",
+"LENS","Presbia PLC","2.2","37756072.2","n/a","2015","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/lens",
+"PBH","Prestige Brand Holdings, Inc.","51.9","2750438424","n/a","2005","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/pbh",
+"PBMD","Prima BioMed Ltd","1.79","10960930.75","6123425","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/pbmd",
+"PDEX","Pro-Dex, Inc.","6.3","25289371.8","n/a","n/a","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/pdex",
+"PGNX","Progenics Pharmaceuticals Inc.","6.59","462784061.41","n/a","1997","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/pgnx",
+"PRPH","ProPhase Labs, Inc.","2.05","33127581.8","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/prph",
+"PRQR","ProQR Therapeutics N.V.","5.1","121712239.5","n/a","2014","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/prqr",
+"PTGX","Protagonist Therapeutics, Inc.","12.75","214919304","n/a","2016","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/ptgx",
+"PLX","Protalix BioTherapeutics, Inc.","0.74","93609596.7","n/a","n/a","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/plx",
+"PRTO","Proteon Therapeutics, Inc.","1.35","23786214.3","n/a","2014","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/prto",
+"PTI","Proteostasis Therapeutics, Inc.","3.51","87834387.42","n/a","2016","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/pti",
+"PRTA","Prothena Corporation plc","67.24","2556476970.44","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/prta",
+"PMD","Psychemedics Corporation","26.31","143658388.2","n/a","n/a","Health Care","Medical Specialities","http://www.nasdaq.com/symbol/pmd",
+"PTCT","PTC Therapeutics, Inc.","21.44","884271445.76","n/a","2013","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/ptct",
+"PULM","Pulmatrix, Inc.","2.4","45775188","n/a","2014","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/pulm",
+"PLSE","Pulse Biosciences, Inc","29.1","416554423.5","n/a","2016","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/plse",
+"PBYI","Puma Biotechnology Inc","94.3","3485920015.4","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/pbyi",
+"QGEN","Qiagen N.V.","34.57","7870171630","n/a","n/a","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/qgen",
+"DGX","Quest Diagnostics Incorporated","109.39","14967343742.19","n/a","n/a","Health Care","Medical Specialities","http://www.nasdaq.com/symbol/dgx",
+"QDEL","Quidel Corporation","37.71","1252192264.11","n/a","n/a","Health Care","Biotechnology: In Vitro & In Vivo Diagnostic Substances","http://www.nasdaq.com/symbol/qdel",
+"Q","Quintiles IMS Holdings, Inc.","91.15","19672069748.3","n/a","2013","Health Care","Biotechnology: Commercial Physical & Biological Resarch","http://www.nasdaq.com/symbol/q",
+"QHC","Quorum Health Corporation","3.83","116063937","n/a","2016","Health Care","Hospital/Nursing Management","http://www.nasdaq.com/symbol/qhc",
+"QTNT","Quotient Limited","5.86","220604575.52","n/a","2014","Health Care","Biotechnology: In Vitro & In Vivo Diagnostic Substances","http://www.nasdaq.com/symbol/qtnt",
+"RARX","Ra Pharmaceuticals, Inc.","15.15","341901821.55","n/a","2016","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/rarx",
+"RDUS","Radius Health, Inc.","42.22","1831393025.82","n/a","2014","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/rdus",
+"RDNT","RadNet, Inc.","7.65","361209506.85","n/a","n/a","Health Care","Medical Specialities","http://www.nasdaq.com/symbol/rdnt",
+"RETA","Reata Pharmaceuticals, Inc.","31.1","0","n/a","2016","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/reta",
+"REPH","Recro Pharma, Inc.","7.51","143072754.66","n/a","2014","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/reph",
+"RDHL","Redhill Biopharma Ltd.","9.37","96527360.02","10301746","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/rdhl",
+"REGN","Regeneron Pharmaceuticals, Inc.","515.92","54837450479.36","n/a","1991","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/regn",
+"RGNX","REGENXBIO Inc.","19.1","588687880.5","n/a","2015","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/rgnx",
+"RGLS","Regulus Therapeutics Inc.","0.98","52118683.4","n/a","2012","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/rgls",
+"RELV","Reliv&#39; International, Inc.","10.9466","20198228.456","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/relv",
+"RNVA","Rennova Health, Inc.","0.3301","3279399.5764","n/a","n/a","Health Care","Precision Instruments","http://www.nasdaq.com/symbol/rnva",
+"RNVAZ","Rennova Health, Inc.","0.037","0","n/a","n/a","Health Care","Precision Instruments","http://www.nasdaq.com/symbol/rnvaz",
+"RGEN","Repligen Corporation","42.45","1448351295.3","n/a","1986","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/rgen",
+"RPRX","Repros Therapeutics Inc.","0.3701","9893540.5874","n/a","n/a","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/rprx",
+"RMD","ResMed Inc.","77","10920081711","n/a","n/a","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/rmd",
+"RVP","Retractable Technologies, Inc.","1.27","40216396.58","n/a","n/a","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/rvp",
+"RTRX","Retrophin, Inc.","19.8","755827221.6","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/rtrx",
+"RVNC","Revance Therapeutics, Inc.","23.75","718995102.5","n/a","2014","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/rvnc",
+"RWLK","ReWalk Robotics Ltd","1.4","23341543.4","n/a","2014","Health Care","Industrial Specialties","http://www.nasdaq.com/symbol/rwlk",
+"RNN","Rexahn Pharmaceuticals, Inc.","2.27","64536790.08","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/rnn",
+"RIGL","Rigel Pharmaceuticals, Inc.","2.61","319553734.41","n/a","2000","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/rigl",
+"RAD","Rite Aid Corporation","2.48","2612164155.04","n/a","n/a","Health Care","Medical/Nursing Services","http://www.nasdaq.com/symbol/rad",
+"RTTR","Ritter Pharmaceuticals, Inc.","0.57","8332942.29","n/a","2015","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/rttr",
+"RMTI","Rockwell Medical, Inc.","7.27","378459558.97","n/a","1998","Health Care","Biotechnology: Electromedical & Electrotherapeutic Apparatus","http://www.nasdaq.com/symbol/rmti",
+"ROSG","Rosetta Genomics Ltd.","2.62","6780785.32","n/a","2007","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/rosg",
+"RTIX","RTI Surgical, Inc.","5.6","327919289.6","n/a","2000","Health Care","Industrial Specialties","http://www.nasdaq.com/symbol/rtix",
+"RXII","RXi Pharmaceuticals Corporation","0.63","14645117.34","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/rxii",
+"RXIIW","RXi Pharmaceuticals Corporation","0.2","0","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/rxiiw",
+"SAGE","Sage Therapeutics, Inc.","83.61","3122523223.29","n/a","2014","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/sage",
+"SGMO","Sangamo Therapeutics, Inc.","9.5","792672333.5","n/a","2000","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/sgmo",
+"GCVRZ","Sanofi","0.35","0","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/gcvrz",
+"SNY","Sanofi","47.71","123284770156.08","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/sny",
+"SRPT","Sarepta Therapeutics, Inc.","43.41","2385599284.83","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/srpt",
+"SVRA","Savara, Inc.","5.95","143412588.2","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/svra",
+"SCLN","SciClone Pharmaceuticals, Inc.","11","569693817","n/a","1992","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/scln",
+"SCYX","SCYNEXIS, Inc.","1.8","46437951.6","n/a","2014","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/scyx",
+"SPNE","SeaSpine Holdings Corporation","11.86","139234502.4","n/a","n/a","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/spne",
+"SGEN","Seattle Genetics, Inc.","54.39","7762355710.83","n/a","2001","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/sgen",
+"EYES","Second Sight Medical Products, Inc.","1.27","71584348.83","n/a","2014","Health Care","Biotechnology: Electromedical & Electrotherapeutic Apparatus","http://www.nasdaq.com/symbol/eyes",
+"EYESW","Second Sight Medical Products, Inc.","0.3895","0","n/a","n/a","Health Care","Biotechnology: Electromedical & Electrotherapeutic Apparatus","http://www.nasdaq.com/symbol/eyesw",
+"SEM","Select Medical Holdings Corporation","16.45","2183894350.75","n/a","2009","Health Care","Hospital/Nursing Management","http://www.nasdaq.com/symbol/sem",
+"SELB","Selecta Biosciences, Inc.","17.28","380854224","n/a","2016","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/selb",
+"SNMX","Senomyx, Inc.","0.82","38961671.06","n/a","2004","Health Care","Biotechnology: Commercial Physical & Biological Resarch","http://www.nasdaq.com/symbol/snmx",
+"SRTS","Sensus Healthcare, Inc.","3.5","47345088","n/a","2016","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/srts",
+"SRTSW","Sensus Healthcare, Inc.","0.6","0","n/a","2016","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/srtsw",
+"MCRB","Seres Therapeutics, Inc.","13.74","554967228.72","n/a","2015","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/mcrb",
+"SHPG","Shire plc","164.03","12848847004.97","78332299","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/shpg",
+"SIEN","Sientra, Inc.","10.97","209690036.14","n/a","2014","Health Care","Industrial Specialties","http://www.nasdaq.com/symbol/sien",
+"SRRA","Sierra Oncology, Inc.","1.37","71607766.91","n/a","2015","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/srra",
+"SVA","Sinovac Biotech, Ltd.","6.85","389809942.85","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/sva",
+"SKLN","Skyline Medical Inc.","1.6","9903084.8","n/a","n/a","Health Care","Industrial Specialties","http://www.nasdaq.com/symbol/skln",
+"SNN","Smith & Nephew SNATS, Inc.","34.99","15810637453.98","n/a","n/a","Health Care","Industrial Specialties","http://www.nasdaq.com/symbol/snn",
+"SLNO","Soleno Therapeutics, Inc.","0.53","25221452.91","n/a","2014","Health Care","Biotechnology: Electromedical & Electrotherapeutic Apparatus","http://www.nasdaq.com/symbol/slno",
+"SLNOW","Soleno Therapeutics, Inc.","0.1203","0","n/a","2014","Health Care","Biotechnology: Electromedical & Electrotherapeutic Apparatus","http://www.nasdaq.com/symbol/slnow",
+"SNGX","Soligenix, Inc.","2.6793","15198749.9001","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/sngx",
+"SNGXW","Soligenix, Inc.","0.68","0","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/sngxw",
+"SNOA","Sonoma Pharmaceuticals, Inc.","6.66","28638919.08","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/snoa",
+"SNOAW","Sonoma Pharmaceuticals, Inc.","0.3675","0","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/snoaw",
+"SRNE","Sorrento Therapeutics, Inc.","2.05","156840979.75","n/a","n/a","Health Care","Biotechnology: Commercial Physical & Biological Resarch","http://www.nasdaq.com/symbol/srne",
+"ONCE","Spark Therapeutics, Inc.","69.02","2148463187.5","n/a","2015","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/once",
+"SPPI","Spectrum Pharmaceuticals, Inc.","8.12","652947478.12","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/sppi",
+"SBPH","Spring Bank Pharmaceuticals, Inc.","14.38","135549302.44","n/a","2016","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/sbph",
+"STAA","STAAR Surgical Company","10.05","411369785.85","n/a","n/a","Health Care","Ophthalmic Goods","http://www.nasdaq.com/symbol/staa",
+"STDY","SteadyMed Ltd.","6.5","163613944","n/a","2015","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/stdy",
+"SBOT","Stellar Biotechnologies, Inc.","1.38","13988036.04","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/sbot",
+"STML","Stemline Therapeutics, Inc.","10.2","256177763.4","n/a","2013","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/stml",
+"STE","STERIS plc","82.15","6984656783.65","n/a","n/a","Health Care","Industrial Specialties","http://www.nasdaq.com/symbol/ste",
+"SSKN","Strata Skin Sciences, Inc.","1.95","4734098.85","n/a","n/a","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/sskn",
+"SBBP","Strongbridge Biopharma plc","6.75","238511425.5","n/a","2015","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/sbbp",
+"SYK","Stryker Corporation","146.19","54640709443.32","n/a","n/a","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/syk",
+"SCMP","Sucampo Pharmaceuticals, Inc.","10.95","508791027.3","n/a","2007","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/scmp",
+"SMMT","Summit Therapeutics plc","12.69","59634776.88","4699352","2015","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/smmt",
+"SNSS","Sunesis Pharmaceuticals, Inc.","2.56","54938990.08","n/a","2005","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/snss",
+"SSY","SunLink Health Systems, Inc.","1.65","15118303.2","n/a","n/a","Health Care","Hospital/Nursing Management","http://www.nasdaq.com/symbol/ssy",
+"SUPN","Supernus Pharmaceuticals, Inc.","42.2","2121917153.4","n/a","2012","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/supn",
+"SGRY","Surgery Partners, Inc.","21.35","1042269445.35","n/a","2015","Health Care","Hospital/Nursing Management","http://www.nasdaq.com/symbol/sgry",
+"SRDX","Surmodics, Inc.","27.25","361782199.75","n/a","1998","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/srdx",
+"SNDX","Syndax Pharmaceuticals, Inc.","13.84","252662251.12","n/a","2016","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/sndx",
+"SGYP","Synergy Pharmaceuticals, Inc.","4.26","958286748.66","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/sgyp",
+"SYN","Synthetic Biologics, Inc","0.52","66427969.92","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/syn",
+"SYRS","Syros Pharmaceuticals, Inc.","19.32","505799841.12","n/a","2016","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/syrs",
+"TTOO","T2 Biosystems, Inc.","2.71","82910666.82","n/a","2014","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/ttoo",
+"TCMD","Tactile Systems Technology, Inc.","30","508204200","n/a","2016","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/tcmd",
+"TNDM","Tandem Diabetes Care, Inc.","0.64","31897376","n/a","2013","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/tndm",
+"TPIV","TapImmune Inc.","3.6","36572374.8","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/tpiv",
+"TARO","Taro Pharmaceutical Industries Ltd.","114.69","4646489759.61","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/taro",
+"TEAR","TearLab Corporation","3.34","19157344.88","n/a","n/a","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/tear",
+"TDOC","Teladoc, Inc.","34.4","2229120000","n/a","2015","Health Care","Medical/Nursing Services","http://www.nasdaq.com/symbol/tdoc",
+"TFX","Teleflex Incorporated","211.17","9498695841.75","n/a","n/a","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/tfx",
+"TLGT","Teligent, Inc.","8.435","448964532.17","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/tlgt",
+"TENX","Tenax Therapeutics, Inc.","0.735","20753823.09","n/a","n/a","Health Care","Biotechnology: Commercial Physical & Biological Resarch","http://www.nasdaq.com/symbol/tenx",
+"THC","Tenet Healthcare Corporation","20.65","2075952181.8","n/a","n/a","Health Care","Hospital/Nursing Management","http://www.nasdaq.com/symbol/thc",
+"TSRO","TESARO, Inc.","131.97","7108529869.77","n/a","2012","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/tsro",
+"TTPH","Tetraphase Pharmaceuticals, Inc.","8.09","347160636.44","n/a","2013","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/ttph",
+"TEVA","Teva Pharmaceutical Industries Limited","32.64","33162240000","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/teva",
+"TGTX","TG Therapeutics, Inc.","12.2","814656781.2","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/tgtx",
+"ENSG","The Ensign Group, Inc.","22.7","1150957441.7","n/a","2007","Health Care","Hospital/Nursing Management","http://www.nasdaq.com/symbol/ensg",
+"MDCO","The Medicines Company","39.47","2848428569.22","n/a","2000","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/mdco",
+"SPNC","The Spectranetics Corporation","38.45","1685959022.05","n/a","1992","Health Care","Biotechnology: Electromedical & Electrotherapeutic Apparatus","http://www.nasdaq.com/symbol/spnc",
+"TXMD","TherapeuticsMD, Inc.","5.69","1160345437.98","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/txmd",
+"TRPX","Therapix Biosciences Ltd.","6.57","12814417.08","1950444","2017","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/trpx",
+"TBPH","Theravance Biopharma, Inc.","36.37","1940745898.38","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/tbph",
+"THLD","Threshold Pharmaceuticals, Inc.","0.494","35366407.492","n/a","2005","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/thld",
+"TIG","TiGenix","21.07","38577126.21","1830903","2016","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/tig",
+"TTNP","Titan Pharmaceuticals, Inc.","2","42407488","n/a","n/a","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/ttnp",
+"TVTY","Tivity Health, Inc.","39.75","1558115650.5","n/a","n/a","Health Care","Hospital/Nursing Management","http://www.nasdaq.com/symbol/tvty",
+"TOCA","Tocagen Inc.","10.32","204414081.12","n/a","2017","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/toca",
+"TNXP","Tonix Pharmaceuticals Holding Corp.","4.29","32115051.54","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/tnxp",
+"TCON","TRACON Pharmaceuticals, Inc.","2.2","36539921","n/a","2015","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/tcon",
+"TRXC","TransEnterix, Inc.","0.7351","109184174.3839","n/a","n/a","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/trxc",
+"TRVN","Trevena, Inc.","2.755","160620806.065","n/a","2014","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/trvn",
+"TRIL","Trillium Therapeutics Inc.","4.8","51815318.4","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/tril",
+"TRIB","Trinity Biotech plc","6.02","144206968.92","23954646","1992","Health Care","Biotechnology: In Vitro & In Vivo Diagnostic Substances","http://www.nasdaq.com/symbol/trib",
+"TROV","TrovaGene, Inc.","0.96","29151891.84","n/a","n/a","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/trov",
+"TRUP","Trupanion, Inc.","22.49","669322483.57","n/a","n/a","Health Care","Medical Specialities","http://www.nasdaq.com/symbol/trup",
+"USPH","U.S. Physical Therapy, Inc.","62.2","782353901.4","n/a","1992","Health Care","Medical/Nursing Services","http://www.nasdaq.com/symbol/usph",
+"RARE","Ultragenyx Pharmaceutical Inc.","70.06","2964442194.36","n/a","2014","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/rare",
+"QURE","uniQure N.V.","8.19","208647571.86","n/a","2014","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/qure",
+"UTHR","United Therapeutics Corporation","129.98","5857065824.3","n/a","1999","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/uthr",
+"UNH","UnitedHealth Group Incorporated","191.78","183583622935.7","n/a","n/a","Health Care","Medical Specialities","http://www.nasdaq.com/symbol/unh",
+"UHS","Universal Health Services, Inc.","124.42","12030160344.08","n/a","n/a","Health Care","Hospital/Nursing Management","http://www.nasdaq.com/symbol/uhs",
+"URGN","UroGen Pharma Ltd.","18.01","215625499.43","n/a","2017","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/urgn",
+"UTMD","Utah Medical Products, Inc.","71.2","264588740.8","n/a","n/a","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/utmd",
+"VRX","Valeant Pharmaceuticals International, Inc.","17.5","6078278902.5","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/vrx",
+"VLRX","Valeritas Holdings, Inc.","5.42","37088940.76","n/a","n/a","Health Care","Medical/Dental Instruments","http://www.nasdaq.com/symbol/vlrx",
+"VNDA","Vanda Pharmaceuticals Inc.","16.4","730657113.2","n/a","2006","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/vnda",
+"VAR","Varian Medical Systems, Inc.","103.88","9548818197.24","n/a","n/a","Health Care","Biotechnology: Electromedical & Electrotherapeutic Apparatus","http://www.nasdaq.com/symbol/var",
+"VBLT","Vascular Biogenics Ltd.","4.35","117024939.75","n/a","2014","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/vblt",
+"VBIV","VBI Vaccines, Inc.","4.75","191089512.25","n/a","n/a","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/vbiv",
+"VCYT","Veracyte, Inc.","8.22","278412402.84","n/a","2013","Health Care","Medical Specialities","http://www.nasdaq.com/symbol/vcyt",
+"VSTM","Verastem, Inc.","3.53","130583235.54","n/a","2012","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/vstm",
+"VCEL","Vericel Corporation","3.4","111407075.8","n/a","n/a","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/vcel",
+"VRML","Vermillion, Inc.","1.59","89181899.55","n/a","n/a","Health Care","Biotechnology: In Vitro & In Vivo Diagnostic Substances","http://www.nasdaq.com/symbol/vrml",
+"VRNA","Verona Pharma plc","12.08","78041450.8","6460385","2017","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/vrna",
+"VSAR","Versartis, Inc.","18.25","642564213.5","n/a","2014","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/vsar",
+"VRTX","Vertex Pharmaceuticals Incorporated","163.17","40640553158.94","n/a","1991","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/vrtx",
+"VICL","Vical Incorporated","2.66","29515899.98","n/a","1993","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/vicl",
+"VRAY","ViewRay, Inc.","5.17","296670394.35","n/a","n/a","Health Care","Biotechnology: Electromedical & Electrotherapeutic Apparatus","http://www.nasdaq.com/symbol/vray",
+"VKTX","Viking Therapeutics, Inc.","1.15","31851876.6","n/a","2015","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/vktx",
+"VKTXW","Viking Therapeutics, Inc.","0.39","0","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/vktxw",
+"VTGN","VistaGen Therapeutics, Inc.","1.85","17207723.2","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/vtgn",
+"VTL","Vital Therapies, Inc.","2.65","111849546.4","n/a","2014","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/vtl",
+"VIVE","Viveve Medical, Inc.","6.93","134446386.69","n/a","n/a","Health Care","Biotechnology: Electromedical & Electrotherapeutic Apparatus","http://www.nasdaq.com/symbol/vive",
+"VVUS","VIVUS, Inc.","1.24","131046750.12","n/a","1994","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/vvus",
+"VNRX","VolitionRX Limited","3.1","81717057.1","n/a","2015","Health Care","Biotechnology: In Vitro & In Vivo Diagnostic Substances","http://www.nasdaq.com/symbol/vnrx",
+"VYGR","Voyager Therapeutics, Inc.","9.73","261278901.87","n/a","2015","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/vygr",
+"VTVT","vTv Therapeutics Inc.","4.7","154218750","n/a","2015","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/vtvt",
+"WBA","Walgreens Boots Alliance, Inc.","78.9","84430612745.4","n/a","n/a","Health Care","Medical/Nursing Services","http://www.nasdaq.com/symbol/wba",
+"WVE","WAVE Life Sciences Ltd.","18.8","521350545.6","n/a","2015","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/wve",
+"WCG","WellCare Health Plans, Inc.","183.87","8180856752.31","n/a","2004","Health Care","Medical Specialities","http://www.nasdaq.com/symbol/wcg",
+"WMGI","Wright Medical Group N.V.","27.58","2876108343.78","n/a","2011","Health Care","Industrial Specialties","http://www.nasdaq.com/symbol/wmgi",
+"WMGIZ","Wright Medical Group N.V.","1.5","0","n/a","n/a","Health Care","Industrial Specialties","http://www.nasdaq.com/symbol/wmgiz",
+"XBIT","XBiotech Inc.","4.8","169395187.2","n/a","2015","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/xbit",
+"XNCR","Xencor, Inc.","23.78","1110601667.96","n/a","2013","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/xncr",
+"XBIO","Xenetic Biosciences, Inc.","3.25","28332008.25","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/xbio",
+"XENE","Xenon Pharmaceuticals Inc.","3.35","60288878","n/a","2014","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/xene",
+"XOMA","XOMA Corporation","7.27","55147719.12","n/a","1986","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/xoma",
+"XTNT","Xtant Medical Holdings, Inc.","0.7999","14472273.1397","n/a","n/a","Health Care","Biotechnology: Biological Products (No Diagnostic Substances)","http://www.nasdaq.com/symbol/xtnt",
+"XTLB","XTL Biopharmaceuticals Ltd.","3.38","4673005.48","1382546","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/xtlb",
+"ZFGN","Zafgen, Inc.","3.5","95804978.5","n/a","2014","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/zfgn",
+"ZBH","Zimmer Biomet Holdings, Inc.","129.61","26135082469.08","n/a","n/a","Health Care","Industrial Specialties","http://www.nasdaq.com/symbol/zbh",
+"ZIOP","ZIOPHARM Oncology Inc","6.1","866751488.8","n/a","n/a","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/ziop",
+"ZTS","Zoetis Inc.","63.16","30998729740.76","n/a","2013","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/zts",
+"ZGNX","Zogenix, Inc.","13.4","332501489.6","n/a","2010","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/zgnx",
+"ZSAN","Zosano Pharma Corporation","1.32","51744128.04","n/a","2015","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/zsan",
+"ZYME","Zymeworks Inc.","7.93","200904321.67","n/a","2017","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/zyme",
+"ZYNE","Zynerba Pharmaceuticals, Inc.","18.7","247770867.3","n/a","2015","Health Care","Major Pharmaceuticals","http://www.nasdaq.com/symbol/zyne",

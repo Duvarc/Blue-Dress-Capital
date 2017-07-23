@@ -3,17 +3,23 @@ import csv
 sectors = ["BasicIndustries.csv",
 "CapitalGoods.csv",
 "ConsumerGoods.csv",
+"ConsumerServices.csv",
 "Energy.csv",
 "ETFS.csv",
 "Finance.csv",
 "Healthcare.csv",
-"Miscellaneous.csv",
-"Technology.csv",
+"Misc.csv",
+"Tech.csv",
 "Transportation.csv",
 "Utilities.csv"]
+
+exchanges = ["nasdaq.csv",
+"nyse.csv",
+"amex.csv"]
+
 stocks = []
 
-for i in sectors:
+for i in exchanges:
 	with open(i) as csvfile:
 		reader = csv.reader(csvfile)
 		for row in reader:

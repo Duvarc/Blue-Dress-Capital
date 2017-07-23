@@ -1,289 +1,282 @@
-Symbol,Name,Sector,Industry
-CAFD,8point3 Energy Partners LP,Public Utilities,Electric Utilities: Central
-EGHT,8x8 Inc,Public Utilities,Telecommunications Equipment
-ACPW,"Active Power, Inc.",Public Utilities,Electric Utilities: Central
-ADTN,"ADTRAN, Inc.",Public Utilities,Telecommunications Equipment
-ADSW,"Advanced Disposal Services, Inc.",Public Utilities,Environmental Services
-ALP^O,Alabama Power Company,Public Utilities,Electric Utilities: Central
-ALSK,"Alaska Communications Systems Group, Inc.",Public Utilities,Telecommunications Equipment
-ALE,"Allete, Inc.",Public Utilities,Power Generation
-LNT,Alliant Energy Corporation,Public Utilities,Power Generation
-AEE,Ameren Corporation,Public Utilities,Power Generation
-AMOV,"America Movil, S.A.B. de C.V.",Public Utilities,Telecommunications Equipment
-AMX,"America Movil, S.A.B. de C.V.",Public Utilities,Telecommunications Equipment
-ADGE,American DG Energy Inc.,Public Utilities,Power Generation
-AEP,"American Electric Power Company, Inc.",Public Utilities,Electric Utilities: Central
-AMID,"American Midstream Partners, LP",Public Utilities,Natural Gas Distribution
-AWR,American States Water Company,Public Utilities,Water Supply
-AWK,American Water Works,Public Utilities,Water Supply
-AM,Antero Midstream Partners LP,Public Utilities,Natural Gas Distribution
-WTR,"Aqua America, Inc.",Public Utilities,Water Supply
-WAAS,AquaVenture Holdings Limited,Public Utilities,Water Supply
-APLP,"Archrock Partners, L.P.",Public Utilities,Natural Gas Distribution
-AROC,"Archrock, Inc.",Public Utilities,Natural Gas Distribution
-ARTNA,Artesian Resources Corporation,Public Utilities,Water Supply
-T,AT&T Inc.,Public Utilities,Telecommunications Equipment
-ATTO,Atento S.A.,Public Utilities,Telecommunications Equipment
-ABY,Atlantica Yield plc,Public Utilities,Electric Utilities: Central
-ATO,Atmos Energy Corporation,Public Utilities,Oil/Gas Transmission
-ATNI,"ATN International, Inc.",Public Utilities,Telecommunications Equipment
-AUDC,AudioCodes Ltd.,Public Utilities,Telecommunications Equipment
-AWX,Avalon Holdings Corporation,Public Utilities,Environmental Services
-AGR,"Avangrid, Inc.",Public Utilities,Electric Utilities: Central
-AVA,Avista Corporation,Public Utilities,Power Generation
-AZRE,Azure Power Global Limited,Public Utilities,Electric Utilities: Central
-BCE,"BCE, Inc.",Public Utilities,Telecommunications Equipment
-BKH,Black Hills Corporation,Public Utilities,Electric Utilities: Central
-BKHU,Black Hills Corporation,Public Utilities,Electric Utilities: Central
-BBRY,BlackBerry Limited,Public Utilities,Telecommunications Equipment
-BWP,Boardwalk Pipeline Partners L.P.,Public Utilities,Natural Gas Distribution
-BEP,Brookfield Renewable Partners L.P.,Public Utilities,Electric Utilities: Central
-BT,BT Group plc,Public Utilities,Telecommunications Equipment
-CDZI,"Cadiz, Inc.",Public Utilities,Water Supply
-CWT,California Water  Service Group Holding,Public Utilities,Water Supply
-CPN,Calpine Corporation,Public Utilities,Electric Utilities: Central
-CWST,"Casella Waste Systems, Inc.",Public Utilities,Environmental Services
-CEL,"Cellcom Israel, Ltd.",Public Utilities,Telecommunications Equipment
-CNP,"CenterPoint Energy, Inc.",Public Utilities,Electric Utilities: Central
-EBR,Centrais Electricas Brasileiras S.A.- Eletrobras,Public Utilities,Electric Utilities: Central
-CTL,"CenturyLink, Inc.",Public Utilities,Telecommunications Equipment
-CQH,"Cheniere Energy Partners LP Holdings, LLC",Public Utilities,Oil/Gas Transmission
-CQP,"Cheniere Energy Partners, LP",Public Utilities,Oil/Gas Transmission
-LNG,"Cheniere Energy, Inc.",Public Utilities,Oil/Gas Transmission
-CPK,Chesapeake Utilities Corporation,Public Utilities,Oil & Gas Production
-CHL,China Mobile (Hong Kong) Ltd.,Public Utilities,Telecommunications Equipment
-CHA,China Telecom Corp Ltd,Public Utilities,Telecommunications Equipment
-CHU,China Unicom (Hong Kong) Ltd,Public Utilities,Telecommunications Equipment
-CHT,"Chunghwa Telecom Co., Ltd.",Public Utilities,Telecommunications Equipment
-CIEN,Ciena Corporation,Public Utilities,Telecommunications Equipment
-CBB,Cincinnati Bell Inc,Public Utilities,Telecommunications Equipment
-CLNE,Clean Energy Fuels Corp.,Public Utilities,Natural Gas Distribution
-CLFD,"Clearfield, Inc.",Public Utilities,Telecommunications Equipment
-CLRO,"ClearOne, Inc.",Public Utilities,Telecommunications Equipment
-CMS,CMS Energy Corporation,Public Utilities,Power Generation
-CMS^B,CMS Energy Corporation,Public Utilities,Power Generation
-CPPL,Columbia Pipeline Partners LP,Public Utilities,Natural Gas Distribution
-JCS,"Communications Systems, Inc.",Public Utilities,Telecommunications Equipment
-CIG,Comp En De Mn Cemig ADS,Public Utilities,Electric Utilities: Central
-SBS,Companhia de saneamento Basico Do Estado De Sao Paulo - Sabesp,Public Utilities,Water Supply
-ELP,Companhia Paranaense de Energia (COPEL),Public Utilities,Electric Utilities: Central
-CNNX,Cone Midstream Partners LP,Public Utilities,Natural Gas Distribution
-CTWS,"Connecticut Water Service, Inc.",Public Utilities,Water Supply
-CNSL,"Consolidated Communications Holdings, Inc.",Public Utilities,Telecommunications Equipment
-ED,Consolidated Edison Inc,Public Utilities,Power Generation
-CWCO,Consolidated Water Co. Ltd.,Public Utilities,Water Supply
-CPL,CPFL Energia S.A.,Public Utilities,Electric Utilities: Central
-DZSI,"DASAN Zhone Solutions, Inc.",Public Utilities,Telecommunications Equipment
-DPM,"DCP Midstream Partners, LP",Public Utilities,Natural Gas Distribution
-DGAS,"Delta Natural Gas Company, Inc.",Public Utilities,Oil & Gas Production
-DM,"Dominion Midstream Partners, LP",Public Utilities,Natural Gas Distribution
-D,"Dominion Resources, Inc.",Public Utilities,Electric Utilities: Central
-DCUC,"Dominion Resources, Inc.",Public Utilities,Electric Utilities: Central
-DCUD,"Dominion Resources, Inc.",Public Utilities,Electric Utilities: Central
-DRUA,"Dominion Resources, Inc.",Public Utilities,Electric Utilities: Central
-DRWI,DragonWave Inc,Public Utilities,Telecommunications Equipment
-DTE,DTE Energy Company,Public Utilities,Electric Utilities: Central
-DTJ,DTE Energy Company,Public Utilities,Electric Utilities: Central
-DTQ,DTE Energy Company,Public Utilities,Electric Utilities: Central
-DTV,DTE Energy Company,Public Utilities,Electric Utilities: Central
-DTZ,DTE Energy Company,Public Utilities,Electric Utilities: Central
-DUK,Duke Energy Corporation,Public Utilities,Power Generation
-DUKH,Duke Energy Corporation,Public Utilities,Power Generation
-DYN,Dynegy Inc.,Public Utilities,Electric Utilities: Central
-DYNC,Dynegy Inc.,Public Utilities,Electric Utilities: Central
-EIX,Edison International,Public Utilities,Electric Utilities: Central
-EP^C,El Paso Corporation,Public Utilities,Natural Gas Distribution
-EE,El Paso Electric Company,Public Utilities,Electric Utilities: Central
-ELLO,Ellomay Capital Ltd.,Public Utilities,Electric Utilities: Central
-EDE,Empire District Electric Company (The),Public Utilities,Electric Utilities: Central
-EDN,Empresa Distribuidora Y Comercializadora Norte S.A. (Edenor),Public Utilities,Electric Utilities: Central
-ENBL,"Enable Midstream Partners, LP",Public Utilities,Natural Gas Distribution
-EOCA,Endesa Americas S.A.,Public Utilities,Electric Utilities: Central
-ENIC,Enel Chile S.A.,Public Utilities,Electric Utilities: Central
-EOCC,Enel Generacion Chile S.A.,Public Utilities,Electric Utilities: Central
-ETE,"Energy Transfer Equity, L.P.",Public Utilities,Natural Gas Distribution
-ETP,ENERGY TRANSFER PARTNERS,Public Utilities,Natural Gas Distribution
-ENIA,Enersis Americas S.A.,Public Utilities,Electric Utilities: Central
-ENLK,"EnLink Midstream Partners, LP",Public Utilities,Natural Gas Distribution
-ENLC,"EnLink Midstream, LLC",Public Utilities,Natural Gas Distribution
-ESNC,"EnSync, Inc.",Public Utilities,Electric Utilities: Central
-EAB,"Entergy Arkansas, Inc.",Public Utilities,Electric Utilities: Central
-EAE,"Entergy Arkansas, Inc.",Public Utilities,Electric Utilities: Central
-EAI,"Entergy Arkansas, Inc.",Public Utilities,Electric Utilities: Central
-ETR,Entergy Corporation,Public Utilities,Electric Utilities: Central
-ELC,"Entergy Louisiana, Inc.",Public Utilities,Electric Utilities: Central
-ELJ,"Entergy Louisiana, Inc.",Public Utilities,Electric Utilities: Central
-ELU,"Entergy Louisiana, Inc.",Public Utilities,Electric Utilities: Central
-EMP,"Entergy Mississippi, Inc.",Public Utilities,Electric Utilities: Central
-ENJ,"Entergy New Orleans, Inc.",Public Utilities,Power Generation
-ENO,"Entergy New Orleans, Inc.",Public Utilities,Power Generation
-EZT,Entergy Texas Inc,Public Utilities,Electric Utilities: Central
-EPD,Enterprise Products Partners L.P.,Public Utilities,Natural Gas Distribution
-EQGP,"EQT GP Holdings, LP",Public Utilities,Natural Gas Distribution
-EQM,"EQT Midstream Partners, LP",Public Utilities,Natural Gas Distribution
-ES,Eversource Energy,Public Utilities,Electric Utilities: Central
-EXC,Exelon Corporation,Public Utilities,Power Generation
-EXCU,Exelon Corporation,Public Utilities,Power Generation
-FN,Fabrinet,Public Utilities,Telecommunications Equipment
-FRP,"FairPoint Communications, Inc.",Public Utilities,Telecommunications Equipment
-FE,FirstEnergy Corporation,Public Utilities,Electric Utilities: Central
-FTS,Fortis Inc.,Public Utilities,Electric Utilities: Central
-FTR,Frontier Communications Corporation,Public Utilities,Telecommunications Equipment
-FTRPR,Frontier Communications Corporation,Public Utilities,Telecommunications Equipment
-EGAS,Gas Natural Inc.,Public Utilities,Oil/Gas Transmission
-GNCMA,"General Communication, Inc.",Public Utilities,Telecommunications Equipment
-GNE,Genie Energy Ltd.,Public Utilities,Power Generation
-GPE^A,Georgia Power Company,Public Utilities,Electric Utilities: Central
-GWRS,"Global Water Resources, Inc.",Public Utilities,Water Supply
-GLOW,"Glowpoint, Inc.",Public Utilities,Telecommunications Equipment
-GXP,Great Plains Energy Inc,Public Utilities,Electric Utilities: Central
-GTT,"GTT Communications, Inc.",Public Utilities,Telecommunications Equipment
-HE,"Hawaiian Electric Industries, Inc.",Public Utilities,Electric Utilities: Central
-HNP,"Huaneng Power International, Inc.",Public Utilities,Electric Utilities: Central
-IDA,"IDACORP, Inc.",Public Utilities,Electric Utilities: Central
-IDT,IDT Corporation,Public Utilities,Telecommunications Equipment
-INFN,Infinera Corporation,Public Utilities,Telecommunications Equipment
-IQNT,"Inteliquent, Inc.",Public Utilities,Telecommunications Equipment
-IGLD,Internet Gold Golden Lines Ltd.,Public Utilities,Telecommunications Equipment
-INVT,"Inventergy Global, Inc.",Public Utilities,Telecommunications Equipment
-JE,"Just Energy Group, Inc.",Public Utilities,Oil/Gas Transmission
-KMI,"Kinder Morgan, Inc.",Public Utilities,Natural Gas Distribution
-KEP,Korea Electric Power Corporation,Public Utilities,Electric Utilities: Central
-KT,KT Corporation,Public Utilities,Telecommunications Equipment
-LVLT,"Level 3 Communications, Inc.",Public Utilities,Telecommunications Equipment
-LMOS,Lumos Networks Corp.,Public Utilities,Telecommunications Equipment
-CALL,magicJack VocalTec Ltd,Public Utilities,Telecommunications Equipment
-MTSL,MER Telemanagement Solutions Ltd.,Public Utilities,Telecommunications Equipment
-MEP,"Midcoast Energy Partners, L.P.",Public Utilities,Oil & Gas Production
-MSEX,Middlesex Water Company,Public Utilities,Water Supply
-MBT,Mobile TeleSystems OJSC,Public Utilities,Telecommunications Equipment
-NFG,National Fuel Gas Company,Public Utilities,Oil/Gas Transmission
-NGG,"National Grid Transco, PLC",Public Utilities,Natural Gas Distribution
-NTGR,"NETGEAR, Inc.",Public Utilities,Telecommunications Equipment
-NJR,NewJersey Resources Corporation,Public Utilities,Oil/Gas Transmission
-NEP,"NextEra Energy Partners, LP",Public Utilities,Electric Utilities: Central
-NEE,"NextEra Energy, Inc.",Public Utilities,Electric Utilities: Central
-NMK^B,"Niagara Mohawk Holdings, Inc.",Public Utilities,Power Generation
-NMK^C,"Niagara Mohawk Holdings, Inc.",Public Utilities,Power Generation
-NIHD,"NII Holdings, Inc.",Public Utilities,Telecommunications Equipment
-NTT,Nippon Telegraph and Telephone Corporation,Public Utilities,Telecommunications Equipment
-NI,"NiSource, Inc",Public Utilities,Power Generation
-NTL,Nortel Inversora SA,Public Utilities,Telecommunications Equipment
-NWN,Northwest Natural Gas Company,Public Utilities,Oil/Gas Transmission
-NWE,NorthWestern Corporation,Public Utilities,Power Generation
-NRG,"NRG Energy, Inc.",Public Utilities,Electric Utilities: Central
-NYLD,"NRG Yield, Inc.",Public Utilities,Electric Utilities: Central
-OPTT,"Ocean Power Technologies, Inc.",Public Utilities,Electric Utilities: Central
-OGE,OGE Energy Corporation,Public Utilities,Electric Utilities: Central
-OGS,"ONE Gas, Inc.",Public Utilities,Oil/Gas Transmission
-OHGI,"One Horizon Group, Inc.",Public Utilities,Telecommunications Equipment
-OKS,"ONEOK Partners, L.P.",Public Utilities,Natural Gas Distribution
-OKE,"ONEOK, Inc.",Public Utilities,Oil & Gas Production
-ORAN,Orange,Public Utilities,Telecommunications Equipment
-ORA,"Ormat Technologies, Inc.",Public Utilities,Electric Utilities: Central
-OTEL,Otelco Inc.,Public Utilities,Telecommunications Equipment
-OTTR,Otter Tail Corporation,Public Utilities,Electric Utilities: Central
-PCG,Pacific Gas & Electric Co.,Public Utilities,Power Generation
-PAM,Pampa Energia S.A.,Public Utilities,Electric Utilities: Central
-PTNR,Partner Communications Company Ltd.,Public Utilities,Telecommunications Equipment
-PEGI,Pattern Energy Group Inc.,Public Utilities,Electric Utilities: Central
-PDVW,"pdvWireless, Inc.",Public Utilities,Telecommunications Equipment
-PTXP,"PennTex Midstream Partners, LP",Public Utilities,Natural Gas Distribution
-PNW,Pinnacle West Capital Corporation,Public Utilities,Electric Utilities: Central
-PLT,"Plantronics, Inc.",Public Utilities,Telecommunications Equipment
-PHI,PLDT Inc.,Public Utilities,Telecommunications Equipment
-PNM,"PNM Resources, Inc. (Holding Co.)",Public Utilities,Electric Utilities: Central
-POR,Portland General Electric Company,Public Utilities,Electric Utilities: Central
-PPX,"PPL Capital Funding, Inc.",Public Utilities,Electric Utilities: Central
-PPL,PPL Corporation,Public Utilities,Electric Utilities: Central
-TLK,"PT Telekomunikasi Indonesia, Tbk",Public Utilities,Telecommunications Equipment
-PEG,Public Service Enterprise Group Incorporated,Public Utilities,Power Generation
-PCYO,Pure Cycle Corporation,Public Utilities,Water Supply
-CTAA,Qwest Corporation,Public Utilities,Telecommunications Equipment
-CTBB,Qwest Corporation,Public Utilities,Telecommunications Equipment
-CTU,Qwest Corporation,Public Utilities,Telecommunications Equipment
-CTV,Qwest Corporation,Public Utilities,Telecommunications Equipment
-CTW,Qwest Corporation,Public Utilities,Telecommunications Equipment
-CTX,Qwest Corporation,Public Utilities,Telecommunications Equipment
-CTY,Qwest Corporation,Public Utilities,Telecommunications Equipment
-CTZ,Qwest Corporation,Public Utilities,Telecommunications Equipment
-RSG,"Republic Services, Inc.",Public Utilities,Environmental Services
-RGCO,RGC Resources Inc.,Public Utilities,Oil & Gas Production
-RMP,Rice Midstream Partners LP,Public Utilities,Natural Gas Distribution
-SCG,Scana Corporation,Public Utilities,Power Generation
-SRE,Sempra Energy,Public Utilities,Natural Gas Distribution
-SHEN,Shenandoah Telecommunications Co,Public Utilities,Telecommunications Equipment
-SHOR,"ShoreTel, Inc.",Public Utilities,Telecommunications Equipment
-SJW,SJW Group,Public Utilities,Water Supply
-SKM,"SK Telecom Co., Ltd.",Public Utilities,Telecommunications Equipment
-SKYS,"Sky Solar Holdings, Ltd.",Public Utilities,Electric Utilities: Central
-SJI,"South Jersey Industries, Inc.",Public Utilities,Oil/Gas Transmission
-SXE,"Southcross Energy Partners, L.P.",Public Utilities,Natural Gas Distribution
-SO,Southern Company (The),Public Utilities,Electric Utilities: Central
-SOJA,Southern Company (The),Public Utilities,Electric Utilities: Central
-SOJB,Southern Company (The),Public Utilities,Electric Utilities: Central
-SWX,Southwest Gas Corporation,Public Utilities,Oil & Gas Production
-SPKE,"Spark Energy, Inc.",Public Utilities,Power Generation
-SE,Spectra Energy Corp,Public Utilities,Oil & Gas Production
-SEP,"Spectra Energy Partners, LP",Public Utilities,Natural Gas Distribution
-SR,Spire Inc.,Public Utilities,Oil/Gas Transmission
-SPOK,"Spok Holdings, Inc.",Public Utilities,Telecommunications Equipment
-S,Sprint Corporation,Public Utilities,Telecommunications Equipment
-STRP,Straight Path Communications Inc.,Public Utilities,Telecommunications Equipment
-SMLP,"Summit Midstream Partners, LP",Public Utilities,Natural Gas Distribution
-SUNW,"Sunworks, Inc.",Public Utilities,Telecommunications Equipment
-TLN,Talen Energy Corporation,Public Utilities,Electric Utilities: Central
-TEGP,"Tallgrass Energy GP, LP",Public Utilities,Natural Gas Distribution
-TEP,"Tallgrass Energy Partners, LP",Public Utilities,Natural Gas Distribution
-TRGP,"Targa Resources, Inc.",Public Utilities,Natural Gas Distribution
-TCP,"TC PipeLines, LP",Public Utilities,Natural Gas Distribution
-TEO,Telecom Argentina Stet - France Telecom S.A.,Public Utilities,Telecommunications Equipment
-VIV,Telefonica Brasil S.A.,Public Utilities,Telecommunications Equipment
-TEF,Telefonica SA,Public Utilities,Telecommunications Equipment
-TDA,"Telephone and Data Systems, Inc.",Public Utilities,Telecommunications Equipment
-TDE,"Telephone and Data Systems, Inc.",Public Utilities,Telecommunications Equipment
-TDI,"Telephone and Data Systems, Inc.",Public Utilities,Telecommunications Equipment
-TDJ,"Telephone and Data Systems, Inc.",Public Utilities,Telecommunications Equipment
-TDS,"Telephone and Data Systems, Inc.",Public Utilities,Telecommunications Equipment
-TU,TELUS Corporation,Public Utilities,Telecommunications Equipment
-TVC,Tennessee Valley Authority,Public Utilities,Electric Utilities: Central
-TVE,Tennessee Valley Authority,Public Utilities,Electric Utilities: Central
-GLBL,"TerraForm Global, Inc.",Public Utilities,Electric Utilities: Central
-TERP,"TerraForm Power, Inc.",Public Utilities,Electric Utilities: Central
-YORW,The York Water Company,Public Utilities,Water Supply
-TSU,TIM Participacoes S.A.,Public Utilities,Telecommunications Equipment
-TMUS,"T-Mobile US, Inc.",Public Utilities,Telecommunications Equipment
-TMUSP,"T-Mobile US, Inc.",Public Utilities,Telecommunications Equipment
-TAC,TransAlta Corporation,Public Utilities,Electric Utilities: Central
-TRP,TransCanada Corporation,Public Utilities,Natural Gas Distribution
-TGS,Transportadora De Gas Sa Ord B,Public Utilities,Natural Gas Distribution
-TKC,Turkcell Iletisim Hizmetleri AS,Public Utilities,Telecommunications Equipment
-HTM,U.S. Geothermal Inc.,Public Utilities,Electric Utilities: Central
-UGI,UGI Corporation,Public Utilities,Natural Gas Distribution
-UGP,Ultrapar Participacoes S.A.,Public Utilities,Oil/Gas Transmission
-USM,United States Cellular Corporation,Public Utilities,Telecommunications Equipment
-UZA,United States Cellular Corporation,Public Utilities,Telecommunications Equipment
-UZB,United States Cellular Corporation,Public Utilities,Telecommunications Equipment
-UZC,United States Cellular Corporation,Public Utilities,Telecommunications Equipment
-UTL,UNITIL Corporation,Public Utilities,Power Generation
-ECOL,"US Ecology, Inc.",Public Utilities,Environmental Services
-USAC,"USA Compression Partners, LP",Public Utilities,Natural Gas Distribution
-VVC,Vectren Corporation,Public Utilities,Natural Gas Distribution
-VZ,Verizon Communications Inc.,Public Utilities,Telecommunications Equipment
-VZA,Verizon Communications Inc.,Public Utilities,Telecommunications Equipment
-VIP,VimpelCom Ltd.,Public Utilities,Telecommunications Equipment
-VOD,Vodafone Group Plc,Public Utilities,Telecommunications Equipment
-VG,Vonage Holdings Corp.,Public Utilities,Telecommunications Equipment
-WCN,"Waste Connections, Inc.",Public Utilities,Environmental Services
-WM,"Waste Management, Inc.",Public Utilities,Environmental Services
-WEC,"WEC Energy Group, Inc.",Public Utilities,Power Generation
-WR,"Westar Energy, Inc.",Public Utilities,Power Generation
-WSTL,"Westell Technologies, Inc.",Public Utilities,Telecommunications Equipment
-WGP,"Western Gas Equity Partners, LP",Public Utilities,Natural Gas Distribution
-WES,"Western Gas Partners, LP",Public Utilities,Natural Gas Distribution
-WGL,WGL Holdings Inc,Public Utilities,Oil/Gas Transmission
-WMB,"Williams Companies, Inc. (The)",Public Utilities,Natural Gas Distribution
-WPZ,Williams Partners LP,Public Utilities,Natural Gas Distribution
-WIN,"Windstream Holdings, Inc.",Public Utilities,Telecommunications Equipment
-XEL,Xcel Energy Inc.,Public Utilities,Power Generation
-ZAYO,"Zayo Group Holdings, Inc.",Public Utilities,Telecommunications Equipment
+"Symbol","Name","LastSale","MarketCap","ADR TSO","IPOyear","Sector","Industry","Summary Quote",
+"CAFD","8point3 Energy Partners LP","14.42","1140348481.44","n/a","2015","Public Utilities","Electric Utilities: Central","http://www.nasdaq.com/symbol/cafd",
+"EGHT","8x8 Inc","13.8","1266339129","n/a","n/a","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/eght",
+"ADTN","ADTRAN, Inc.","23.3","1125943468.2","n/a","1994","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/adtn",
+"ADSW","Advanced Disposal Services, Inc.","23.45","2069820112.5","n/a","2016","Public Utilities","Environmental Services","http://www.nasdaq.com/symbol/adsw",
+"AKTS","Akoustis Technologies, Inc.","7.18","136958808.74","n/a","n/a","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/akts",
+"ALP^O","Alabama Power Company","27.39","0","n/a","n/a","Public Utilities","Electric Utilities: Central","http://www.nasdaq.com/symbol/alp^o",
+"ALSK","Alaska Communications Systems Group, Inc.","2.4","125618726.4","n/a","1999","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/alsk",
+"AQN","Algonquin Power & Utilities Corp.","10.6864","4087211282.2224","n/a","2016","Public Utilities","Electric Utilities: Central","http://www.nasdaq.com/symbol/aqn",
+"ALE","Allete, Inc.","73.45","3737365384.35","n/a","n/a","Public Utilities","Power Generation","http://www.nasdaq.com/symbol/ale",
+"LNT","Alliant Energy Corporation","41.38","9427327243.64","n/a","n/a","Public Utilities","Power Generation","http://www.nasdaq.com/symbol/lnt",
+"AEE","Ameren Corporation","56.53","13716145130.94","n/a","n/a","Public Utilities","Power Generation","http://www.nasdaq.com/symbol/aee",
+"AMOV","America Movil, S.A.B. de C.V.","17.3886","57387364042.2522","n/a","n/a","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/amov",
+"AMX","America Movil, S.A.B. de C.V.","17.46","57623004507.42","n/a","n/a","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/amx",
+"AEP","American Electric Power Company, Inc.","69.98","34410010728.58","n/a","n/a","Public Utilities","Electric Utilities: Central","http://www.nasdaq.com/symbol/aep",
+"AMID","American Midstream Partners, LP","13.5","698368014","n/a","2011","Public Utilities","Natural Gas Distribution","http://www.nasdaq.com/symbol/amid",
+"AWR","American States Water Company","49.69","1819458580.48","n/a","n/a","Public Utilities","Water Supply","http://www.nasdaq.com/symbol/awr",
+"AWK","American Water Works","81.92","14597417041.92","n/a","2008","Public Utilities","Water Supply","http://www.nasdaq.com/symbol/awk",
+"AMGP","Antero Midstream GP LP","21.12","3931914898.56","n/a","2017","Public Utilities","Natural Gas Distribution","http://www.nasdaq.com/symbol/amgp",
+"AM","Antero Midstream Partners LP","34.26","6366946714.44","n/a","2014","Public Utilities","Natural Gas Distribution","http://www.nasdaq.com/symbol/am",
+"WTR","Aqua America, Inc.","33.68","5981623841.44","n/a","n/a","Public Utilities","Water Supply","http://www.nasdaq.com/symbol/wtr",
+"WAAS","AquaVenture Holdings Limited","15.69","414349804.32","n/a","2016","Public Utilities","Water Supply","http://www.nasdaq.com/symbol/waas",
+"APLP","Archrock Partners, L.P.","14.42","945592768.96","n/a","n/a","Public Utilities","Natural Gas Distribution","http://www.nasdaq.com/symbol/aplp",
+"AROC","Archrock, Inc.","11.4","809166756","n/a","n/a","Public Utilities","Natural Gas Distribution","http://www.nasdaq.com/symbol/aroc",
+"ARTNA","Artesian Resources Corporation","38.96","356321419.92","n/a","n/a","Public Utilities","Water Supply","http://www.nasdaq.com/symbol/artna",
+"T","AT&T Inc.","36.51","224463480000","n/a","n/a","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/t",
+"ATTO","Atento S.A.","11.9","879517766.4","n/a","2014","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/atto",
+"ABY","Atlantica Yield plc","20.81","2085521180.6","n/a","2014","Public Utilities","Electric Utilities: Central","http://www.nasdaq.com/symbol/aby",
+"ATO","Atmos Energy Corporation","86.22","9077962312.98","n/a","n/a","Public Utilities","Oil/Gas Transmission","http://www.nasdaq.com/symbol/ato",
+"ATNI","ATN International, Inc.","66.5","1076721250.5","n/a","n/a","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/atni",
+"AUDC","AudioCodes Ltd.","6.39","207108181.44","n/a","1999","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/audc",
+"AWX","Avalon Holdings Corporation","2.409","9162224.379","n/a","n/a","Public Utilities","Environmental Services","http://www.nasdaq.com/symbol/awx",
+"AGR","Avangrid, Inc.","45.18","13963750567.38","n/a","2015","Public Utilities","Electric Utilities: Central","http://www.nasdaq.com/symbol/agr",
+"AVA","Avista Corporation","52.29","3366853487.55","n/a","n/a","Public Utilities","Power Generation","http://www.nasdaq.com/symbol/ava",
+"AZRE","Azure Power Global Limited","16.4","425021678.4","n/a","2016","Public Utilities","Electric Utilities: Central","http://www.nasdaq.com/symbol/azre",
+"BCE","BCE, Inc.","46.67","42018800548.53","n/a","n/a","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/bce",
+"BKH","Black Hills Corporation","70.47","3767454807.75","n/a","n/a","Public Utilities","Electric Utilities: Central","http://www.nasdaq.com/symbol/bkh",
+"BKHU","Black Hills Corporation","76.03","0","n/a","2015","Public Utilities","Electric Utilities: Central","http://www.nasdaq.com/symbol/bkhu",
+"BBRY","BlackBerry Limited","10.04","5338697250.16","n/a","n/a","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/bbry",
+"BWP","Boardwalk Pipeline Partners L.P.","17.34","4340146199.88","n/a","2005","Public Utilities","Natural Gas Distribution","http://www.nasdaq.com/symbol/bwp",
+"BEP","Brookfield Renewable Partners L.P.","33.49","6036335692.21","n/a","n/a","Public Utilities","Electric Utilities: Central","http://www.nasdaq.com/symbol/bep",
+"BT","BT Group plc","20.23","40331044593.28","n/a","n/a","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/bt",
+"CDZI","Cadiz, Inc.","12.7","282672104.2","n/a","n/a","Public Utilities","Water Supply","http://www.nasdaq.com/symbol/cdzi",
+"CWT","California Water  Service Group Holding","39.5","1896857308","n/a","n/a","Public Utilities","Water Supply","http://www.nasdaq.com/symbol/cwt",
+"CPN","Calpine Corporation","13.72","4950085777.28","n/a","n/a","Public Utilities","Electric Utilities: Central","http://www.nasdaq.com/symbol/cpn",
+"CWST","Casella Waste Systems, Inc.","16.51","691440896.77","n/a","1997","Public Utilities","Environmental Services","http://www.nasdaq.com/symbol/cwst",
+"CEL","Cellcom Israel, Ltd.","9.61","966825610.83","n/a","2007","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/cel",
+"CNP","CenterPoint Energy, Inc.","28.15","12131656924.3","n/a","n/a","Public Utilities","Electric Utilities: Central","http://www.nasdaq.com/symbol/cnp",
+"EBR","Centrais Electricas Brasileiras S.A.- Eletrobras","4.46","6032748086","n/a","2016","Public Utilities","Electric Utilities: Central","http://www.nasdaq.com/symbol/ebr",
+"CTL","CenturyLink, Inc.","23.37","12825737912.31","n/a","n/a","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/ctl",
+"CQH","Cheniere Energy Partners LP Holdings, LLC","26.03","6031151000","n/a","2013","Public Utilities","Oil/Gas Transmission","http://www.nasdaq.com/symbol/cqh",
+"CQP","Cheniere Energy Partners, LP","30.86","10425322333.68","n/a","2007","Public Utilities","Oil/Gas Transmission","http://www.nasdaq.com/symbol/cqp",
+"LNG","Cheniere Energy, Inc.","45.15","10740353878.8","n/a","n/a","Public Utilities","Oil/Gas Transmission","http://www.nasdaq.com/symbol/lng",
+"CPK","Chesapeake Utilities Corporation","77.35","1263516272.2","n/a","n/a","Public Utilities","Oil & Gas Production","http://www.nasdaq.com/symbol/cpk",
+"CHL","China Mobile (Hong Kong) Ltd.","54.16","221790430718.64","n/a","n/a","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/chl",
+"CHA","China Telecom Corp Ltd","48.34","39122706836.22","n/a","2002","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/cha",
+"CHU","China Unicom (Hong Kong) Ltd","14.87","35609309565.96","n/a","n/a","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/chu",
+"CHT","Chunghwa Telecom Co., Ltd.","34.42","26701130990.68","n/a","n/a","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/cht",
+"CIEN","Ciena Corporation","26.1","3723687626.4","n/a","1997","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/cien",
+"CBB","Cincinnati Bell Inc","18.55","782325325.6","n/a","n/a","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/cbb",
+"CLNE","Clean Energy Fuels Corp.","2.82","424399856.46","n/a","2007","Public Utilities","Natural Gas Distribution","http://www.nasdaq.com/symbol/clne",
+"CLFD","Clearfield, Inc.","13.4","188861100.8","n/a","n/a","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/clfd",
+"CLRO","ClearOne, Inc.","9.7","84432777","n/a","n/a","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/clro",
+"CMS","CMS Energy Corporation","46.75","13111196870.75","n/a","n/a","Public Utilities","Power Generation","http://www.nasdaq.com/symbol/cms",
+"CMS^B","CMS Energy Corporation","104.5","0","n/a","n/a","Public Utilities","Power Generation","http://www.nasdaq.com/symbol/cms^b",
+"JCS","Communications Systems, Inc.","4.48","40064648.96","n/a","n/a","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/jcs",
+"CIG","Comp En De Mn Cemig ADS","2.75","3461814548.5","n/a","n/a","Public Utilities","Electric Utilities: Central","http://www.nasdaq.com/symbol/cig",
+"SBS","Companhia de saneamento Basico Do Estado De Sao Paulo - Sabesp","11.18","7641640335.42","n/a","2002","Public Utilities","Water Supply","http://www.nasdaq.com/symbol/sbs",
+"ELP","Companhia Paranaense de Energia (COPEL)","8.38","2293228900","n/a","n/a","Public Utilities","Electric Utilities: Central","http://www.nasdaq.com/symbol/elp",
+"CNNX","Cone Midstream Partners LP","19.9","1265348126.7","n/a","2014","Public Utilities","Natural Gas Distribution","http://www.nasdaq.com/symbol/cnnx",
+"CTWS","Connecticut Water Service, Inc.","58.13","640237774.48","n/a","n/a","Public Utilities","Water Supply","http://www.nasdaq.com/symbol/ctws",
+"CNSL","Consolidated Communications Holdings, Inc.","18.5","938566290.5","n/a","2005","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/cnsl",
+"ED","Consolidated Edison Inc","82.93","25325155189.93","n/a","n/a","Public Utilities","Power Generation","http://www.nasdaq.com/symbol/ed",
+"CWCO","Consolidated Water Co. Ltd.","12.9","192079258.5","n/a","n/a","Public Utilities","Water Supply","http://www.nasdaq.com/symbol/cwco",
+"CPL","CPFL Energia S.A.","17.04","8672633635.92","n/a","2004","Public Utilities","Electric Utilities: Central","http://www.nasdaq.com/symbol/cpl",
+"DZSI","DASAN Zhone Solutions, Inc.","7","22928752","n/a","n/a","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/dzsi",
+"DCP","DCP Midstream LP","34.55","4951095432.4","n/a","n/a","Public Utilities","Natural Gas Distribution","http://www.nasdaq.com/symbol/dcp",
+"DGAS","Delta Natural Gas Company, Inc.","30.62","218273782.02","n/a","1981","Public Utilities","Oil & Gas Production","http://www.nasdaq.com/symbol/dgas",
+"DM","Dominion Energy Midstream Partners, LP","27.6","2738528745.6","n/a","2014","Public Utilities","Natural Gas Distribution","http://www.nasdaq.com/symbol/dm",
+"D","Dominion Energy, Inc.","77.57","48790424937.78","n/a","n/a","Public Utilities","Electric Utilities: Central","http://www.nasdaq.com/symbol/d",
+"DCUD","Dominion Energy, Inc.","51.19","0","n/a","2016","Public Utilities","Electric Utilities: Central","http://www.nasdaq.com/symbol/dcud",
+"DRUA","Dominion Energy, Inc.","25.72","0","n/a","2016","Public Utilities","Electric Utilities: Central","http://www.nasdaq.com/symbol/drua",
+"DRWI","DragonWave Inc","0.89","7569343.2","n/a","2009","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/drwi",
+"DTE","DTE Energy Company","107.94","19363078546.56","n/a","n/a","Public Utilities","Electric Utilities: Central","http://www.nasdaq.com/symbol/dte",
+"DTJ","DTE Energy Company","25.75","0","n/a","2016","Public Utilities","Electric Utilities: Central","http://www.nasdaq.com/symbol/dtj",
+"DTQ","DTE Energy Company","25.38","0","n/a","n/a","Public Utilities","Electric Utilities: Central","http://www.nasdaq.com/symbol/dtq",
+"DTV","DTE Energy Company","54.95","0","n/a","2016","Public Utilities","Electric Utilities: Central","http://www.nasdaq.com/symbol/dtv",
+"DTY","DTE Energy Company","27.55","0","n/a","2016","Public Utilities","Electric Utilities: Central","http://www.nasdaq.com/symbol/dty",
+"DUK","Duke Energy Corporation","85.2","59630076585.6","n/a","n/a","Public Utilities","Power Generation","http://www.nasdaq.com/symbol/duk",
+"DUKH","Duke Energy Corporation","25.55","0","n/a","n/a","Public Utilities","Power Generation","http://www.nasdaq.com/symbol/dukh",
+"DYN","Dynegy Inc.","8.83","1159781021.07","n/a","n/a","Public Utilities","Electric Utilities: Central","http://www.nasdaq.com/symbol/dyn",
+"DYNC","Dynegy Inc.","65","0","n/a","2016","Public Utilities","Electric Utilities: Central","http://www.nasdaq.com/symbol/dync",
+"EIX","Edison International","78.98","25732569049.88","n/a","n/a","Public Utilities","Electric Utilities: Central","http://www.nasdaq.com/symbol/eix",
+"EP^C","El Paso Corporation","49.9599","0","n/a","n/a","Public Utilities","Natural Gas Distribution","http://www.nasdaq.com/symbol/ep^c",
+"EE","El Paso Electric Company","53","2149562446","n/a","n/a","Public Utilities","Electric Utilities: Central","http://www.nasdaq.com/symbol/ee",
+"ELLO","Ellomay Capital Ltd.","8.8","93960856","n/a","n/a","Public Utilities","Electric Utilities: Central","http://www.nasdaq.com/symbol/ello",
+"EDN","Empresa Distribuidora Y Comercializadora Norte S.A. (Edenor)","31.16","1412257045.8","n/a","2007","Public Utilities","Electric Utilities: Central","http://www.nasdaq.com/symbol/edn",
+"ENBL","Enable Midstream Partners, LP","15.1","6529063284.7","n/a","2014","Public Utilities","Natural Gas Distribution","http://www.nasdaq.com/symbol/enbl",
+"ENIA","Enel Americas S.A.","10.45","12007602073.5","n/a","n/a","Public Utilities","Electric Utilities: Central","http://www.nasdaq.com/symbol/enia",
+"ENIC","Enel Chile S.A.","5.68","5576938984.4","n/a","2016","Public Utilities","Electric Utilities: Central","http://www.nasdaq.com/symbol/enic",
+"EOCC","Enel Generacion Chile S.A.","24.29","6640687283.51","n/a","n/a","Public Utilities","Electric Utilities: Central","http://www.nasdaq.com/symbol/eocc",
+"ETE","Energy Transfer Equity, L.P.","17.66","19058407629.8","n/a","2006","Public Utilities","Natural Gas Distribution","http://www.nasdaq.com/symbol/ete",
+"ENLK","EnLink Midstream Partners, LP","16.98","5882756776.86","n/a","n/a","Public Utilities","Natural Gas Distribution","http://www.nasdaq.com/symbol/enlk",
+"ENLC","EnLink Midstream, LLC","17.7","3195871183.8","n/a","n/a","Public Utilities","Natural Gas Distribution","http://www.nasdaq.com/symbol/enlc",
+"ESNC","EnSync, Inc.","0.39","18724035.33","n/a","n/a","Public Utilities","Electric Utilities: Central","http://www.nasdaq.com/symbol/esnc",
+"EAB","Entergy Arkansas, Inc.","25.22","0","n/a","n/a","Public Utilities","Electric Utilities: Central","http://www.nasdaq.com/symbol/eab",
+"EAE","Entergy Arkansas, Inc.","24.9128","0","n/a","2013","Public Utilities","Electric Utilities: Central","http://www.nasdaq.com/symbol/eae",
+"EAI","Entergy Arkansas, Inc.","24.69","0","n/a","2016","Public Utilities","Electric Utilities: Central","http://www.nasdaq.com/symbol/eai",
+"ETR","Entergy Corporation","77.18","13851177930.46","n/a","n/a","Public Utilities","Electric Utilities: Central","http://www.nasdaq.com/symbol/etr",
+"ELC","Entergy Louisiana, Inc.","24.8","0","n/a","2016","Public Utilities","Electric Utilities: Central","http://www.nasdaq.com/symbol/elc",
+"ELJ","Entergy Louisiana, Inc.","25.49","0","n/a","n/a","Public Utilities","Electric Utilities: Central","http://www.nasdaq.com/symbol/elj",
+"ELU","Entergy Louisiana, Inc.","24.8229","0","n/a","n/a","Public Utilities","Electric Utilities: Central","http://www.nasdaq.com/symbol/elu",
+"EMP","Entergy Mississippi, Inc.","24.79","0","n/a","2016","Public Utilities","Electric Utilities: Central","http://www.nasdaq.com/symbol/emp",
+"ENJ","Entergy New Orleans, Inc.","25.1","0","n/a","n/a","Public Utilities","Power Generation","http://www.nasdaq.com/symbol/enj",
+"ENO","Entergy New Orleans, Inc.","26.09","0","n/a","2016","Public Utilities","Power Generation","http://www.nasdaq.com/symbol/eno",
+"EZT","Entergy Texas Inc","27.16","0","n/a","2014","Public Utilities","Electric Utilities: Central","http://www.nasdaq.com/symbol/ezt",
+"EPD","Enterprise Products Partners L.P.","27.32","58508205824.76","n/a","n/a","Public Utilities","Natural Gas Distribution","http://www.nasdaq.com/symbol/epd",
+"EQGP","EQT GP Holdings, LP","28.38","7553762700","n/a","2015","Public Utilities","Natural Gas Distribution","http://www.nasdaq.com/symbol/eqgp",
+"EQM","EQT Midstream Partners, LP","76.55","6168533574.9","n/a","2012","Public Utilities","Natural Gas Distribution","http://www.nasdaq.com/symbol/eqm",
+"ES","Eversource Energy","61.54","19501152624.32","n/a","n/a","Public Utilities","Electric Utilities: Central","http://www.nasdaq.com/symbol/es",
+"EXC","Exelon Corporation","37.48","34710102816.8","n/a","n/a","Public Utilities","Power Generation","http://www.nasdaq.com/symbol/exc",
+"FN","Fabrinet","45.71","1706323262.91","n/a","2010","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/fn",
+"FE","FirstEnergy Corporation","31.74","14084308044.36","n/a","n/a","Public Utilities","Electric Utilities: Central","http://www.nasdaq.com/symbol/fe",
+"FTS","Fortis Inc.","35.73","14931042555.06","n/a","2016","Public Utilities","Electric Utilities: Central","http://www.nasdaq.com/symbol/fts",
+"FTR","Frontier Communications Corporation","14.85","5183526.15","n/a","n/a","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/ftr",
+"FTRPR","Frontier Communications Corporation","25.29","0","n/a","n/a","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/ftrpr",
+"EGAS","Gas Natural Inc.","13.05","137282450.4","n/a","n/a","Public Utilities","Oil/Gas Transmission","http://www.nasdaq.com/symbol/egas",
+"GNCMA","General Communication, Inc.","39.69","1430268840","n/a","n/a","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/gncma",
+"GNE","Genie Energy Ltd.","6.85","169030647.95","n/a","2011","Public Utilities","Power Generation","http://www.nasdaq.com/symbol/gne",
+"GPE^A","Georgia Power Company","28.2879","0","n/a","n/a","Public Utilities","Electric Utilities: Central","http://www.nasdaq.com/symbol/gpe^a",
+"GWRS","Global Water Resources, Inc.","9.43","184651338.38","n/a","2016","Public Utilities","Water Supply","http://www.nasdaq.com/symbol/gwrs",
+"GLOW","Glowpoint, Inc.","0.2781","10160383.5","n/a","n/a","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/glow",
+"GXP","Great Plains Energy Inc","30.51","6579483147.54","n/a","n/a","Public Utilities","Electric Utilities: Central","http://www.nasdaq.com/symbol/gxp",
+"GTT","GTT Communications, Inc.","30.05","1239932806.15","n/a","n/a","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/gtt",
+"HRMN","Harmony Merger Corp.","10.38","151438127.7","n/a","2015","Public Utilities","Oil & Gas Production","http://www.nasdaq.com/symbol/hrmn",
+"HRMNU","Harmony Merger Corp.","10.85","0","n/a","2015","Public Utilities","Oil & Gas Production","http://www.nasdaq.com/symbol/hrmnu",
+"HRMNW","Harmony Merger Corp.","1","0","n/a","2015","Public Utilities","Oil & Gas Production","http://www.nasdaq.com/symbol/hrmnw",
+"HE","Hawaiian Electric Industries, Inc.","32.76","3562664905.8","n/a","n/a","Public Utilities","Electric Utilities: Central","http://www.nasdaq.com/symbol/he",
+"HNP","Huaneng Power International, Inc.","28.69","10902475022.34","n/a","1994","Public Utilities","Electric Utilities: Central","http://www.nasdaq.com/symbol/hnp",
+"IDA","IDACORP, Inc.","87.84","4426317331.2","n/a","n/a","Public Utilities","Electric Utilities: Central","http://www.nasdaq.com/symbol/ida",
+"IDT","IDT Corporation","15.16","376528146.84","n/a","n/a","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/idt",
+"INFN","Infinera Corporation","12.33","1806878062.89","n/a","2007","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/infn",
+"IGLD","Internet Gold Golden Lines Ltd.","6.68","128277282.48","n/a","1999","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/igld",
+"JE","Just Energy Group, Inc.","5.3","778374806.3","n/a","n/a","Public Utilities","Oil/Gas Transmission","http://www.nasdaq.com/symbol/je",
+"KMI","Kinder Morgan, Inc.","20.69","46189233173.24","n/a","2011","Public Utilities","Natural Gas Distribution","http://www.nasdaq.com/symbol/kmi",
+"KEP","Korea Electric Power Corporation","20.19","25922509429.26","n/a","1994","Public Utilities","Electric Utilities: Central","http://www.nasdaq.com/symbol/kep",
+"KT","KT Corporation","17.84","8740588222.24","n/a","n/a","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/kt",
+"LVLT","Level 3 Communications, Inc.","58.66","21198983065.54","n/a","2011","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/lvlt",
+"LMOS","Lumos Networks Corp.","17.91","428838114.6","n/a","n/a","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/lmos",
+"CALL","magicJack VocalTec Ltd","7.25","116698784","n/a","n/a","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/call",
+"MTSL","MER Telemanagement Solutions Ltd.","0.5285","4626571.9745","n/a","1997","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/mtsl",
+"MSEX","Middlesex Water Company","40.71","663725296.11","n/a","n/a","Public Utilities","Water Supply","http://www.nasdaq.com/symbol/msex",
+"MBT","Mobile TeleSystems OJSC","8.4","8210320742.4","n/a","n/a","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/mbt",
+"NFG","National Fuel Gas Company","58.85","5026793804.45","n/a","n/a","Public Utilities","Oil/Gas Transmission","http://www.nasdaq.com/symbol/nfg",
+"NGG","National Grid Transco, PLC","62.92","45265091082.64","n/a","n/a","Public Utilities","Natural Gas Distribution","http://www.nasdaq.com/symbol/ngg",
+"NTGR","NETGEAR, Inc.","44.1","1431219988.8","n/a","2003","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/ntgr",
+"NJR","NewJersey Resources Corporation","41.15","3556960611.55","n/a","n/a","Public Utilities","Oil/Gas Transmission","http://www.nasdaq.com/symbol/njr",
+"NEP","NextEra Energy Partners, LP","38.35","2080525658.25","n/a","2014","Public Utilities","Electric Utilities: Central","http://www.nasdaq.com/symbol/nep",
+"NEE","NextEra Energy, Inc.","144.37","23091187320.63","n/a","n/a","Public Utilities","Electric Utilities: Central","http://www.nasdaq.com/symbol/nee",
+"NMK^B","Niagara Mohawk Holdings, Inc.","96.75","0","n/a","n/a","Public Utilities","Power Generation","http://www.nasdaq.com/symbol/nmk^b",
+"NMK^C","Niagara Mohawk Holdings, Inc.","99.5","0","n/a","n/a","Public Utilities","Power Generation","http://www.nasdaq.com/symbol/nmk^c",
+"NIHD","NII Holdings, Inc.","0.5931","59645718.324","n/a","n/a","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/nihd",
+"NI","NiSource, Inc","25.98","8416440193.26","n/a","n/a","Public Utilities","Power Generation","http://www.nasdaq.com/symbol/ni",
+"NTL","Nortel Inversora SA","32.6","4434157460","n/a","1997","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/ntl",
+"NWN","Northwest Natural Gas Company","62.7","1795999302.9","n/a","n/a","Public Utilities","Oil/Gas Transmission","http://www.nasdaq.com/symbol/nwn",
+"NWE","NorthWestern Corporation","61.77","2992452468.06","n/a","n/a","Public Utilities","Power Generation","http://www.nasdaq.com/symbol/nwe",
+"NRG","NRG Energy, Inc.","24.49","7740853592.29","n/a","n/a","Public Utilities","Electric Utilities: Central","http://www.nasdaq.com/symbol/nrg",
+"NYLD","NRG Yield, Inc.","18.45","3381471369.45","n/a","2015","Public Utilities","Electric Utilities: Central","http://www.nasdaq.com/symbol/nyld",
+"OPTT","Ocean Power Technologies, Inc.","1.24","15590848.6","n/a","2007","Public Utilities","Electric Utilities: Central","http://www.nasdaq.com/symbol/optt",
+"OGE","OGE Energy Corporation","35.42","7073519186.58","n/a","n/a","Public Utilities","Electric Utilities: Central","http://www.nasdaq.com/symbol/oge",
+"OGS","ONE Gas, Inc.","72.21","3786356623.5","n/a","2014","Public Utilities","Oil/Gas Transmission","http://www.nasdaq.com/symbol/ogs",
+"OHGI","One Horizon Group, Inc.","0.7566","4706424.2472","n/a","n/a","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/ohgi",
+"OKE","ONEOK, Inc.","54.45","20687058854.55","n/a","n/a","Public Utilities","Oil & Gas Production","http://www.nasdaq.com/symbol/oke",
+"ORAN","Orange","16.68","44369370055.68","n/a","n/a","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/oran",
+"ORA","Ormat Technologies, Inc.","58.79","2922242195.5","n/a","2004","Public Utilities","Electric Utilities: Central","http://www.nasdaq.com/symbol/ora",
+"OTEL","Otelco Inc.","7.65","25602170.85","n/a","n/a","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/otel",
+"OTTR","Otter Tail Corporation","40.65","1605818860.35","n/a","n/a","Public Utilities","Electric Utilities: Central","http://www.nasdaq.com/symbol/ottr",
+"PCG","Pacific Gas & Electric Co.","68.26","34880924369.18","n/a","n/a","Public Utilities","Power Generation","http://www.nasdaq.com/symbol/pcg",
+"PAM","Pampa Energia S.A.","55.87","4104200534.49","n/a","n/a","Public Utilities","Electric Utilities: Central","http://www.nasdaq.com/symbol/pam",
+"PTNR","Partner Communications Company Ltd.","5.0075","28733140.1575","5738021","n/a","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/ptnr",
+"PEGI","Pattern Energy Group Inc.","24.75","2171885809.5","n/a","2013","Public Utilities","Electric Utilities: Central","http://www.nasdaq.com/symbol/pegi",
+"PDVW","pdvWireless, Inc.","24.15","348157484.85","n/a","2015","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/pdvw",
+"PNW","Pinnacle West Capital Corporation","87.23","9731416047.21","n/a","n/a","Public Utilities","Electric Utilities: Central","http://www.nasdaq.com/symbol/pnw",
+"PLT","Plantronics, Inc.","53.32","1801784641.2","n/a","1994","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/plt",
+"PHI","PLDT Inc.","33.31","7196817865.25","n/a","n/a","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/phi",
+"PNM","PNM Resources, Inc. (Holding Co.)","39.2","3122422060.8","n/a","n/a","Public Utilities","Electric Utilities: Central","http://www.nasdaq.com/symbol/pnm",
+"POR","Portland General Electric Company","46.35","4128303793.05","n/a","n/a","Public Utilities","Electric Utilities: Central","http://www.nasdaq.com/symbol/por",
+"PPX","PPL Capital Funding, Inc.","26.25","0","n/a","n/a","Public Utilities","Electric Utilities: Central","http://www.nasdaq.com/symbol/ppx",
+"PPL","PPL Corporation","38.55","26336387691.9","n/a","n/a","Public Utilities","Electric Utilities: Central","http://www.nasdaq.com/symbol/ppl",
+"TLK","PT Telekomunikasi Indonesia, Tbk","34.2","33879278077.2","n/a","n/a","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/tlk",
+"PEG","Public Service Enterprise Group Incorporated","44.72","22622901054","n/a","n/a","Public Utilities","Power Generation","http://www.nasdaq.com/symbol/peg",
+"PCYO","Pure Cycle Corporation","7.25","172217210.5","n/a","n/a","Public Utilities","Water Supply","http://www.nasdaq.com/symbol/pcyo",
+"CTAA","Qwest Corporation","27.12","0","n/a","2016","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/ctaa",
+"CTBB","Qwest Corporation","25.28","0","n/a","2016","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/ctbb",
+"CTDD","Qwest Corporation","25.39","0","n/a","2017","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/ctdd",
+"CTU","Qwest Corporation","25.46","0","n/a","n/a","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/ctu",
+"CTV","Qwest Corporation","25.76","0","n/a","2014","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/ctv",
+"CTW","Qwest Corporation","25.55","0","n/a","n/a","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/ctw",
+"CTX","Qwest Corporation","25.76","3228233205.12","n/a","n/a","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/ctx",
+"CTY","Qwest Corporation","25.14","0","n/a","2013","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/cty",
+"CTZ","Qwest Corporation","25.7","0","n/a","n/a","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/ctz",
+"RSG","Republic Services, Inc.","64.9","21941502135.3","n/a","1998","Public Utilities","Environmental Services","http://www.nasdaq.com/symbol/rsg",
+"RGCO","RGC Resources Inc.","28.63","206860768.45","n/a","n/a","Public Utilities","Oil & Gas Production","http://www.nasdaq.com/symbol/rgco",
+"RMP","Rice Midstream Partners LP","20.53","2099659680.68","n/a","2014","Public Utilities","Natural Gas Distribution","http://www.nasdaq.com/symbol/rmp",
+"SCG","Scana Corporation","65.61","9376778924.37","n/a","n/a","Public Utilities","Power Generation","http://www.nasdaq.com/symbol/scg",
+"SRE","Sempra Energy","114.93","28828053951.3","n/a","n/a","Public Utilities","Natural Gas Distribution","http://www.nasdaq.com/symbol/sre",
+"SHEN","Shenandoah Telecommunications Co","30.85","1515031962.1","n/a","n/a","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/shen",
+"SHOR","ShoreTel, Inc.","5.8","395996415.2","n/a","2007","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/shor",
+"SJW","SJW Group","51.52","1056094724.16","n/a","n/a","Public Utilities","Water Supply","http://www.nasdaq.com/symbol/sjw",
+"SKM","SK Telecom Co., Ltd.","27.21","17308785963.18","n/a","n/a","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/skm",
+"SKYS","Sky Solar Holdings, Ltd.","1.42","20255267.66","14264273","2014","Public Utilities","Electric Utilities: Central","http://www.nasdaq.com/symbol/skys",
+"SJI","South Jersey Industries, Inc.","34.43","2738837571.14","n/a","n/a","Public Utilities","Oil/Gas Transmission","http://www.nasdaq.com/symbol/sji",
+"SXE","Southcross Energy Partners, L.P.","2.93","229001223.02","n/a","2012","Public Utilities","Natural Gas Distribution","http://www.nasdaq.com/symbol/sxe",
+"SO","Southern Company (The)","47.88","47621389730.04","n/a","n/a","Public Utilities","Electric Utilities: Central","http://www.nasdaq.com/symbol/so",
+"SOJA","Southern Company (The)","27.09","0","n/a","2015","Public Utilities","Electric Utilities: Central","http://www.nasdaq.com/symbol/soja",
+"SOJB","Southern Company (The)","25.56","0","n/a","2016","Public Utilities","Electric Utilities: Central","http://www.nasdaq.com/symbol/sojb",
+"SWX","Southwest Gas Holdings, Inc.","81.88","3894169485.48","n/a","n/a","Public Utilities","Oil & Gas Production","http://www.nasdaq.com/symbol/swx",
+"SPKE","Spark Energy, Inc.","20.45","710342611","n/a","2014","Public Utilities","Power Generation","http://www.nasdaq.com/symbol/spke",
+"SPKEP","Spark Energy, Inc.","26.645","0","n/a","n/a","Public Utilities","Power Generation","http://www.nasdaq.com/symbol/spkep",
+"SEP","Spectra Energy Partners, LP","44.91","14171526951.39","n/a","2007","Public Utilities","Natural Gas Distribution","http://www.nasdaq.com/symbol/sep",
+"SR","Spire Inc.","72","3474619128","n/a","n/a","Public Utilities","Oil/Gas Transmission","http://www.nasdaq.com/symbol/sr",
+"SPOK","Spok Holdings, Inc.","17.65","362368531.75","n/a","n/a","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/spok",
+"S","Sprint Corporation","8.53","34072608676.27","n/a","2013","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/s",
+"STRP","Straight Path Communications Inc.","179.5","2279301590.5","n/a","2013","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/strp",
+"SMLP","Summit Midstream Partners, LP","23.85","1724667387.3","n/a","2012","Public Utilities","Natural Gas Distribution","http://www.nasdaq.com/symbol/smlp",
+"SUNW","Sunworks, Inc.","2.06","46227767.84","n/a","n/a","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/sunw",
+"TEGP","Tallgrass Energy GP, LP","25.99","4086393145.6","n/a","2015","Public Utilities","Natural Gas Distribution","http://www.nasdaq.com/symbol/tegp",
+"TEP","Tallgrass Energy Partners, LP","51.64","3740692433.04","n/a","2013","Public Utilities","Natural Gas Distribution","http://www.nasdaq.com/symbol/tep",
+"TRGP","Targa Resources, Inc.","45.86","9102110506.5","n/a","2010","Public Utilities","Natural Gas Distribution","http://www.nasdaq.com/symbol/trgp",
+"TCP","TC PipeLines, LP","56.69","4015838930.13","n/a","n/a","Public Utilities","Natural Gas Distribution","http://www.nasdaq.com/symbol/tcp",
+"TEO","Telecom Argentina Stet - France Telecom S.A.","28","5425979188","n/a","n/a","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/teo",
+"VIV","Telefonica Brasil S.A.","14.48","24452295201.6","n/a","n/a","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/viv",
+"TEF","Telefonica SA","10.88","54811318291.2","n/a","1988","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/tef",
+"TDA","Telephone and Data Systems, Inc.","25.24","0","n/a","n/a","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/tda",
+"TDE","Telephone and Data Systems, Inc.","26.21","0","n/a","n/a","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/tde",
+"TDI","Telephone and Data Systems, Inc.","26.39","0","n/a","n/a","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/tdi",
+"TDJ","Telephone and Data Systems, Inc.","26.35","0","n/a","n/a","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/tdj",
+"TDS","Telephone and Data Systems, Inc.","28.4","3132884258.4","n/a","n/a","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/tds",
+"TU","TELUS Corporation","36.04","21387852837.48","n/a","n/a","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/tu",
+"TVC","Tennessee Valley Authority","25.26","0","n/a","n/a","Public Utilities","Electric Utilities: Central","http://www.nasdaq.com/symbol/tvc",
+"TVE","Tennessee Valley Authority","25.04","0","n/a","n/a","Public Utilities","Electric Utilities: Central","http://www.nasdaq.com/symbol/tve",
+"GLBL","TerraForm Global, Inc.","5.05","878625517.55","n/a","2015","Public Utilities","Electric Utilities: Central","http://www.nasdaq.com/symbol/glbl",
+"TERP","TerraForm Power, Inc.","12.25","1740919334","n/a","2014","Public Utilities","Electric Utilities: Central","http://www.nasdaq.com/symbol/terp",
+"YORW","The York Water Company","36.45","468164383.2","n/a","n/a","Public Utilities","Water Supply","http://www.nasdaq.com/symbol/yorw",
+"TSU","TIM Participacoes S.A.","16.18","7834461089.1","n/a","n/a","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/tsu",
+"TMUS","T-Mobile US, Inc.","62.58","51993709808.46","n/a","n/a","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/tmus",
+"TMUSP","T-Mobile US, Inc.","101.93","0","n/a","n/a","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/tmusp",
+"TAC","TransAlta Corporation","6.5","1871372535.5","n/a","n/a","Public Utilities","Electric Utilities: Central","http://www.nasdaq.com/symbol/tac",
+"TRP","TransCanada Corporation","51.46","44827028152.82","n/a","n/a","Public Utilities","Natural Gas Distribution","http://www.nasdaq.com/symbol/trp",
+"TGS","Transportadora De Gas Sa Ord B","14.99","2381896849.44","n/a","n/a","Public Utilities","Natural Gas Distribution","http://www.nasdaq.com/symbol/tgs",
+"TKC","Turkcell Iletisim Hizmetleri AS","8.71","7664800000","n/a","n/a","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/tkc",
+"HTM","U.S. Geothermal Inc.","4.6","87581401","n/a","n/a","Public Utilities","Electric Utilities: Central","http://www.nasdaq.com/symbol/htm",
+"UGI","UGI Corporation","50.69","8775585405.04","n/a","n/a","Public Utilities","Natural Gas Distribution","http://www.nasdaq.com/symbol/ugi",
+"UGP","Ultrapar Participacoes S.A.","23.83","13259133437.68","n/a","n/a","Public Utilities","Oil/Gas Transmission","http://www.nasdaq.com/symbol/ugp",
+"USM","United States Cellular Corporation","38.66","3281642811.28","n/a","1988","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/usm",
+"UZA","United States Cellular Corporation","26.14","0","n/a","n/a","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/uza",
+"UZB","United States Cellular Corporation","26.75","0","n/a","2014","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/uzb",
+"UZC","United States Cellular Corporation","27.25","0","n/a","2015","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/uzc",
+"UTL","UNITIL Corporation","51.22","722651967.7","n/a","n/a","Public Utilities","Power Generation","http://www.nasdaq.com/symbol/utl",
+"ECOL","US Ecology, Inc.","52.75","1151138035.5","n/a","n/a","Public Utilities","Environmental Services","http://www.nasdaq.com/symbol/ecol",
+"USAC","USA Compression Partners, LP","17.47","1068782297.97","n/a","2013","Public Utilities","Natural Gas Distribution","http://www.nasdaq.com/symbol/usac",
+"VVC","Vectren Corporation","60.18","4992145962.96","n/a","n/a","Public Utilities","Natural Gas Distribution","http://www.nasdaq.com/symbol/vvc",
+"VEON","VEON Ltd.","4","5360109180","1340027295","n/a","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/veon",
+"VZ","Verizon Communications Inc.","44.23","180430507102.41","n/a","n/a","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/vz",
+"VZA","Verizon Communications Inc.","26.78","0","n/a","2014","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/vza",
+"VST","Vistra Energy Corp.","16.39","7008040002.48","n/a","n/a","Public Utilities","Electric Utilities: Central","http://www.nasdaq.com/symbol/vst",
+"VVPR","VivoPower International PLC","3.74","50704627.38","n/a","n/a","Public Utilities","Power Generation","http://www.nasdaq.com/symbol/vvpr",
+"VOD","Vodafone Group Plc","29.77","12958649955.03","435292239","n/a","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/vod",
+"VG","Vonage Holdings Corp.","6.58","1461016508.14","n/a","2006","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/vg",
+"WCN","Waste Connections, Inc.","63.93","16854175768.71","n/a","n/a","Public Utilities","Environmental Services","http://www.nasdaq.com/symbol/wcn",
+"WM","Waste Management, Inc.","75.37","33309074855.09","n/a","n/a","Public Utilities","Environmental Services","http://www.nasdaq.com/symbol/wm",
+"WEC","WEC Energy Group, Inc.","63.37","19998255298.14","n/a","n/a","Public Utilities","Power Generation","http://www.nasdaq.com/symbol/wec",
+"WR","Westar Energy, Inc.","50.37","7157243903.19","n/a","n/a","Public Utilities","Power Generation","http://www.nasdaq.com/symbol/wr",
+"WSTL","Westell Technologies, Inc.","3.18","12352347.48","n/a","1995","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/wstl",
+"WGP","Western Gas Equity Partners, LP","41.54","9094292797.8","n/a","2012","Public Utilities","Natural Gas Distribution","http://www.nasdaq.com/symbol/wgp",
+"WES","Western Gas Partners, LP","53.2","8201869802","n/a","2008","Public Utilities","Natural Gas Distribution","http://www.nasdaq.com/symbol/wes",
+"WGL","WGL Holdings Inc","85.18","4362834420","n/a","n/a","Public Utilities","Oil/Gas Transmission","http://www.nasdaq.com/symbol/wgl",
+"WMB","Williams Companies, Inc. (The)","31.45","25986341076.2","n/a","n/a","Public Utilities","Natural Gas Distribution","http://www.nasdaq.com/symbol/wmb",
+"WPZ","Williams Partners LP","40.84","39717856840.36","n/a","n/a","Public Utilities","Natural Gas Distribution","http://www.nasdaq.com/symbol/wpz",
+"WIN","Windstream Holdings, Inc.","3.9","742927785.6","n/a","n/a","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/win",
+"XEL","Xcel Energy Inc.","47.42","24078115817.02","n/a","n/a","Public Utilities","Power Generation","http://www.nasdaq.com/symbol/xel",
+"ZAYO","Zayo Group Holdings, Inc.","32.8","8060667207.2","n/a","2014","Public Utilities","Telecommunications Equipment","http://www.nasdaq.com/symbol/zayo",
