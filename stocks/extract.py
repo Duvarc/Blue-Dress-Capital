@@ -29,9 +29,8 @@ def read():
 def shorten():
 	for i in range(len(stocks)):
 		stocks[i] = stocks[i][:2] + stocks[i][5:8]
-
-def sort():
 	stocks.sort()
+	stocks.insert(0, ['Symbol', 'Name', 'IPOyear', 'Sector', 'Industry'])
 
 def write():
 	with open('all_stocks.csv', 'w') as csvfile:
@@ -40,6 +39,5 @@ def write():
 			writer.writerow(row)
 read()
 shorten()
-sort()
 write()
 
