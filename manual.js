@@ -538,6 +538,7 @@ function model1(net_profit) {
 }
 
 // distributes excess profit to everyone in proportion to their pure profits
+// og algorithm but fixed (i think) (kinda)
 function model2(net_profit) {
 	var total = sum(profits);
 	for (member in profits) {
