@@ -567,6 +567,15 @@ function model3(net_profit) {
 	console.log(returns)
 }
 
+// pure profit sharing
+function model4(net_profit) {
+	var total = sum(profits);
+	for (member in profits) {
+		returns[member] = profits[member] / total * net_profit;
+	}
+	console.log(returns)
+}
+
 function calc_profits(total_deposits) {
 	var final = history[current_week]
 	var net_profit = final - total_deposits
@@ -591,6 +600,8 @@ function calc_profits(total_deposits) {
 	model2(net_profit)
 
 	model3(net_profit)
+
+	model4(net_profit)
 
 }
 
