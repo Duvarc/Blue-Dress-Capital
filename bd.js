@@ -1,7 +1,7 @@
 var portfolio = {'KLAC': 0, 'LRCX': 0, 'ADI': 0, 'ACN': 0, 'cash': 0};
-var deposits = {'hung-wei': [100, 0, 200, 500], 'suhas': [500, 100, 100, 100], 'ralles': [1000, 1000, 500, 1000]};
+var deposits = {'hung-wei': [1000, 0, 0, 0], 'suhas': [1000, 0, 0, 100], 'ralles': [0, 0, 1000, 00]};
 var profits = {'hung-wei': 0, 'suhas': 0, 'ralles': 0}
-var prices = {'KLAC': [96, 93, 92, 97], 'LRCX': [149, 142, 139, 154], 'ADI': [77, 76, 75, 80], 'ACN': [100, 80, 70, 110]};
+var prices = {'KLAC': [100, 100, 150, 110], 'LRCX': [100, 100, 150, 100], 'ADI': [100, 100, 150, 110], 'ACN': [100, 80, 70, 110]};
 
 // [Week open at 9:30 am, Week close at 4pm] for more accurate information
 var week_mappings = {1: ["6/26/17", "6/30/17"], 2: ["7/3/17", "7/7/17"]}
