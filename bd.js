@@ -1,7 +1,7 @@
 var portfolio = {'KLAC': 0, 'LRCX': 0, 'ADI': 0, 'ACN': 0, 'cash': 0};
-var deposits = {'hung-wei': [1000, 0, 0, 0], 'suhas': [1000, 0, 0, 100], 'ralles': [0, 0, 1000, 00]};
+var deposits = {'hung-wei': [100, 0, 200, 500], 'suhas': [500, 100, 100, 100], 'ralles': [0, 0, 3500, 00]};
 var profits = {'hung-wei': 0, 'suhas': 0, 'ralles': 0}
-var prices = {'KLAC': [100, 100, 150, 110], 'LRCX': [100, 100, 150, 100], 'ADI': [100, 100, 150, 110], 'ACN': [100, 80, 70, 110]};
+var prices = {'KLAC': [96, 93, 92, 97], 'LRCX': [149, 142, 139, 154], 'ADI': [77, 76, 75, 80], 'ACN': [100, 80, 70, 110]};
 
 // [Week open at 9:30 am, Week close at 4pm] for more accurate information
 var week_mappings = {1: ["6/26/17", "6/30/17"], 2: ["7/3/17", "7/7/17"]}
@@ -32,7 +32,6 @@ function value(port=portfolio, week=current_week) {
 }
 function deposit(name, amount, week=current_week) {
 	portfolio['cash'] += amount;
-	deposits[name][week-1] = amount;
 	return amount;
 }
 function add_stock(stock, amount, week=current_week) {
@@ -59,7 +58,7 @@ function cum_deposits(week=current_week) {
 	return s;
 }
 function update_history(portfolio, week=current_week) {
-	history[week-1] = value(portfolio, week);
+	history[week-1] = value(portfolio, week)
 }
 function normalize_deposits(total) {
 	for (i = 1; i <= history.length; i++) {
@@ -68,8 +67,8 @@ function normalize_deposits(total) {
 	}
 }
 function calc_profits() {
-	var final = history[current_week-1];
-	var net_profit = final - total_deposits;
+	var final = history[current_week-1]
+	var net_profit = final - total_deposits
 
 	for (i = 0; i < current_week; i++) {
 		var curr = history_norm[i];
@@ -82,7 +81,6 @@ function calc_profits() {
 		}
 	}
 	console.log('net profit ' + net_profit);
-	console.log(total)
 	for (member in profits) {
 		profits[member] = net_profit * profits[member] / total;
 	}
@@ -93,7 +91,7 @@ function run() {
 	for (week = 1; week <= current_week; week++) {
 		// Process deposits
 		for (member in deposits) {
-			total_deposits += deposit(member, deposits[member][week-1]);
+			total_deposits += deposit(member, deposits[member][week-1])
 		}
 
 		// Purchase stock
@@ -106,7 +104,7 @@ function run() {
 	console.log(portfolio);
 	// Similar to robinhood
 	normalize_deposits(total_deposits);
-	console.log(history_norm);
+	console.log(history_norm)
 
 	calc_profits();
 
