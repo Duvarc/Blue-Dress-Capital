@@ -551,6 +551,25 @@ function model2(net_profit) {
 	console.log(returns)
 }
 
+function model2norm(net_profit) {
+	model2(net_profit)
+	var copy = new Array(returns.length);
+	for (member in returns) {
+		copy[member] = returns[member];
+	}
+
+	for (member in copy) {
+		var x = returns[member] / 10;
+		for (o in copy) {
+			if (o !== member) {
+				copy[o] += x / 10;
+			}
+		}
+		copy[member] -= x;
+	}
+	console.log(copy);
+}
+
 // model2 but squared
 function model3(net_profit) {
 	var total = sum(profits);
@@ -569,9 +588,28 @@ function model3(net_profit) {
 
 // pure profit sharing
 function model4(net_profit) {
+	console.log(profits)
+	print(losses)
 	var total = sum(profits);
 	for (member in profits) {
 		returns[member] = profits[member] / total * net_profit;
+	}
+	console.log(returns)
+}
+
+function model5(net_profit) {
+
+}
+
+function mode6(net_profit) {
+	var total = sum(profits);
+	var total2 = sum(losses)
+	for (member in profits) {
+		returns[member] = net_profit * (profits[member] - losses[member]) / ((total + total2) / 2);
+	}
+	var bank = net_profit - sum(returns)
+	for (member in profits) {
+		returns[member] = bank * sum(deposits[member]) / total_deposits;
 	}
 	console.log(returns)
 }
@@ -582,11 +620,11 @@ function calc_profits(total_deposits) {
 
 	for (i = 0; i <= current_week; i++) {
 		var curr = history[i];
-		var diff = (final - curr)
+		var diff = (final - curr) / final;
 
 		for (member in profits) {
 			if (diff >= 0) {
-				profits[member] += diff * deposits[member][i];
+				profits[member] += (diff * deposits[member][i]);
 			}
 			else {
 				losses[member] += Math.abs(diff * deposits[member][i]);
@@ -595,13 +633,15 @@ function calc_profits(total_deposits) {
 	}
 	console.log('net profit ' + net_profit);
 
-	model1(net_profit)
+	// model1(net_profit)
 
-	model2(net_profit)
+	model2norm(net_profit)
 
-	model3(net_profit)
+	// model3(net_profit)
 
-	model4(net_profit)
+	// model4(net_profit)
+
+	// model5(net_profit)
 
 }
 
