@@ -635,8 +635,14 @@ function model7(net_profit) {
 		returns[member] = net_profit * (profits[member] - losses[member]) / ((total + total2));
 	}
 	var bank = net_profit - sum(returns);
-	for (member in returns) {
-		returns[member] += bank * profits[member] / total;
+	if (net_profit > 0) {
+		for (member in returns) {
+			returns[member] += bank * profits[member] / total;
+		}
+	} else {
+		for (member in returns) {
+			returns[member] += bank * losses[member] / total2;
+		}
 	}
 	console.log(returns)
 }
