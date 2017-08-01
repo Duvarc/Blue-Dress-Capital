@@ -630,17 +630,13 @@ function model6(net_profit) {
 function model7(net_profit) {
 	var total = sum(profits);
 	var total2 = sum(losses)
+
 	for (member in returns) {
-		returns[member] = net_profit * (profits[member] - losses[member]) / ((total + total2) / 2);
+		returns[member] = net_profit * (profits[member] - losses[member]) / ((total + total2));
 	}
 	var bank = net_profit - sum(returns);
 	for (member in returns) {
-		returns[member] = bank * profits[member] / total;
-	}
-	if (net_profit > 0 && bank < 0) {
-		for (member in returns) {
-			returns[member] *= -1
-		}
+		returns[member] += bank * profits[member] / total;
 	}
 	console.log(returns)
 }
@@ -663,7 +659,6 @@ function calc_profits(total_deposits) {
 		}
 	}
 	console.log('net profit ' + net_profit);
-
 	model1(net_profit)
 
 	// model2norm(net_profit)
