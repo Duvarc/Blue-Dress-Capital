@@ -5,7 +5,7 @@ var losses = {'Bill': 0, 'David': 0, 'Hung-wei': 0, 'Jason': 0, 'Rahul': 0, 'Ral
 'Jonathan': 0, 'Kristin': 0, 'Mihir': 0, 'Nitish': 0};
 var returns = {'Bill': 0, 'David': 0, 'Hung-wei': 0, 'Jason': 0, 'Rahul': 0, 'Ralles': 0, 'Rishov': 0, 'Selena': 0, 'Suhas': 0, 'Taiway': 0,
 'Jonathan': 0, 'Kristin': 0, 'Mihir': 0, 'Nitish': 0};
-var current_week = 30;
+var current_week = 31;
 
 deposits = new Array(14);
 deposits['Bill'] = new Array(30);
@@ -40,6 +40,7 @@ deposits['Bill'][27] = 0;
 deposits['Bill'][28] = 0;
 deposits['Bill'][29] = 1500;
 deposits['Bill'][30] = 0;
+deposits['Bill'][31] = 0;
 
 deposits['David'] = new Array(30);
 deposits['David'][0] = 0;
@@ -73,6 +74,7 @@ deposits['David'][27] = 0;
 deposits['David'][28] = 0;
 deposits['David'][29] = 0;
 deposits['David'][30] = 0;
+deposits['David'][31] = 0;
 
 deposits['Hung-wei'] = new Array(30);
 deposits['Hung-wei'][0] = 1400;
@@ -106,6 +108,7 @@ deposits['Hung-wei'][27] = 0;
 deposits['Hung-wei'][28] = 0;
 deposits['Hung-wei'][29] = 0;
 deposits['Hung-wei'][30] = 0;
+deposits['Hung-wei'][31] = 0;
 
 deposits['Jason'] = new Array(30);
 deposits['Jason'][0] = 1500;
@@ -139,6 +142,7 @@ deposits['Jason'][27] = 0;
 deposits['Jason'][28] = 1000;
 deposits['Jason'][29] = 0;
 deposits['Jason'][30] = 0;
+deposits['Jason'][31] = 0;
 
 deposits['Jonathan'] = new Array(30);
 deposits['Jonathan'][0] = 0;
@@ -172,6 +176,7 @@ deposits['Jonathan'][27] = 500;
 deposits['Jonathan'][28] = 0;
 deposits['Jonathan'][29] = 0;
 deposits['Jonathan'][30] = 0;
+deposits['Jonathan'][31] = 0;
 
 deposits['Kristin'] = new Array(30);
 deposits['Kristin'][0] = 100;
@@ -204,7 +209,8 @@ deposits['Kristin'][26] = 0;
 deposits['Kristin'][27] = 0;
 deposits['Kristin'][28] = 0;
 deposits['Kristin'][29] = 0;
-deposits['Kristin'][30] = 0;
+deposits['Kristin'][30] = 0
+deposits['Kristin'][31] = 0;
 
 deposits['Mihir'] = new Array(30);
 deposits['Mihir'][0] = 200;
@@ -238,6 +244,7 @@ deposits['Mihir'][27] = 0;
 deposits['Mihir'][28] = 0;
 deposits['Mihir'][29] = 0;
 deposits['Mihir'][30] = 0;
+deposits['Mihir'][31] = 0;
 
 deposits['Nitish'] = new Array(30);
 deposits['Nitish'][0] = 500;
@@ -271,6 +278,7 @@ deposits['Nitish'][27] = 0;
 deposits['Nitish'][28] = 0;
 deposits['Nitish'][29] = 400;
 deposits['Nitish'][30] = 0;
+deposits['Nitish'][31] = 0;
 
 deposits['Rahul'] = new Array(30);
 deposits['Rahul'][0] = 100;
@@ -303,8 +311,8 @@ deposits['Rahul'][26] = 0;
 deposits['Rahul'][27] = 0;
 deposits['Rahul'][28] = 0;
 deposits['Rahul'][29] = 0;
-deposits['Rahul'][30] = 0;
-
+deposits['Rahul'][30] = 0
+deposits['Rahul'][31] = 0;
 
 deposits['Ralles'] = new Array(30);
 deposits['Ralles'][0] = 1500;
@@ -338,6 +346,7 @@ deposits['Ralles'][27] = 0;
 deposits['Ralles'][28] = 0;
 deposits['Ralles'][29] = 0;
 deposits['Ralles'][30] = 0;
+deposits['Ralles'][31] = 0;
 
 deposits['Rishov'] = new Array(30);
 deposits['Rishov'][0] = 100;
@@ -371,6 +380,7 @@ deposits['Rishov'][27] = 0;
 deposits['Rishov'][28] = 0;
 deposits['Rishov'][29] = 0;
 deposits['Rishov'][30] = 0;
+deposits['Rishov'][31] = 0;
 
 deposits['Selena'] = new Array(30);
 deposits['Selena'][0] = 100;
@@ -404,6 +414,7 @@ deposits['Selena'][27] = 0;
 deposits['Selena'][28] = 0;
 deposits['Selena'][29] = 0;
 deposits['Selena'][30] = 0;
+deposits['Selena'][31] = 0;
 
 
 deposits['Suhas'] = new Array(30);
@@ -438,6 +449,7 @@ deposits['Suhas'][27] = 0;
 deposits['Suhas'][28] = 500;
 deposits['Suhas'][29] = 0;
 deposits['Suhas'][30] = 0;
+deposits['Suhas'][31] = 0;
 
 
 deposits['Taiway'] = new Array(30);
@@ -472,7 +484,7 @@ deposits['Taiway'][27] = 0;
 deposits['Taiway'][28] = 0;
 deposits['Taiway'][29] = 0;
 deposits['Taiway'][30] = 0;
-
+deposits['Taiway'][31] = 0;
 
 history = new Array(31);
 history[0] = 30600;
@@ -506,6 +518,7 @@ history[27] = 31096.631;
 history[28] = 30936.631;
 history[29] = 30872.334;
 history[30] = 30728.835;
+history[31] = 30927.00;
 
 function print(s) {
 	console.log(s);
@@ -617,12 +630,17 @@ function model6(net_profit) {
 function model7(net_profit) {
 	var total = sum(profits);
 	var total2 = sum(losses)
-	for (member in profits) {
-		returns[member] = Math.abs(net_profit) * (profits[member] - losses[member]) / ((total + total2) / 2);
+	for (member in returns) {
+		returns[member] = net_profit * (profits[member] - losses[member]) / ((total + total2) / 2);
 	}
-	var bank = net_profit - sum(returns)
-	for (member in profits) {
+	var bank = net_profit - sum(returns);
+	for (member in returns) {
 		returns[member] = bank * profits[member] / total;
+	}
+	if (net_profit > 0 && bank < 0) {
+		for (member in returns) {
+			returns[member] *= -1
+		}
 	}
 	console.log(returns)
 }
@@ -646,11 +664,11 @@ function calc_profits(total_deposits) {
 	}
 	console.log('net profit ' + net_profit);
 
-	// model1(net_profit)
+	model1(net_profit)
 
 	// model2norm(net_profit)
 
-	// model3(net_profit)
+	model3(net_profit)
 
 	// model4(net_profit)
 
