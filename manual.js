@@ -519,6 +519,7 @@ history[28] = 30936.631;
 history[29] = 30872.334;
 history[30] = 30728.835;
 history[31] = 30927.00;
+history[31] = 30500.00;
 
 function print(s) {
 	console.log(s);
@@ -536,10 +537,18 @@ function sum(lst) {
 function model1(net_profit) {
 	for (member in profits) {
 		var d = profits[member] - losses[member];
-		if (d > 0) {
-			returns[member] = d;
+		if (net_profit >= 0) {
+			if (d > 0) {
+				returns[member] = d;
+			} else {
+				returns[member] = 0;
+			}
 		} else {
-			returns[member] = 0;
+			if (d > 0) {
+				returns[member] = 0;
+			} else {
+				returns[member] = d;
+			}
 		}
 	}
 	var tot = sum(returns);
@@ -632,7 +641,20 @@ function model7(net_profit) {
 	var total2 = sum(losses)
 
 	for (member in returns) {
-		returns[member] = net_profit * (profits[member] - losses[member]) / ((total + total2));
+		var p = net_profit * (profits[member] - losses[member]) / ((total + total2));
+		if (net_profit >= 0) {
+			if (p > 0) {
+				returns[member] = p;
+			} else {
+				returns[member] = 0;
+			}
+		} else {
+			if (p > 0) {
+				returns[member] = 0;
+			} else {
+				returns[member] = p;
+			}
+		}
 	}
 	var bank = net_profit - sum(returns);
 	if (net_profit > 0) {
@@ -665,7 +687,7 @@ function calc_profits(total_deposits) {
 		}
 	}
 	console.log('net profit ' + net_profit);
-	model1(net_profit)
+	model2(net_profit)
 
 	// model2norm(net_profit)
 
