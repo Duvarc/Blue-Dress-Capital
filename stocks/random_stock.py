@@ -18,10 +18,10 @@ def pick_random(year='d', sector='d', industry='d'):
 		lst = list(filter(lambda x: x[4] == industry, lst))
 	return random.choice(lst)
 
-def random_portfolio(year='d', sector='d', industry='d', size=10):
+def random_portfolio(year='d', sector='d', industry='d', size=15):
 	return [pick_random(year, sector, industry) for i in range(size)]
 
-def print_port(year='d', sector='d', industry='d', size=10):
+def print_port(year='d', sector='d', industry='d', size=15):
 	for i in random_portfolio(year, sector, industry, size):
 		print(i)
 

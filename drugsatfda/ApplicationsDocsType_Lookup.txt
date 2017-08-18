@@ -1,0 +1,23 @@
+ApplicationDocsType_Lookup_ID	ApplicationDocsType_Lookup_Description
+1	Letter
+2	Label
+3	Review
+4	FDA Talk Paper
+5	FDA Press Release
+6	Patient Package Insert
+7	Dear Health Professional Letter
+8	Medication Guide
+9	Withdrawal Notice
+10	Other Important Information from FDA
+11	Consumer Information Sheet
+12	Exclusivity Letter
+13	Questions and Answers
+14	Other
+15	Patient Information Sheet
+16	Healthcare Professional Sheet
+17	Pediatric Summary, Medical Review
+18	Pediatric Summary, Clinical Pharmacology Review
+19	REMS
+20	Pediatric Summary, Clinical Pharmacology Review
+21	Summary Review
+22	Federal Register Notice
