@@ -3,10 +3,11 @@ import re
 from string import digits
 
 class Company():
-	def __init__(self, name, alts=[], drugs=[]):
+	def __init__(self, name, short="", alts=[], drugs=[], ticker="", pipeline=[]):
 		self.name = name
 		self.alts = alts
 		self.drugs = drugs
+		self.ticker = ticker
 	def __str__(self):
 		return self.name + "\n[" + ', '.join(self.alts) + "]"
 
@@ -40,6 +41,7 @@ drugs = {}
 drugs2 = {}
 comp = {}
 alts = {}
+stocks = {}
 
 def info(x):
 	x = x.upper()
@@ -67,9 +69,10 @@ with open('drugsatfda/Applications.txt', 'r') as f2:
 
 temp = set()
 for p in pharma:
-	extra = ["PHARMS", "PHARM", "PHARMA", "AND CO", "INC", "LLP", "ONCOLOGY", "CORP", "ON", " HEALTH", "LLC",
-	"HOLDINGS", "INTL", "LABS", "IDEC", "SCIENCES", "CONSUMER", "COMPANY", "US", "UK", "LTD"]
-	extra2 = ["(UK)", "(US)", "(USA)", "(us)", "(uk)"]
+	extra = ["PHARMS", "PHARM", "PHARMA", "AND CO", "INC", "LLP", "ONCOLOGY", "CORP", "ON", "HEALTH", "LLC",
+	"HOLDINGS", "INTL", "LABS", "IDEC", "SCIENCES", "CONSUMER", "COMPANY", "US", "UK", "LTD", "MEDCL"]
+	extra2 = ["(UK)", "(US)", "(USA)", "(us)", "(uk)", "PLAC"]
+	subs = {"MEDCL": "MEDICAL"}
 	if " " in p and len(p.split()[0]) > 2:
 		for e in extra:
 			# if e in p:
@@ -101,6 +104,8 @@ for p in pharma:
 			if index:
 				s = p[:index.start()].strip()
 				temp.add(s)
+		for e in subs:
+			temp.add(p.replace(e, subs[e]))
 
 for p in temp:
 	pharma.add(p)
@@ -111,7 +116,7 @@ while pharma:
 		pharma.remove(m)
 		continue
 	alts[m] = m
-	comp[m] = Company(m, [], [])
+	comp[m] = Company(m, m, [], [])
 	for c in pharma:
 		case1 = " " in m and m in c
 		case2 = " " not in m and m in re.split('[- ]', c) and c not in comp[m].alts
@@ -133,7 +138,7 @@ with open('drugsatfda/Products.txt', 'r') as f1, open('drugsatfda/Applications.t
 	for row in reader:
 		brand,generic = row[5], row[6]
 		# brand = re.sub("\d+", "", brand).strip()
-		index = re.search("\d", brand)
+		index = re.search("\\b\d\\b", brand)
 		if index:
 			brand = brand[:index.start()].strip()
 
@@ -151,7 +156,7 @@ with open('drugsatfda/Products.txt', 'r') as f1, open('drugsatfda/Applications.t
 			drugs[brand] = d
 
 			delim = [";", "AND"]
-			modifiers = ["HYDROCHLORIDE"]
+			modifiers = ["HYDROCHLORIDE", "PHOSPHATE"]
 			# ";|\\band\\b"
 
 			ingredients = re.split(drug_delimiters(delim), generic)
@@ -185,12 +190,66 @@ with open('drugsatfda/Products.txt', 'r') as f1, open('drugsatfda/Applications.t
 for d in drugs:
 	drugs[d].strength.sort()
 
-info('opdivo')
-info('vyvanse')
-info('velphoro')
-info('oxycodone hydrochloride')
-info('adderall')
+with open('stocks/Healthcare.csv') as csvfile:
+	reader = csv.reader(csvfile)
+	for row in reader:
+		ticker = row[0]
+		name = row[1]
 
-# company_drugs('GILEAD')
-info('J AND J')
-info('Bristol')
+		extra = {"PHARMS", "PHARM", "PHARMA", "CO", "INC", "LLP", "ONCOLOGY", "CORP", "ON", "HEALTH", "LLC",
+		"HOLDINGS", "INTL", "LABS", "IDEC", "SCIENCES", "CONSUMER", "COMPANY", "US", "UK", "LTD", "MEDCL",
+		"(UK)", "(US)", "(USA)", "(us)", "(uk)", "THERAPEUTICS", "BIOTHERAPEUTICS", "PHARMACEUTICALS", "HOLDINGS",
+		"HEALTHCARE", "BIOSCIENCES", "LIFESCIENCES", "INTERNATIONAL", "PHARMACEUTICAL", "BIOPHARMACEUTICAL", "GROUP",
+		"INC.", "LTD.", "CORPORATION", "N.V", "INCORPORATED", "BIOPHARMACEUTICALS", "LIMITED", "THERAPIES", "PLC",
+		"MEDICAL", "INDUSTRIES", "BIOPHARMA", "SYSTEMS", "TECHNOLOGY", "SURGICAL", "N.V.", "AB", "A.B.", "SA", "S.A.",
+		"NV", "BIOGENICS", "PRODUCTS", "SERVICES", "BIOTECHNOLOGIES", "TECHNOLOGIES", "ROBOTICS", "ENTERPRISES",
+		"AG", "A/S", "CORP.", "GENETICS", "GENOMICS", "BIO", "BIO.", "GLOBAL", "RESEARCH", "CARE", "HOLDING",
+		"BIOLOGICS", "PARTNERS", "BIOSYSTEMS", "CARE", "BIOTECH", "BIOTECHNOLOGY", "THERAPEUTIX", "BIOSCIENCE",
+		"INNOVATIONS", "DIAGNOSTICS", "LABORATORIES", "BIOSOLUTIONS", "PHARMACY", "SOLUTIONS", "SE", "PLC.",
+		"MEDICINE", "BIOMEDICAL"}
+
+		n = re.sub(",", "", name)
+		name = re.sub(",", "", name)
+		if name[-1] == '.':
+			name = name[:-1]
+		n = re.split("\\(+|\\)+| +|-+", n)
+		index = len(n) - 1
+		while index > 0:
+			if not n[index] or n[index].upper() in extra or n[index].upper() == "AND" or n[index].upper() == "&":
+				index -= 1
+			else:
+				break
+		n = ' '.join(n[:index+1])
+		n = re.sub(" +", " ", n).strip().upper()
+		if n in alts:
+			c = comp[alts[n]]
+			c.name = name.upper()
+			c.ticker = ticker
+			stocks[ticker] = c
+		else:
+			c = Company(name, n, [], [])
+			alts[name] = n
+			alts[n] = n
+			comp[n] = c
+			c.ticker = ticker
+			stocks[ticker] = c
+# for c in comp.values():
+# 	if c.ticker:
+# 		print(c.name + "\t" + c.ticker)
+
+# info('opdivo')
+# info('vyvanse')
+# info('velphoro')
+# info('oxycodone hydrochloride')
+# info('adderall')
+
+# # company_drugs('GILEAD')
+# info('J AND J')
+info('gilead')
+info('histamine')
+# info('Rockwell MEDCL')
+# info('abbott')
+
+# for c in comp:
+# 	print(c)
+
