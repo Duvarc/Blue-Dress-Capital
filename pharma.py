@@ -46,6 +46,8 @@ drugs2 = {}
 comp = {}
 # Alternate names of companies
 alts = {}
+# brand alts
+b_alts = {}
 stocks = {}
 
 def info(x):
@@ -57,6 +59,8 @@ def info(x):
 			print(i.info())
 	elif x in drugs:
 		print(drugs[x].info())
+	elif x in b_alts:
+		print(drugs[b_alts[x]].info())
 	elif x in alts:
 		c = comp[alts[x.upper()]]
 		print(c)
@@ -145,7 +149,7 @@ with open('drugsatfda/Products.txt', 'r') as f1, open('drugsatfda/Applications.t
 	next(reader)
 	apps = next(reader2)
 	for row in reader:
-		brand,generic = row[5], row[6]
+		brand, generic = row[5].strip(), row[6].strip()
 		# brand = re.sub("\d+", "", brand).strip()
 		index = re.search("\\b\d\\b", brand)
 		if index:
@@ -165,18 +169,27 @@ with open('drugsatfda/Products.txt', 'r') as f1, open('drugsatfda/Applications.t
 			drugs[brand] = d
 
 			delim = [";", "AND"]
-			modifiers = ["HYDROCHLORIDE", "PHOSPHATE"]
+			b_modifiers = ["L.R."]
+			g_modifiers = ["HYDROCHLORIDE", "PHOSPHATE"]
 			# ";|\\band\\b"
+			b_ingredients = re.split(drug_delimiters(delim), brand)
+			for i in b_ingredients:
+				for m in b_modifiers:
+					index = re.search(m, i)
+					if index:
+						s = i[:index.start()].strip()
+						b_alts[s] = brand
 
-			ingredients = re.split(drug_delimiters(delim), generic)
-			for i in ingredients:
+			g_ingredients = re.split(drug_delimiters(delim), generic)
+
+			for i in g_ingredients:
 				if i:
 					if i in drugs2 and d not in drugs2[i]:
 						drugs2[i].append(d)
 					else:
 						drugs2[i] = [d]
 
-					for m in modifiers:
+					for m in g_modifiers:
 						index = re.search("\\b" + m + "\\b", i)
 						if index:
 							s = i[:index.start()].strip()
