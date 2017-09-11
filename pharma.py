@@ -86,7 +86,10 @@ for p in pharma:
 	"HOLDINGS", "INTL", "LABS", "IDEC", "SCIENCES", "CONSUMER", "COMPANY", "US", "UK", "LTD", "MEDCL"]
 	extra2 = ["(UK)", "(US)", "(USA)", "(us)", "(uk)", "PLC"]
 	subs = {"MEDCL": "MEDICAL"}
-	if " " in p and len(p.split()[0]) > 2:
+	if " " in p:
+		first = p.split()[0]
+		if len(first) < 2 or first.upper() == "THE":
+			continue
 		for e in extra:
 			# if e in p:
 			# 	index = re.search(e, p)
@@ -151,9 +154,12 @@ with open('drugsatfda/Products.txt', 'r') as f1, open('drugsatfda/Applications.t
 	for row in reader:
 		brand, generic = row[5].strip(), row[6].strip()
 		# brand = re.sub("\d+", "", brand).strip()
-		index = re.search("\\b\d\\b", brand)
-		if index:
-			brand = brand[:index.start()].strip()
+		# index = re.search("\\b\d\\b", brand)
+		# if index:
+		# 	brand = brand[:index.start()].strip()
+		index2 = re.search("[^a-zA-Z0-9]+\d+", brand)
+		if index2:
+			brand = brand[:index2.start()].strip()
 
 		strength = row[3].replace(fedString, '').strip()
 		arr = strength.split(';')
@@ -241,8 +247,12 @@ with open('stocks/Healthcare.csv') as csvfile:
 				index -= 1
 			else:
 				break
-		n = ' '.join(n[:index+1])
-		n = re.sub(" +", " ", n).strip().upper()
+		if n[0] != "The":
+			n = ' '.join(n[:index+1])
+			n = re.sub(" +", " ", n).strip().upper()
+		else:
+			n = ' '.join(n).upper()
+
 		if n in alts:
 			c = comp[alts[n]]
 			if c.name != name:
