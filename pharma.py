@@ -38,9 +38,13 @@ def drug_delimiters(lst):
 	return s[:-1]
 
 pharma = set()
+# Brand name -> drug
 drugs = {}
+# Generic name -> brand name
 drugs2 = {}
+# Companies
 comp = {}
+# Alternate names of companies
 alts = {}
 stocks = {}
 
@@ -198,8 +202,8 @@ for d in drugs:
 with open('stocks/Healthcare.csv') as csvfile:
 	reader = csv.reader(csvfile)
 	for row in reader:
-		ticker = row[0]
-		name = row[1]
+		ticker = row[0].strip()
+		name = row[1].strip()
 
 		extra = {"PHARMS", "PHARM", "PHARMA", "CO", "INC", "LLP", "ONCOLOGY", "CORP", "ON", "HEALTH", "LLC",
 		"HOLDINGS", "INTL", "LABS", "IDEC", "SCIENCES", "CONSUMER", "COMPANY", "US", "UK", "LTD", "MEDCL",
@@ -228,6 +232,9 @@ with open('stocks/Healthcare.csv') as csvfile:
 		n = re.sub(" +", " ", n).strip().upper()
 		if n in alts:
 			c = comp[alts[n]]
+			if c.name != name:
+				c.alts.append(c.name)
+			alts[name.upper()] = c.name
 			c.name = name.upper()
 			c.ticker = ticker
 			stocks[ticker] = c
@@ -238,6 +245,10 @@ with open('stocks/Healthcare.csv') as csvfile:
 			comp[n] = c
 			c.ticker = ticker
 			stocks[ticker] = c
+
+for d in drugs.values():
+	d.sponsor = comp[alts[d.sponsor]].name
+
 # for c in comp.values():
 # 	if c.ticker:
 # 		print(c.name + "\t" + c.ticker)
@@ -250,9 +261,11 @@ with open('stocks/Healthcare.csv') as csvfile:
 
 # # company_drugs('GILEAD')
 # info('J AND J')
-info('gilead')
-info('histamine')
-info('sny')
+while True:
+	x = input('Search:\t')
+	if x == 'q':
+		break
+	info(x)
 # info('Rockwell MEDCL')
 # info('abbott')
 
