@@ -5,6 +5,7 @@ from string import digits
 class Company():
 	def __init__(self, name, short="", alts=[], drugs=[], ticker="", pipeline=[]):
 		self.name = name
+		self.short = short
 		self.alts = alts
 		self.drugs = drugs
 		self.ticker = ticker
@@ -45,7 +46,9 @@ stocks = {}
 
 def info(x):
 	x = x.upper()
-	if x in drugs2:
+	if x in stocks:
+		info(stocks[x].short)
+	elif x in drugs2:
 		for i in drugs2[x]:
 			print(i.info())
 	elif x in drugs:
@@ -53,6 +56,8 @@ def info(x):
 	elif x in alts:
 		c = comp[alts[x.upper()]]
 		print(c)
+		print()
+		print("Ticker: " + c.ticker)
 		print()
 		print("Drugs:")
 		print(c.drugs)
@@ -71,7 +76,7 @@ temp = set()
 for p in pharma:
 	extra = ["PHARMS", "PHARM", "PHARMA", "AND CO", "INC", "LLP", "ONCOLOGY", "CORP", "ON", "HEALTH", "LLC",
 	"HOLDINGS", "INTL", "LABS", "IDEC", "SCIENCES", "CONSUMER", "COMPANY", "US", "UK", "LTD", "MEDCL"]
-	extra2 = ["(UK)", "(US)", "(USA)", "(us)", "(uk)", "PLAC"]
+	extra2 = ["(UK)", "(US)", "(USA)", "(us)", "(uk)", "PLC"]
 	subs = {"MEDCL": "MEDICAL"}
 	if " " in p and len(p.split()[0]) > 2:
 		for e in extra:
@@ -247,6 +252,7 @@ with open('stocks/Healthcare.csv') as csvfile:
 # info('J AND J')
 info('gilead')
 info('histamine')
+info('sny')
 # info('Rockwell MEDCL')
 # info('abbott')
 
